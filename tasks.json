@@ -1,0 +1,3410 @@
+[
+  {
+    "number": "SG-001",
+    "game": "dst",
+    "pack": "core",
+    "type": "repair",
+    "title": {
+      "en": "DST Fixed: gifts and bundles misbehave when they are opened from an inventory",
+      "zh": "DST Fixed: gifts and bundles misbehave when they are opened from an inventory"
+    },
+    "difficulty": "hard",
+    "minutes": 120,
+    "source": {
+      "name": "DST Fixed",
+      "license": "Apache-2.0"
+    },
+    "note": null
+  },
+  {
+    "number": "SG-002",
+    "game": "dst",
+    "pack": "core",
+    "type": "repair",
+    "title": {
+      "en": "DST Fixed: five optional modules misbehave on our server",
+      "zh": "DST Fixed: five optional modules misbehave on our server"
+    },
+    "difficulty": "hard",
+    "minutes": 150,
+    "source": {
+      "name": "DST Fixed",
+      "license": "Apache-2.0"
+    },
+    "note": null
+  },
+  {
+    "number": "SG-003",
+    "game": "dst",
+    "pack": "core",
+    "type": "repair",
+    "title": {
+      "en": "Composting Together: the compost pile misbehaves on a dedicated server",
+      "zh": "Composting Together: the compost pile misbehaves on a dedicated server"
+    },
+    "difficulty": "hard",
+    "minutes": 150,
+    "source": {
+      "name": "Composting Together",
+      "license": "MIT"
+    },
+    "note": null
+  },
+  {
+    "number": "SG-004",
+    "game": "dst",
+    "pack": "core",
+    "type": "repair",
+    "title": {
+      "en": "DsMMO: skill handlers throw Lua errors on a live server",
+      "zh": "DsMMO: skill handlers throw Lua errors on a live server"
+    },
+    "difficulty": "medium",
+    "minutes": 90,
+    "source": {
+      "name": "DsMMO",
+      "license": "Apache-2.0"
+    },
+    "note": null
+  },
+  {
+    "number": "SG-005",
+    "game": "dst",
+    "pack": "core",
+    "type": "repair",
+    "title": {
+      "en": "Glassic API: recipe sorting and mod skins break other mods",
+      "zh": "Glassic API: recipe sorting and mod skins break other mods"
+    },
+    "difficulty": "medium",
+    "minutes": 90,
+    "source": {
+      "name": "Glassic API",
+      "license": "Apache-2.0"
+    },
+    "note": null
+  },
+  {
+    "number": "SG-006",
+    "game": "dst",
+    "pack": "construct",
+    "type": "construct",
+    "title": {
+      "en": "Server-authoritative camp supply ledger",
+      "zh": "Server-authoritative camp supply ledger"
+    },
+    "difficulty": "hard",
+    "minutes": 360,
+    "source": null,
+    "note": null
+  },
+  {
+    "number": "SG-007",
+    "game": "dst",
+    "pack": "construct",
+    "type": "construct",
+    "title": {
+      "en": "Crash-safe container transfer transaction",
+      "zh": "Crash-safe container transfer transaction"
+    },
+    "difficulty": "hard",
+    "minutes": 420,
+    "source": null,
+    "note": null
+  },
+  {
+    "number": "SG-008",
+    "game": "dst",
+    "pack": "construct",
+    "type": "construct",
+    "title": {
+      "en": "Lease-based rescue dispatch queue",
+      "zh": "Lease-based rescue dispatch queue"
+    },
+    "difficulty": "hard",
+    "minutes": 390,
+    "source": null,
+    "note": null
+  },
+  {
+    "number": "SG-009",
+    "game": "dst",
+    "pack": "construct",
+    "type": "construct",
+    "title": {
+      "en": "Server-authoritative world rule ballot",
+      "zh": "Server-authoritative world rule ballot"
+    },
+    "difficulty": "hard",
+    "minutes": 360,
+    "source": null,
+    "note": null
+  },
+  {
+    "number": "SG-010",
+    "game": "dst",
+    "pack": "construct",
+    "type": "construct",
+    "title": {
+      "en": "Deterministic combat target arbiter",
+      "zh": "Deterministic combat target arbiter"
+    },
+    "difficulty": "hard",
+    "minutes": 390,
+    "source": null,
+    "note": null
+  },
+  {
+    "number": "SG-011",
+    "game": "dst",
+    "pack": "construct",
+    "type": "construct",
+    "title": {
+      "en": "Server-authoritative waystone travel network",
+      "zh": "Server-authoritative waystone travel network"
+    },
+    "difficulty": "hard",
+    "minutes": 420,
+    "source": null,
+    "note": null
+  },
+  {
+    "number": "SG-012",
+    "game": "dst",
+    "pack": "construct",
+    "type": "construct",
+    "title": {
+      "en": "Server-authoritative status effect stack manager",
+      "zh": "Server-authoritative status effect stack manager"
+    },
+    "difficulty": "hard",
+    "minutes": 390,
+    "source": null,
+    "note": null
+  },
+  {
+    "number": "SG-013",
+    "game": "dst",
+    "pack": "construct",
+    "type": "construct",
+    "title": {
+      "en": "Server-authoritative camp fuel ration allocator",
+      "zh": "Server-authoritative camp fuel ration allocator"
+    },
+    "difficulty": "hard",
+    "minutes": 390,
+    "source": null,
+    "note": null
+  },
+  {
+    "number": "SG-014",
+    "game": "dst",
+    "pack": "construct",
+    "type": "construct",
+    "title": {
+      "en": "Server-authoritative two-player trade escrow",
+      "zh": "Server-authoritative two-player trade escrow"
+    },
+    "difficulty": "hard",
+    "minutes": 390,
+    "source": null,
+    "note": null
+  },
+  {
+    "number": "SG-015",
+    "game": "dst",
+    "pack": "construct",
+    "type": "construct",
+    "title": {
+      "en": "Server-authoritative loot roll arbitration",
+      "zh": "Server-authoritative loot roll arbitration"
+    },
+    "difficulty": "hard",
+    "minutes": 390,
+    "source": null,
+    "note": null
+  },
+  {
+    "number": "SG-016",
+    "game": "garrys-mod",
+    "pack": "addons",
+    "type": "construct",
+    "title": {
+      "en": "Prop 所有权与配额管理器",
+      "zh": "Prop 所有权与配额管理器"
+    },
+    "difficulty": "medium",
+    "minutes": 180,
+    "source": null,
+    "note": null
+  },
+  {
+    "number": "SG-017",
+    "game": "garrys-mod",
+    "pack": "addons",
+    "type": "construct",
+    "title": {
+      "en": "分阶段三点 Prop 对齐工具",
+      "zh": "分阶段三点 Prop 对齐工具"
+    },
+    "difficulty": "hard",
+    "minutes": 360,
+    "source": null,
+    "note": null
+  },
+  {
+    "number": "SG-018",
+    "game": "garrys-mod",
+    "pack": "addons",
+    "type": "construct",
+    "title": {
+      "en": "持久化玩家 Loadout Profiles",
+      "zh": "持久化玩家 Loadout Profiles"
+    },
+    "difficulty": "hard",
+    "minutes": 360,
+    "source": null,
+    "note": null
+  },
+  {
+    "number": "SG-019",
+    "game": "garrys-mod",
+    "pack": "addons",
+    "type": "construct",
+    "title": {
+      "en": "Hot Object 回合控制器",
+      "zh": "Hot Object 回合控制器"
+    },
+    "difficulty": "hard",
+    "minutes": 390,
+    "source": null,
+    "note": null
+  },
+  {
+    "number": "SG-020",
+    "game": "garrys-mod",
+    "pack": "addons",
+    "type": "construct",
+    "title": {
+      "en": "Contraption Blueprint 复制与恢复",
+      "zh": "Contraption Blueprint 复制与恢复"
+    },
+    "difficulty": null,
+    "minutes": 420,
+    "source": null,
+    "note": null
+  },
+  {
+    "number": "SG-021",
+    "game": "garrys-mod",
+    "pack": "darkrp",
+    "type": "repair",
+    "title": {
+      "en": "DarkRP: bug reports against this release branch",
+      "zh": "DarkRP: bug reports against this release branch"
+    },
+    "difficulty": "hard",
+    "minutes": 180,
+    "source": {
+      "name": "DarkRP"
+    },
+    "note": null
+  },
+  {
+    "number": "SG-022",
+    "game": "garrys-mod",
+    "pack": "darkrp",
+    "type": "repair",
+    "title": {
+      "en": "DarkRP: reports from a live server",
+      "zh": "DarkRP: reports from a live server"
+    },
+    "difficulty": "hard",
+    "minutes": 240,
+    "source": {
+      "name": "DarkRP"
+    },
+    "note": null
+  },
+  {
+    "number": "SG-023",
+    "game": "garrys-mod",
+    "pack": "darkrp",
+    "type": "repair",
+    "title": {
+      "en": "DarkRP: reports from a live server",
+      "zh": "DarkRP: reports from a live server"
+    },
+    "difficulty": "hard",
+    "minutes": 240,
+    "source": {
+      "name": "DarkRP"
+    },
+    "note": null
+  },
+  {
+    "number": "SG-024",
+    "game": "garrys-mod",
+    "pack": "darkrp",
+    "type": "repair",
+    "title": {
+      "en": "DarkRP: reports against the shared helper libraries",
+      "zh": "DarkRP: reports against the shared helper libraries"
+    },
+    "difficulty": "hard",
+    "minutes": 240,
+    "source": {
+      "name": "DarkRP"
+    },
+    "note": null
+  },
+  {
+    "number": "SG-025",
+    "game": "garrys-mod",
+    "pack": "darkrp",
+    "type": "repair",
+    "title": {
+      "en": "DarkRP: reports about things that will not register properly",
+      "zh": "DarkRP: reports about things that will not register properly"
+    },
+    "difficulty": "hard",
+    "minutes": 240,
+    "source": {
+      "name": "DarkRP"
+    },
+    "note": null
+  },
+  {
+    "number": "SG-026",
+    "game": "garrys-mod",
+    "pack": "darkrp",
+    "type": "repair",
+    "title": {
+      "en": "DarkRP: reports about money",
+      "zh": "DarkRP: reports about money"
+    },
+    "difficulty": "hard",
+    "minutes": 240,
+    "source": {
+      "name": "DarkRP"
+    },
+    "note": null
+  },
+  {
+    "number": "SG-027",
+    "game": "garrys-mod",
+    "pack": "darkrp",
+    "type": "repair",
+    "title": {
+      "en": "DarkRP: reports about what the server remembers",
+      "zh": "DarkRP: reports about what the server remembers"
+    },
+    "difficulty": "hard",
+    "minutes": 240,
+    "source": {
+      "name": "DarkRP"
+    },
+    "note": null
+  },
+  {
+    "number": "SG-028",
+    "game": "garrys-mod",
+    "pack": "darkrp",
+    "type": "repair",
+    "title": {
+      "en": "DarkRP: reports about what a job hands its players",
+      "zh": "DarkRP: reports about what a job hands its players"
+    },
+    "difficulty": "hard",
+    "minutes": 240,
+    "source": {
+      "name": "DarkRP"
+    },
+    "note": null
+  },
+  {
+    "number": "SG-029",
+    "game": "garrys-mod",
+    "pack": "addon-repairs",
+    "type": "repair",
+    "title": {
+      "en": "Advanced Duplicator 2: reports from a building server",
+      "zh": "Advanced Duplicator 2: reports from a building server"
+    },
+    "difficulty": "hard",
+    "minutes": 180,
+    "source": {
+      "name": "Advanced Duplicator 2"
+    },
+    "note": null
+  },
+  {
+    "number": "SG-030",
+    "game": "garrys-mod",
+    "pack": "addon-repairs",
+    "type": "repair",
+    "title": {
+      "en": "Contraption Framework: reports about contraption tracking",
+      "zh": "Contraption Framework: reports about contraption tracking"
+    },
+    "difficulty": "medium",
+    "minutes": 150,
+    "source": {
+      "name": "Contraption Framework"
+    },
+    "note": null
+  },
+  {
+    "number": "SG-031",
+    "game": "garrys-mod",
+    "pack": "addon-repairs",
+    "type": "repair",
+    "title": {
+      "en": "StarfallEx: reports from a scripting server",
+      "zh": "StarfallEx: reports from a scripting server"
+    },
+    "difficulty": "hard",
+    "minutes": 210,
+    "source": {
+      "name": "StarfallEx"
+    },
+    "note": null
+  },
+  {
+    "number": "SG-032",
+    "game": "garrys-mod",
+    "pack": "addon-repairs",
+    "type": "repair",
+    "title": {
+      "en": "Wiremod: reports against the Expression 2 standard library",
+      "zh": "Wiremod: reports against the Expression 2 standard library"
+    },
+    "difficulty": "hard",
+    "minutes": 210,
+    "source": {
+      "name": "Wiremod"
+    },
+    "note": null
+  },
+  {
+    "number": "SG-033",
+    "game": "garrys-mod",
+    "pack": "addon-repairs",
+    "type": "repair",
+    "title": {
+      "en": "Wiremod: reports about gates, chips and holograms",
+      "zh": "Wiremod: reports about gates, chips and holograms"
+    },
+    "difficulty": "hard",
+    "minutes": 240,
+    "source": {
+      "name": "Wiremod"
+    },
+    "note": null
+  },
+  {
+    "number": "SG-034",
+    "game": "isaac-rebirth",
+    "pack": "core",
+    "type": "repair",
+    "title": {
+      "en": "Exodus: bug reports against the Afterbirth+ release",
+      "zh": "Exodus: bug reports against the Afterbirth+ release"
+    },
+    "difficulty": "hard",
+    "minutes": 120,
+    "source": {
+      "name": "Exodus"
+    },
+    "note": null
+  },
+  {
+    "number": "SG-035",
+    "game": "isaac-rebirth",
+    "pack": "core",
+    "type": "repair",
+    "title": {
+      "en": "Exodus: bug reports against the Afterbirth+ release",
+      "zh": "Exodus: bug reports against the Afterbirth+ release"
+    },
+    "difficulty": "hard",
+    "minutes": 90,
+    "source": {
+      "name": "Exodus"
+    },
+    "note": null
+  },
+  {
+    "number": "SG-036",
+    "game": "isaac-rebirth",
+    "pack": "core",
+    "type": "repair",
+    "title": {
+      "en": "Exodus: bug reports against the Afterbirth+ release",
+      "zh": "Exodus: bug reports against the Afterbirth+ release"
+    },
+    "difficulty": "easy",
+    "minutes": 60,
+    "source": {
+      "name": "Exodus"
+    },
+    "note": null
+  },
+  {
+    "number": "SG-037",
+    "game": "isaac-rebirth",
+    "pack": "core",
+    "type": "repair",
+    "title": {
+      "en": "Exodus: bug reports against the Afterbirth+ release",
+      "zh": "Exodus: bug reports against the Afterbirth+ release"
+    },
+    "difficulty": "easy",
+    "minutes": 60,
+    "source": {
+      "name": "Exodus"
+    },
+    "note": null
+  },
+  {
+    "number": "SG-038",
+    "game": "isaac-rebirth",
+    "pack": "core",
+    "type": "repair",
+    "title": {
+      "en": "Exodus: bug reports against the Afterbirth+ release",
+      "zh": "Exodus: bug reports against the Afterbirth+ release"
+    },
+    "difficulty": "easy",
+    "minutes": 90,
+    "source": {
+      "name": "Exodus"
+    },
+    "note": null
+  },
+  {
+    "number": "SG-039",
+    "game": "isaac-rebirth",
+    "pack": "core",
+    "type": "repair",
+    "title": {
+      "en": "Exodus: bug reports against the Afterbirth+ release",
+      "zh": "Exodus: bug reports against the Afterbirth+ release"
+    },
+    "difficulty": "medium",
+    "minutes": 60,
+    "source": {
+      "name": "Exodus"
+    },
+    "note": null
+  },
+  {
+    "number": "SG-040",
+    "game": "isaac-rebirth",
+    "pack": "core",
+    "type": "repair",
+    "title": {
+      "en": "Exodus: bug reports against the Afterbirth+ release",
+      "zh": "Exodus: bug reports against the Afterbirth+ release"
+    },
+    "difficulty": "medium",
+    "minutes": 60,
+    "source": {
+      "name": "Exodus"
+    },
+    "note": null
+  },
+  {
+    "number": "SG-041",
+    "game": "isaac-rebirth",
+    "pack": "core",
+    "type": "repair",
+    "title": {
+      "en": "Exodus: bug reports against the Afterbirth+ release",
+      "zh": "Exodus: bug reports against the Afterbirth+ release"
+    },
+    "difficulty": "hard",
+    "minutes": 90,
+    "source": {
+      "name": "Exodus"
+    },
+    "note": null
+  },
+  {
+    "number": "SG-042",
+    "game": "isaac-rebirth",
+    "pack": "core",
+    "type": "repair",
+    "title": {
+      "en": "Exodus: bug reports against the Afterbirth+ release",
+      "zh": "Exodus: bug reports against the Afterbirth+ release"
+    },
+    "difficulty": "medium",
+    "minutes": 60,
+    "source": {
+      "name": "Exodus"
+    },
+    "note": null
+  },
+  {
+    "number": "SG-043",
+    "game": "isaac-rebirth",
+    "pack": "core",
+    "type": "repair",
+    "title": {
+      "en": "Exodus: bug reports against the Afterbirth+ release",
+      "zh": "Exodus: bug reports against the Afterbirth+ release"
+    },
+    "difficulty": "hard",
+    "minutes": 90,
+    "source": {
+      "name": "Exodus"
+    },
+    "note": null
+  },
+  {
+    "number": "SG-044",
+    "game": "left-4-dead-2",
+    "pack": "core",
+    "type": "repair",
+    "title": {
+      "en": "Left 4 Dead 2 Competitive Rework: release regressions",
+      "zh": "Left 4 Dead 2 Competitive Rework: release regressions"
+    },
+    "difficulty": "easy",
+    "minutes": 120,
+    "source": {
+      "name": "L4D2 Competitive Rework"
+    },
+    "note": null
+  },
+  {
+    "number": "SG-045",
+    "game": "left-4-dead-2",
+    "pack": "core",
+    "type": "repair",
+    "title": {
+      "en": "Left 4 Dead 2: Left4DHooks public API regressions",
+      "zh": "Left 4 Dead 2: Left4DHooks public API regressions"
+    },
+    "difficulty": "medium",
+    "minutes": 300,
+    "source": {
+      "name": "Left4DHooks"
+    },
+    "note": null
+  },
+  {
+    "number": "SG-046",
+    "game": "left-4-dead-2",
+    "pack": "core",
+    "type": "repair",
+    "title": {
+      "en": "L4D Infected Bots release regressions",
+      "zh": "L4D Infected Bots release regressions"
+    },
+    "difficulty": "medium",
+    "minutes": 240,
+    "source": {
+      "name": "L4D Infected Bots"
+    },
+    "note": null
+  },
+  {
+    "number": "SG-047",
+    "game": "left-4-dead-2",
+    "pack": "core",
+    "type": "repair",
+    "title": {
+      "en": "Left 4 Dead 2: LinGe release regressions",
+      "zh": "Left 4 Dead 2: LinGe release regressions"
+    },
+    "difficulty": "hard",
+    "minutes": 360,
+    "source": {
+      "name": "LinGe VScripts"
+    },
+    "note": null
+  },
+  {
+    "number": "SG-048",
+    "game": "left-4-dead-2",
+    "pack": "core",
+    "type": "repair",
+    "title": {
+      "en": "Mutant Tanks release regressions",
+      "zh": "Mutant Tanks release regressions"
+    },
+    "difficulty": "hard",
+    "minutes": 420,
+    "source": {
+      "name": "Mutant Tanks"
+    },
+    "note": null
+  },
+  {
+    "number": "SG-049",
+    "game": "left-4-dead-2",
+    "pack": "core",
+    "type": "repair",
+    "title": {
+      "en": "LinGe: configuration, event dispatch, and Director state",
+      "zh": "LinGe: configuration, event dispatch, and Director state"
+    },
+    "difficulty": "hard",
+    "minutes": 360,
+    "source": {
+      "name": "LinGe VScripts"
+    },
+    "note": null
+  },
+  {
+    "number": "SG-050",
+    "game": "left-4-dead-2",
+    "pack": "core",
+    "type": "repair",
+    "title": {
+      "en": "Competitive Rework: score lifecycle regressions",
+      "zh": "Competitive Rework: score lifecycle regressions"
+    },
+    "difficulty": "hard",
+    "minutes": 360,
+    "source": {
+      "name": "L4D2 Competitive Rework"
+    },
+    "note": null
+  },
+  {
+    "number": "SG-051",
+    "game": "left-4-dead-2",
+    "pack": "core",
+    "type": "repair",
+    "title": {
+      "en": "LinGe / VSLib: scheduler and persistence regressions",
+      "zh": "LinGe / VSLib: scheduler and persistence regressions"
+    },
+    "difficulty": "hard",
+    "minutes": 360,
+    "source": {
+      "name": "LinGe VScripts"
+    },
+    "note": null
+  },
+  {
+    "number": "SG-052",
+    "game": "left-4-dead-2",
+    "pack": "core",
+    "type": "repair",
+    "title": {
+      "en": "Confogl: transactional server ConVar profiles",
+      "zh": "Confogl: transactional server ConVar profiles"
+    },
+    "difficulty": "hard",
+    "minutes": 360,
+    "source": {
+      "name": "L4D2 Competitive Rework"
+    },
+    "note": null
+  },
+  {
+    "number": "SG-053",
+    "game": "left-4-dead-2",
+    "pack": "core",
+    "type": "repair",
+    "title": {
+      "en": "L4D2Lib: live map data and Tank encounter state",
+      "zh": "L4D2Lib: live map data and Tank encounter state"
+    },
+    "difficulty": "hard",
+    "minutes": 360,
+    "source": {
+      "name": "L4D2 Competitive Rework"
+    },
+    "note": null
+  },
+  {
+    "number": "SG-054",
+    "game": "stardew-valley",
+    "pack": "core",
+    "type": "repair",
+    "title": {
+      "en": "Automate: mini-fridges stopped working after the last release",
+      "zh": "Automate: mini-fridges stopped working after the last release"
+    },
+    "difficulty": "easy",
+    "minutes": 120,
+    "source": {
+      "name": "Automate"
+    },
+    "note": null
+  },
+  {
+    "number": "SG-055",
+    "game": "stardew-valley",
+    "pack": "core",
+    "type": "repair",
+    "title": {
+      "en": "Automate: Junimo hut seed setting doesn't do what it says",
+      "zh": "Automate: Junimo hut seed setting doesn't do what it says"
+    },
+    "difficulty": "easy",
+    "minutes": 120,
+    "source": {
+      "name": "Automate"
+    },
+    "note": null
+  },
+  {
+    "number": "SG-056",
+    "game": "stardew-valley",
+    "pack": "core",
+    "type": "repair",
+    "title": {
+      "en": "Automate: GetMachineStates API misses locations with only non-automated machines",
+      "zh": "Automate: GetMachineStates API misses locations with only non-automated machines"
+    },
+    "difficulty": "medium",
+    "minutes": 180,
+    "source": {
+      "name": "Automate"
+    },
+    "note": null
+  },
+  {
+    "number": "SG-057",
+    "game": "stardew-valley",
+    "pack": "core",
+    "type": "repair",
+    "title": {
+      "en": "Automate: machines wedge forever when a mod produces a broken output",
+      "zh": "Automate: machines wedge forever when a mod produces a broken output"
+    },
+    "difficulty": "medium",
+    "minutes": 180,
+    "source": {
+      "name": "Automate"
+    },
+    "note": null
+  },
+  {
+    "number": "SG-058",
+    "game": "stardew-valley",
+    "pack": "core",
+    "type": "repair",
+    "title": {
+      "en": "Content Patcher: {{i18n}} rewrites some translations to lowercase",
+      "zh": "Content Patcher: {{i18n}} rewrites some translations to lowercase"
+    },
+    "difficulty": "medium",
+    "minutes": 180,
+    "source": {
+      "name": "Content Patcher"
+    },
+    "note": null
+  },
+  {
+    "number": "SG-059",
+    "game": "stardew-valley",
+    "pack": "core",
+    "type": "repair",
+    "title": {
+      "en": "Automate: bug reports against this release branch",
+      "zh": "Automate: bug reports against this release branch"
+    },
+    "difficulty": "hard",
+    "minutes": 360,
+    "source": {
+      "name": "Automate"
+    },
+    "note": null
+  },
+  {
+    "number": "SG-060",
+    "game": "stardew-valley",
+    "pack": "core",
+    "type": "repair",
+    "title": {
+      "en": "Automate: bug reports against this release branch",
+      "zh": "Automate: bug reports against this release branch"
+    },
+    "difficulty": "hard",
+    "minutes": 420,
+    "source": {
+      "name": "Automate"
+    },
+    "note": null
+  },
+  {
+    "number": "SG-061",
+    "game": "stardew-valley",
+    "pack": "core",
+    "type": "repair",
+    "title": {
+      "en": "Automate: bug reports against this release branch",
+      "zh": "Automate: bug reports against this release branch"
+    },
+    "difficulty": "hard",
+    "minutes": 420,
+    "source": {
+      "name": "Automate"
+    },
+    "note": null
+  },
+  {
+    "number": "SG-062",
+    "game": "stardew-valley",
+    "pack": "core",
+    "type": "repair",
+    "title": {
+      "en": "Automate: bar counts don't add up",
+      "zh": "Automate: bar counts don't add up"
+    },
+    "difficulty": "easy",
+    "minutes": 240,
+    "source": {
+      "name": "Automate"
+    },
+    "note": null
+  },
+  {
+    "number": "SG-063",
+    "game": "stardew-valley",
+    "pack": "core",
+    "type": "repair",
+    "title": {
+      "en": "Automate: extended setups stay idle until a reload",
+      "zh": "Automate: extended setups stay idle until a reload"
+    },
+    "difficulty": "medium",
+    "minutes": 240,
+    "source": {
+      "name": "Automate"
+    },
+    "note": null
+  },
+  {
+    "number": "SG-064",
+    "game": "stardew-valley",
+    "pack": "core",
+    "type": "construct",
+    "title": {
+      "en": "Write a mod: summon your horse anywhere",
+      "zh": "Write a mod: summon your horse anywhere"
+    },
+    "difficulty": "medium",
+    "minutes": 180,
+    "source": null,
+    "note": null
+  },
+  {
+    "number": "SG-065",
+    "game": "stardew-valley",
+    "pack": "core",
+    "type": "construct",
+    "title": {
+      "en": "Write a mod: chests run the machines next to them",
+      "zh": "Write a mod: chests run the machines next to them"
+    },
+    "difficulty": "hard",
+    "minutes": 480,
+    "source": null,
+    "note": null
+  },
+  {
+    "number": "SG-066",
+    "game": "stardew-valley",
+    "pack": "core",
+    "type": "repair",
+    "title": {
+      "en": "Content Patcher: bug reports against this release",
+      "zh": "Content Patcher: bug reports against this release"
+    },
+    "difficulty": "hard",
+    "minutes": 420,
+    "source": {
+      "name": "Content Patcher"
+    },
+    "note": null
+  },
+  {
+    "number": "SG-067",
+    "game": "stardew-valley",
+    "pack": "core",
+    "type": "repair",
+    "title": {
+      "en": "CJB Cheats Menu: bug reports against this release",
+      "zh": "CJB Cheats Menu: bug reports against this release"
+    },
+    "difficulty": "hard",
+    "minutes": 360,
+    "source": {
+      "name": "CJB Cheats Menu"
+    },
+    "note": null
+  },
+  {
+    "number": "SG-068",
+    "game": "stardew-valley",
+    "pack": "core",
+    "type": "repair",
+    "title": {
+      "en": "Tractor Mod: bug reports against this release",
+      "zh": "Tractor Mod: bug reports against this release"
+    },
+    "difficulty": "hard",
+    "minutes": 360,
+    "source": {
+      "name": "Tractor Mod"
+    },
+    "note": null
+  },
+  {
+    "number": "SG-069",
+    "game": "balatro",
+    "pack": "core",
+    "type": "repair",
+    "title": {
+      "en": "Round-end growth",
+      "zh": "回合结束增长"
+    },
+    "difficulty": null,
+    "minutes": null,
+    "source": null,
+    "note": null
+  },
+  {
+    "number": "SG-070",
+    "game": "balatro",
+    "pack": "core",
+    "type": "repair",
+    "title": {
+      "en": "Reversible hand capacity",
+      "zh": "可逆手牌容量"
+    },
+    "difficulty": null,
+    "minutes": null,
+    "source": null,
+    "note": null
+  },
+  {
+    "number": "SG-071",
+    "game": "balatro",
+    "pack": "core",
+    "type": "repair",
+    "title": {
+      "en": "Independent seeded effects",
+      "zh": "独立 seeded 效果流"
+    },
+    "difficulty": null,
+    "minutes": null,
+    "source": null,
+    "note": null
+  },
+  {
+    "number": "SG-072",
+    "game": "balatro",
+    "pack": "core",
+    "type": "repair",
+    "title": {
+      "en": "Bounded generation lifecycle",
+      "zh": "有界生成生命周期"
+    },
+    "difficulty": null,
+    "minutes": null,
+    "source": null,
+    "note": null
+  },
+  {
+    "number": "SG-073",
+    "game": "balatro",
+    "pack": "core",
+    "type": "repair",
+    "title": {
+      "en": "Consistent deck removal",
+      "zh": "牌组移除一致性"
+    },
+    "difficulty": null,
+    "minutes": null,
+    "source": null,
+    "note": null
+  },
+  {
+    "number": "SG-074",
+    "game": "balatro",
+    "pack": "core",
+    "type": "repair",
+    "title": {
+      "en": "Live joker adjacency",
+      "zh": "实时小丑牌邻接"
+    },
+    "difficulty": null,
+    "minutes": null,
+    "source": null,
+    "note": null
+  },
+  {
+    "number": "SG-075",
+    "game": "balatro",
+    "pack": "core",
+    "type": "repair",
+    "title": {
+      "en": "Isolated card wear",
+      "zh": "卡牌磨损状态隔离"
+    },
+    "difficulty": null,
+    "minutes": null,
+    "source": null,
+    "note": null
+  },
+  {
+    "number": "SG-076",
+    "game": "balatro",
+    "pack": "core",
+    "type": "repair",
+    "title": {
+      "en": "Persistent per-instance charge",
+      "zh": "每实例充能持久化"
+    },
+    "difficulty": null,
+    "minutes": null,
+    "source": null,
+    "note": null
+  },
+  {
+    "number": "SG-077",
+    "game": "balatro",
+    "pack": "core",
+    "type": "repair",
+    "title": {
+      "en": "Coherent shop transactions",
+      "zh": "商店事务价格一致性"
+    },
+    "difficulty": null,
+    "minutes": null,
+    "source": null,
+    "note": null
+  },
+  {
+    "number": "SG-078",
+    "game": "balatro",
+    "pack": "core",
+    "type": "repair",
+    "title": {
+      "en": "Pack choice transactions",
+      "zh": "卡包选择事务"
+    },
+    "difficulty": null,
+    "minutes": null,
+    "source": null,
+    "note": null
+  },
+  {
+    "number": "SG-079",
+    "game": "mindustry",
+    "pack": "construct",
+    "type": "construct",
+    "title": {
+      "en": "Transactional Core Stockpile Router",
+      "zh": "Transactional Core Stockpile Router"
+    },
+    "difficulty": "hard",
+    "minutes": 420,
+    "source": null,
+    "note": null
+  },
+  {
+    "number": "SG-080",
+    "game": "mindustry",
+    "pack": "construct",
+    "type": "construct",
+    "title": {
+      "en": "Server-authoritative Build Quota Auditor",
+      "zh": "Server-authoritative Build Quota Auditor"
+    },
+    "difficulty": "hard",
+    "minutes": 420,
+    "source": null,
+    "note": null
+  },
+  {
+    "number": "SG-081",
+    "game": "mindustry",
+    "pack": "construct",
+    "type": "construct",
+    "title": {
+      "en": "Lease-based Unit Task Scheduler",
+      "zh": "Lease-based Unit Task Scheduler"
+    },
+    "difficulty": "hard",
+    "minutes": 480,
+    "source": null,
+    "note": null
+  },
+  {
+    "number": "SG-082",
+    "game": "mindustry",
+    "pack": "construct",
+    "type": "construct",
+    "title": {
+      "en": "Power-grid Fault Isolation and Load Shedding Controller",
+      "zh": "Power-grid Fault Isolation and Load Shedding Controller"
+    },
+    "difficulty": "hard",
+    "minutes": 480,
+    "source": null,
+    "note": null
+  },
+  {
+    "number": "SG-083",
+    "game": "mindustry",
+    "pack": "construct",
+    "type": "construct",
+    "title": {
+      "en": "Wave Threat Response and Repair Arbiter",
+      "zh": "Wave Threat Response and Repair Arbiter"
+    },
+    "difficulty": "hard",
+    "minutes": 480,
+    "source": null,
+    "note": null
+  },
+  {
+    "number": "SG-084",
+    "game": "mindustry",
+    "pack": "construct",
+    "type": "construct",
+    "title": {
+      "en": "Transactional Item Reservation Ledger",
+      "zh": "Transactional Item Reservation Ledger"
+    },
+    "difficulty": "hard",
+    "minutes": 360,
+    "source": null,
+    "note": null
+  },
+  {
+    "number": "SG-085",
+    "game": "mindustry",
+    "pack": "construct",
+    "type": "construct",
+    "title": {
+      "en": "Deterministic Wave Budget Planner",
+      "zh": "Deterministic Wave Budget Planner"
+    },
+    "difficulty": "hard",
+    "minutes": 360,
+    "source": null,
+    "note": null
+  },
+  {
+    "number": "SG-086",
+    "game": "mindustry",
+    "pack": "construct",
+    "type": "construct",
+    "title": {
+      "en": "Server Command Rate Limiter",
+      "zh": "Server Command Rate Limiter"
+    },
+    "difficulty": "hard",
+    "minutes": 360,
+    "source": null,
+    "note": null
+  },
+  {
+    "number": "SG-087",
+    "game": "mindustry",
+    "pack": "construct",
+    "type": "construct",
+    "title": {
+      "en": "Logic Link Lease Registry",
+      "zh": "Logic Link Lease Registry"
+    },
+    "difficulty": "hard",
+    "minutes": 360,
+    "source": null,
+    "note": null
+  },
+  {
+    "number": "SG-088",
+    "game": "mindustry",
+    "pack": "construct",
+    "type": "construct",
+    "title": {
+      "en": "Core Failover Coordinator",
+      "zh": "Core Failover Coordinator"
+    },
+    "difficulty": "hard",
+    "minutes": 360,
+    "source": null,
+    "note": null
+  },
+  {
+    "number": "SG-089",
+    "game": "mindustry",
+    "pack": "mindustry-core",
+    "type": "repair",
+    "title": {
+      "en": "Mindustry v159.7: logic processors misbehave on our dedicated server",
+      "zh": "Mindustry v159.7: logic processors misbehave on our dedicated server"
+    },
+    "difficulty": "hard",
+    "minutes": 240,
+    "source": {
+      "name": "Mindustry",
+      "license": "GPL-3.0"
+    },
+    "note": null
+  },
+  {
+    "number": "SG-090",
+    "game": "mindustry",
+    "pack": "mindustry-core",
+    "type": "repair",
+    "title": {
+      "en": "Mindustry v159.7: dedicated server console regressions",
+      "zh": "Mindustry v159.7: dedicated server console regressions"
+    },
+    "difficulty": "medium",
+    "minutes": 150,
+    "source": {
+      "name": "Mindustry",
+      "license": "GPL-3.0"
+    },
+    "note": null
+  },
+  {
+    "number": "SG-091",
+    "game": "mindustry",
+    "pack": "mindustry-core",
+    "type": "repair",
+    "title": {
+      "en": "Mindustry v159.7: turrets, heat redirectors and shockwave towers misbehave",
+      "zh": "Mindustry v159.7: turrets, heat redirectors and shockwave towers misbehave"
+    },
+    "difficulty": "medium",
+    "minutes": 180,
+    "source": {
+      "name": "Mindustry",
+      "license": "GPL-3.0"
+    },
+    "note": null
+  },
+  {
+    "number": "SG-092",
+    "game": "mindustry",
+    "pack": "mindustry-core",
+    "type": "repair",
+    "title": {
+      "en": "Mindustry v159.7: payload and world save regressions",
+      "zh": "Mindustry v159.7: payload and world save regressions"
+    },
+    "difficulty": "hard",
+    "minutes": 210,
+    "source": {
+      "name": "Mindustry",
+      "license": "GPL-3.0"
+    },
+    "note": null
+  },
+  {
+    "number": "SG-093",
+    "game": "mindustry",
+    "pack": "mindustry-core",
+    "type": "repair",
+    "title": {
+      "en": "Mindustry v159.7: dedicated server data patch regressions",
+      "zh": "Mindustry v159.7: dedicated server data patch regressions"
+    },
+    "difficulty": "hard",
+    "minutes": 240,
+    "source": {
+      "name": "Mindustry",
+      "license": "GPL-3.0"
+    },
+    "note": null
+  },
+  {
+    "number": "SG-094",
+    "game": "minecraft",
+    "pack": "core",
+    "type": "repair",
+    "title": {
+      "en": "Multiverse-Core: worlds with upper-case letters in their name cannot be unloaded or removed",
+      "zh": "Multiverse-Core: worlds with upper-case letters in their name cannot be unloaded or removed"
+    },
+    "difficulty": "medium",
+    "minutes": 90,
+    "source": {
+      "name": "Multiverse-Core",
+      "license": "BSD-3-Clause"
+    },
+    "note": null
+  },
+  {
+    "number": "SG-095",
+    "game": "minecraft",
+    "pack": "core",
+    "type": "repair",
+    "title": {
+      "en": "Chatty: one bad notification channel stops the whole plugin from enabling",
+      "zh": "Chatty: one bad notification channel stops the whole plugin from enabling"
+    },
+    "difficulty": "medium",
+    "minutes": 90,
+    "source": {
+      "name": "Chatty",
+      "license": "MIT"
+    },
+    "note": null
+  },
+  {
+    "number": "SG-096",
+    "game": "minecraft",
+    "pack": "core",
+    "type": "repair",
+    "title": {
+      "en": "BetterTeams: /team help crashes on page 0, prints phantom pages and a null prefix",
+      "zh": "BetterTeams: /team help crashes on page 0, prints phantom pages and a null prefix"
+    },
+    "difficulty": "easy",
+    "minutes": 60,
+    "source": {
+      "name": "BetterTeams",
+      "license": "MIT"
+    },
+    "note": null
+  },
+  {
+    "number": "SG-097",
+    "game": "minecraft",
+    "pack": "core",
+    "type": "repair",
+    "title": {
+      "en": "PrometheusExporter: every /metrics scrape waits for the main thread because of players_total",
+      "zh": "PrometheusExporter: every /metrics scrape waits for the main thread because of players_total"
+    },
+    "difficulty": "easy",
+    "minutes": 45,
+    "source": {
+      "name": "minecraft-prometheus-exporter",
+      "license": "MIT"
+    },
+    "note": null
+  },
+  {
+    "number": "SG-098",
+    "game": "minecraft",
+    "pack": "core",
+    "type": "repair",
+    "title": {
+      "en": "Chatty: chatty reload ignores chat commands added or renamed in chats.yml",
+      "zh": "Chatty: chatty reload ignores chat commands added or renamed in chats.yml"
+    },
+    "difficulty": "medium",
+    "minutes": 90,
+    "source": {
+      "name": "Chatty",
+      "license": "MIT"
+    },
+    "note": null
+  },
+  {
+    "number": "SG-099",
+    "game": "minecraft",
+    "pack": "core",
+    "type": "repair",
+    "title": {
+      "en": "Multiverse-Core: world existence checks ignore the namespaced world key",
+      "zh": "Multiverse-Core: world existence checks ignore the namespaced world key"
+    },
+    "difficulty": "medium",
+    "minutes": 90,
+    "source": {
+      "name": "Multiverse-Core",
+      "license": "BSD-3-Clause"
+    },
+    "note": null
+  },
+  {
+    "number": "SG-100",
+    "game": "minecraft",
+    "pack": "core",
+    "type": "repair",
+    "title": {
+      "en": "BetterTeams: /team info turns MiniMessage tags in a team description into click and hover events",
+      "zh": "BetterTeams: /team info turns MiniMessage tags in a team description into click and hover events"
+    },
+    "difficulty": "medium",
+    "minutes": 75,
+    "source": {
+      "name": "BetterTeams",
+      "license": "MIT"
+    },
+    "note": null
+  },
+  {
+    "number": "SG-101",
+    "game": "minecraft",
+    "pack": "core",
+    "type": "repair",
+    "title": {
+      "en": "Chatty: every /chatty reload leaks the notification ticker and bStats threads",
+      "zh": "Chatty: every /chatty reload leaks the notification ticker and bStats threads"
+    },
+    "difficulty": "medium",
+    "minutes": 75,
+    "source": {
+      "name": "Chatty",
+      "license": "MIT"
+    },
+    "note": null
+  },
+  {
+    "number": "SG-102",
+    "game": "minecraft",
+    "pack": "core",
+    "type": "repair",
+    "title": {
+      "en": "Chatty: a failed v2 configuration migration leaves an enabled but dead plugin",
+      "zh": "Chatty: a failed v2 configuration migration leaves an enabled but dead plugin"
+    },
+    "difficulty": "medium",
+    "minutes": 90,
+    "source": {
+      "name": "Chatty",
+      "license": "MIT"
+    },
+    "note": null
+  },
+  {
+    "number": "SG-103",
+    "game": "minecraft",
+    "pack": "core",
+    "type": "repair",
+    "title": {
+      "en": "Chatty: a v2 config.yml without a spy section breaks the migrated plugin",
+      "zh": "Chatty: a v2 config.yml without a spy section breaks the migrated plugin"
+    },
+    "difficulty": "medium",
+    "minutes": 60,
+    "source": {
+      "name": "Chatty",
+      "license": "MIT"
+    },
+    "note": null
+  },
+  {
+    "number": "SG-104",
+    "game": "minecraft",
+    "pack": "synth",
+    "type": "repair",
+    "title": {
+      "en": "Shared health restore inflates maximum health, and world existence checks miss key-only worlds",
+      "zh": "Shared health restore inflates maximum health, and world existence checks miss key-only worlds"
+    },
+    "difficulty": "hard",
+    "minutes": 180,
+    "source": null,
+    "note": {
+      "en": "Clean-room synthetic plugin derived from a real upstream fix.",
+      "zh": "由真实上游修复派生的清洁室合成插件。"
+    }
+  },
+  {
+    "number": "SG-105",
+    "game": "minecraft",
+    "pack": "synth",
+    "type": "repair",
+    "title": {
+      "en": "StonewatchLedger command reply fixes",
+      "zh": "StonewatchLedger command reply fixes"
+    },
+    "difficulty": "hard",
+    "minutes": 180,
+    "source": null,
+    "note": {
+      "en": "Clean-room synthetic plugin derived from a real upstream fix.",
+      "zh": "由真实上游修复派生的清洁室合成插件。"
+    }
+  },
+  {
+    "number": "SG-106",
+    "game": "minecraft",
+    "pack": "synth",
+    "type": "repair",
+    "title": {
+      "en": "Debugging Task: Chunk Loading, Fallback Cache, and Guild Placeholder Issues",
+      "zh": "Debugging Task: Chunk Loading, Fallback Cache, and Guild Placeholder Issues"
+    },
+    "difficulty": "hard",
+    "minutes": 180,
+    "source": null,
+    "note": {
+      "en": "Clean-room synthetic plugin derived from a real upstream fix.",
+      "zh": "由真实上游修复派生的清洁室合成插件。"
+    }
+  },
+  {
+    "number": "SG-107",
+    "game": "minecraft",
+    "pack": "synth",
+    "type": "repair",
+    "title": {
+      "en": "VaultGuard — JSON store, update check and GUI session defects",
+      "zh": "VaultGuard — JSON store, update check and GUI session defects"
+    },
+    "difficulty": "hard",
+    "minutes": 180,
+    "source": null,
+    "note": {
+      "en": "Clean-room synthetic plugin derived from a real upstream fix.",
+      "zh": "由真实上游修复派生的清洁室合成插件。"
+    }
+  },
+  {
+    "number": "SG-108",
+    "game": "minecraft",
+    "pack": "synth",
+    "type": "repair",
+    "title": {
+      "en": "RewardForge: incorrect reward gating, leaked chunk-load listener, unbounded merge tracking, and unreliable delayed/protection behavior",
+      "zh": "RewardForge: incorrect reward gating, leaked chunk-load listener, unbounded merge tracking, and unreliable delayed/protection behavior"
+    },
+    "difficulty": "hard",
+    "minutes": 180,
+    "source": null,
+    "note": {
+      "en": "Clean-room synthetic plugin derived from a real upstream fix.",
+      "zh": "由真实上游修复派生的清洁室合成插件。"
+    }
+  },
+  {
+    "number": "SG-109",
+    "game": "minecraft",
+    "pack": "synth",
+    "type": "repair",
+    "title": {
+      "en": "Jobs bridge behavior mismatch",
+      "zh": "Jobs bridge behavior mismatch"
+    },
+    "difficulty": "hard",
+    "minutes": 180,
+    "source": null,
+    "note": {
+      "en": "Clean-room synthetic plugin derived from a real upstream fix.",
+      "zh": "由真实上游修复派生的清洁室合成插件。"
+    }
+  },
+  {
+    "number": "SG-110",
+    "game": "minecraft",
+    "pack": "synth",
+    "type": "repair",
+    "title": {
+      "en": "SyntheticCore — ability, chat, and optimization subsystem bug report",
+      "zh": "SyntheticCore — ability, chat, and optimization subsystem bug report"
+    },
+    "difficulty": "hard",
+    "minutes": 180,
+    "source": null,
+    "note": {
+      "en": "Clean-room synthetic plugin derived from a real upstream fix.",
+      "zh": "由真实上游修复派生的清洁室合成插件。"
+    }
+  },
+  {
+    "number": "SG-111",
+    "game": "minecraft",
+    "pack": "synth",
+    "type": "repair",
+    "title": {
+      "en": "ProgressionHub: chunk loader statistics, boss bar output and job description placeholder misbehave",
+      "zh": "ProgressionHub: chunk loader statistics, boss bar output and job description placeholder misbehave"
+    },
+    "difficulty": "hard",
+    "minutes": 180,
+    "source": null,
+    "note": {
+      "en": "Clean-room synthetic plugin derived from a real upstream fix.",
+      "zh": "由真实上游修复派生的清洁室合成插件。"
+    }
+  },
+  {
+    "number": "SG-112",
+    "game": "minecraft",
+    "pack": "synth",
+    "type": "repair",
+    "title": {
+      "en": "Bug report: Synthetic Contract Plugin (pinned Minecraft server)",
+      "zh": "Bug report: Synthetic Contract Plugin (pinned Minecraft server)"
+    },
+    "difficulty": "hard",
+    "minutes": 180,
+    "source": null,
+    "note": {
+      "en": "Clean-room synthetic plugin derived from a real upstream fix.",
+      "zh": "由真实上游修复派生的清洁室合成插件。"
+    }
+  },
+  {
+    "number": "SG-113",
+    "game": "minecraft",
+    "pack": "synth",
+    "type": "repair",
+    "title": {
+      "en": "Repair reported behavior regressions (Paper plugin harness)",
+      "zh": "Repair reported behavior regressions (Paper plugin harness)"
+    },
+    "difficulty": "hard",
+    "minutes": 180,
+    "source": null,
+    "note": {
+      "en": "Clean-room synthetic plugin derived from a real upstream fix.",
+      "zh": "由真实上游修复派生的清洁室合成插件。"
+    }
+  },
+  {
+    "number": "SG-114",
+    "game": "minecraft",
+    "pack": "synth",
+    "type": "repair",
+    "title": {
+      "en": "Job GUI item names, stem stripping, and permission cache revocation misbehave",
+      "zh": "Job GUI item names, stem stripping, and permission cache revocation misbehave"
+    },
+    "difficulty": "hard",
+    "minutes": 180,
+    "source": null,
+    "note": {
+      "en": "Clean-room synthetic plugin derived from a real upstream fix.",
+      "zh": "由真实上游修复派生的清洁室合成插件。"
+    }
+  },
+  {
+    "number": "SG-115",
+    "game": "minecraft",
+    "pack": "synth",
+    "type": "repair",
+    "title": {
+      "en": "Debugging task: payment-limit lines, fishing payments, and block protection decisions",
+      "zh": "Debugging task: payment-limit lines, fishing payments, and block protection decisions"
+    },
+    "difficulty": "hard",
+    "minutes": 180,
+    "source": null,
+    "note": {
+      "en": "Clean-room synthetic plugin derived from a real upstream fix.",
+      "zh": "由真实上游修复派生的清洁室合成插件。"
+    }
+  },
+  {
+    "number": "SG-116",
+    "game": "minecraft",
+    "pack": "synth",
+    "type": "repair",
+    "title": {
+      "en": "BehaviorContractKit — observable-output debugging task",
+      "zh": "BehaviorContractKit — observable-output debugging task"
+    },
+    "difficulty": "hard",
+    "minutes": 180,
+    "source": null,
+    "note": {
+      "en": "Clean-room synthetic plugin derived from a real upstream fix.",
+      "zh": "由真实上游修复派生的清洁室合成插件。"
+    }
+  },
+  {
+    "number": "SG-117",
+    "game": "minecraft",
+    "pack": "synth",
+    "type": "repair",
+    "title": {
+      "en": "Payment, tax, archive, and lore behaviors are incorrect",
+      "zh": "Payment, tax, archive, and lore behaviors are incorrect"
+    },
+    "difficulty": "hard",
+    "minutes": 180,
+    "source": null,
+    "note": {
+      "en": "Clean-room synthetic plugin derived from a real upstream fix.",
+      "zh": "由真实上游修复派生的清洁室合成插件。"
+    }
+  },
+  {
+    "number": "SG-118",
+    "game": "minecraft",
+    "pack": "synth",
+    "type": "repair",
+    "title": {
+      "en": "LegacyCraftCore: reproducible job, ownership, and chunk lifecycle issues",
+      "zh": "LegacyCraftCore: reproducible job, ownership, and chunk lifecycle issues"
+    },
+    "difficulty": "hard",
+    "minutes": 180,
+    "source": null,
+    "note": {
+      "en": "Clean-room synthetic plugin derived from a real upstream fix.",
+      "zh": "由真实上游修复派生的清洁室合成插件。"
+    }
+  },
+  {
+    "number": "SG-119",
+    "game": "minecraft",
+    "pack": "synth",
+    "type": "repair",
+    "title": {
+      "en": "Fix SyntheticMC Plugin Issues",
+      "zh": "Fix SyntheticMC Plugin Issues"
+    },
+    "difficulty": "hard",
+    "minutes": 180,
+    "source": null,
+    "note": {
+      "en": "Clean-room synthetic plugin derived from a real upstream fix.",
+      "zh": "由真实上游修复派生的清洁室合成插件。"
+    }
+  },
+  {
+    "number": "SG-120",
+    "game": "minecraft",
+    "pack": "synth",
+    "type": "repair",
+    "title": {
+      "en": "Observable issues in startup failure handling, default messages, and generated config comments",
+      "zh": "Observable issues in startup failure handling, default messages, and generated config comments"
+    },
+    "difficulty": "hard",
+    "minutes": 180,
+    "source": null,
+    "note": {
+      "en": "Clean-room synthetic plugin derived from a real upstream fix.",
+      "zh": "由真实上游修复派生的清洁室合成插件。"
+    }
+  },
+  {
+    "number": "SG-121",
+    "game": "minecraft",
+    "pack": "synth",
+    "type": "repair",
+    "title": {
+      "en": "SynthJobsCore — Bug Report: stacked payouts, boss bar batch display, statistics loading, and renamed mob types",
+      "zh": "SynthJobsCore — Bug Report: stacked payouts, boss bar batch display, statistics loading, and renamed mob types"
+    },
+    "difficulty": "hard",
+    "minutes": 180,
+    "source": null,
+    "note": {
+      "en": "Clean-room synthetic plugin derived from a real upstream fix.",
+      "zh": "由真实上游修复派生的清洁室合成插件。"
+    }
+  },
+  {
+    "number": "SG-122",
+    "game": "minecraft",
+    "pack": "synth",
+    "type": "repair",
+    "title": {
+      "en": "SynthJobsChunkBlock — Bug Report: Job names, chunk exploration, and placed-block rewards",
+      "zh": "SynthJobsChunkBlock — Bug Report: Job names, chunk exploration, and placed-block rewards"
+    },
+    "difficulty": "hard",
+    "minutes": 180,
+    "source": null,
+    "note": {
+      "en": "Clean-room synthetic plugin derived from a real upstream fix.",
+      "zh": "由真实上游修复派生的清洁室合成插件。"
+    }
+  },
+  {
+    "number": "SG-123",
+    "game": "minecraft",
+    "pack": "synth",
+    "type": "repair",
+    "title": {
+      "en": "Legacy Brewing/Banner, Kill Payout, and Payment Message Bugs",
+      "zh": "Legacy Brewing/Banner, Kill Payout, and Payment Message Bugs"
+    },
+    "difficulty": "hard",
+    "minutes": 180,
+    "source": null,
+    "note": {
+      "en": "Clean-room synthetic plugin derived from a real upstream fix.",
+      "zh": "由真实上游修复派生的清洁室合成插件。"
+    }
+  },
+  {
+    "number": "SG-124",
+    "game": "minecraft",
+    "pack": "synth",
+    "type": "repair",
+    "title": {
+      "en": "Farming job bridge: block placement, material resolution, milking and dye behaviors report",
+      "zh": "Farming job bridge: block placement, material resolution, milking and dye behaviors report"
+    },
+    "difficulty": "hard",
+    "minutes": 180,
+    "source": null,
+    "note": {
+      "en": "Clean-room synthetic plugin derived from a real upstream fix.",
+      "zh": "由真实上游修复派生的清洁室合成插件。"
+    }
+  },
+  {
+    "number": "SG-125",
+    "game": "minecraft",
+    "pack": "synth",
+    "type": "repair",
+    "title": {
+      "en": "OpsContract — /opscontract contract surface misbehaves in several ways",
+      "zh": "OpsContract — /opscontract contract surface misbehaves in several ways"
+    },
+    "difficulty": "hard",
+    "minutes": 180,
+    "source": null,
+    "note": {
+      "en": "Clean-room synthetic plugin derived from a real upstream fix.",
+      "zh": "由真实上游修复派生的清洁室合成插件。"
+    }
+  },
+  {
+    "number": "SG-126",
+    "game": "minecraft",
+    "pack": "synth",
+    "type": "repair",
+    "title": {
+      "en": "Reward Contract Plugin Debugging Task",
+      "zh": "Reward Contract Plugin Debugging Task"
+    },
+    "difficulty": "hard",
+    "minutes": 180,
+    "source": null,
+    "note": {
+      "en": "Clean-room synthetic plugin derived from a real upstream fix.",
+      "zh": "由真实上游修复派生的清洁室合成插件。"
+    }
+  },
+  {
+    "number": "SG-127",
+    "game": "minecraft",
+    "pack": "synth",
+    "type": "repair",
+    "title": {
+      "en": "CommonLoom — sound defaults, exp-gain event context, and chat formatting report wrong or malformed output",
+      "zh": "CommonLoom — sound defaults, exp-gain event context, and chat formatting report wrong or malformed output"
+    },
+    "difficulty": "hard",
+    "minutes": 180,
+    "source": null,
+    "note": {
+      "en": "Clean-room synthetic plugin derived from a real upstream fix.",
+      "zh": "由真实上游修复派生的清洁室合成插件。"
+    }
+  },
+  {
+    "number": "SG-128",
+    "game": "minecraft",
+    "pack": "synth",
+    "type": "repair",
+    "title": {
+      "en": "Course, inventory-click and portal behavior mismatch",
+      "zh": "Course, inventory-click and portal behavior mismatch"
+    },
+    "difficulty": "hard",
+    "minutes": 180,
+    "source": null,
+    "note": {
+      "en": "Clean-room synthetic plugin derived from a real upstream fix.",
+      "zh": "由真实上游修复派生的清洁室合成插件。"
+    }
+  },
+  {
+    "number": "SG-129",
+    "game": "minecraft",
+    "pack": "synth",
+    "type": "repair",
+    "title": {
+      "en": "CleanroomSynth: In-Game Behavior Corrections",
+      "zh": "CleanroomSynth: In-Game Behavior Corrections"
+    },
+    "difficulty": "hard",
+    "minutes": 180,
+    "source": null,
+    "note": {
+      "en": "Clean-room synthetic plugin derived from a real upstream fix.",
+      "zh": "由真实上游修复派生的清洁室合成插件。"
+    }
+  },
+  {
+    "number": "SG-130",
+    "game": "minecraft",
+    "pack": "synth",
+    "type": "repair",
+    "title": {
+      "en": "quartz-harbor: Player Challenge and Server Hook Symptoms",
+      "zh": "quartz-harbor: Player Challenge and Server Hook Symptoms"
+    },
+    "difficulty": "hard",
+    "minutes": 180,
+    "source": null,
+    "note": {
+      "en": "Clean-room synthetic plugin derived from a real upstream fix.",
+      "zh": "由真实上游修复派生的清洁室合成插件。"
+    }
+  },
+  {
+    "number": "SG-131",
+    "game": "minecraft",
+    "pack": "synth",
+    "type": "repair",
+    "title": {
+      "en": "ClaimGuard debugging task",
+      "zh": "ClaimGuard debugging task"
+    },
+    "difficulty": "hard",
+    "minutes": 180,
+    "source": null,
+    "note": {
+      "en": "Clean-room synthetic plugin derived from a real upstream fix.",
+      "zh": "由真实上游修复派生的清洁室合成插件。"
+    }
+  },
+  {
+    "number": "SG-132",
+    "game": "minecraft",
+    "pack": "synth",
+    "type": "repair",
+    "title": {
+      "en": "WorldCapsuleBridge debugging task",
+      "zh": "WorldCapsuleBridge debugging task"
+    },
+    "difficulty": "hard",
+    "minutes": 180,
+    "source": null,
+    "note": {
+      "en": "Clean-room synthetic plugin derived from a real upstream fix.",
+      "zh": "由真实上游修复派生的清洁室合成插件。"
+    }
+  },
+  {
+    "number": "SG-133",
+    "game": "minecraft",
+    "pack": "synth",
+    "type": "repair",
+    "title": {
+      "en": "Command usage text, inventory visibility, and world-alias resolution do not match the documented contract",
+      "zh": "Command usage text, inventory visibility, and world-alias resolution do not match the documented contract"
+    },
+    "difficulty": "hard",
+    "minutes": 180,
+    "source": null,
+    "note": {
+      "en": "Clean-room synthetic plugin derived from a real upstream fix.",
+      "zh": "由真实上游修复派生的清洁室合成插件。"
+    }
+  },
+  {
+    "number": "SG-134",
+    "game": "minecraft",
+    "pack": "synth",
+    "type": "repair",
+    "title": {
+      "en": "Synthetic Contract Behavior Regressions",
+      "zh": "Synthetic Contract Behavior Regressions"
+    },
+    "difficulty": "hard",
+    "minutes": 180,
+    "source": null,
+    "note": {
+      "en": "Clean-room synthetic plugin derived from a real upstream fix.",
+      "zh": "由真实上游修复派生的清洁室合成插件。"
+    }
+  },
+  {
+    "number": "SG-135",
+    "game": "minecraft",
+    "pack": "synth",
+    "type": "repair",
+    "title": {
+      "en": "Debugging task: SynthContract Paper plugin (Minecraft 1.21)",
+      "zh": "Debugging task: SynthContract Paper plugin (Minecraft 1.21)"
+    },
+    "difficulty": "hard",
+    "minutes": 180,
+    "source": null,
+    "note": {
+      "en": "Clean-room synthetic plugin derived from a real upstream fix.",
+      "zh": "由真实上游修复派生的清洁室合成插件。"
+    }
+  },
+  {
+    "number": "SG-136",
+    "game": "minecraft",
+    "pack": "synth",
+    "type": "repair",
+    "title": {
+      "en": "ArgonCore: Sign update notifications, periodic storage lag, and inventory cleanup failures",
+      "zh": "ArgonCore: Sign update notifications, periodic storage lag, and inventory cleanup failures"
+    },
+    "difficulty": "hard",
+    "minutes": 180,
+    "source": null,
+    "note": {
+      "en": "Clean-room synthetic plugin derived from a real upstream fix.",
+      "zh": "由真实上游修复派生的清洁室合成插件。"
+    }
+  },
+  {
+    "number": "SG-137",
+    "game": "minecraft",
+    "pack": "synth",
+    "type": "repair",
+    "title": {
+      "en": "ClearingCore — Debugging Task",
+      "zh": "ClearingCore — Debugging Task"
+    },
+    "difficulty": "hard",
+    "minutes": 180,
+    "source": null,
+    "note": {
+      "en": "Clean-room synthetic plugin derived from a real upstream fix.",
+      "zh": "由真实上游修复派生的清洁室合成插件。"
+    }
+  },
+  {
+    "number": "SG-138",
+    "game": "minecraft",
+    "pack": "synth",
+    "type": "repair",
+    "title": {
+      "en": "BlockInteractionGuard: Reported Defects",
+      "zh": "BlockInteractionGuard: Reported Defects"
+    },
+    "difficulty": "hard",
+    "minutes": 180,
+    "source": null,
+    "note": {
+      "en": "Clean-room synthetic plugin derived from a real upstream fix.",
+      "zh": "由真实上游修复派生的清洁室合成插件。"
+    }
+  },
+  {
+    "number": "SG-139",
+    "game": "minecraft",
+    "pack": "synth",
+    "type": "repair",
+    "title": {
+      "en": "WorldDiscoveryTools: Importable Worlds, Sleep Cycle, and Admin Override Behave Incorrectly",
+      "zh": "WorldDiscoveryTools: Importable Worlds, Sleep Cycle, and Admin Override Behave Incorrectly"
+    },
+    "difficulty": "hard",
+    "minutes": 180,
+    "source": null,
+    "note": {
+      "en": "Clean-room synthetic plugin derived from a real upstream fix.",
+      "zh": "由真实上游修复派生的清洁室合成插件。"
+    }
+  },
+  {
+    "number": "SG-140",
+    "game": "minecraft",
+    "pack": "synth",
+    "type": "repair",
+    "title": {
+      "en": "RadiusChainKit behavior debugging task",
+      "zh": "RadiusChainKit behavior debugging task"
+    },
+    "difficulty": "hard",
+    "minutes": 180,
+    "source": null,
+    "note": {
+      "en": "Clean-room synthetic plugin derived from a real upstream fix.",
+      "zh": "由真实上游修复派生的清洁室合成插件。"
+    }
+  },
+  {
+    "number": "SG-141",
+    "game": "minecraft",
+    "pack": "synth",
+    "type": "repair",
+    "title": {
+      "en": "Portal Gate Behaviors: Portal Advancements, Cooldown Notices, and Spawn Guidance",
+      "zh": "Portal Gate Behaviors: Portal Advancements, Cooldown Notices, and Spawn Guidance"
+    },
+    "difficulty": "hard",
+    "minutes": 180,
+    "source": null,
+    "note": {
+      "en": "Clean-room synthetic plugin derived from a real upstream fix.",
+      "zh": "由真实上游修复派生的清洁室合成插件。"
+    }
+  },
+  {
+    "number": "SG-142",
+    "game": "minecraft",
+    "pack": "synth",
+    "type": "repair",
+    "title": {
+      "en": "Debugging Task: SyntheticContract Plugin",
+      "zh": "Debugging Task: SyntheticContract Plugin"
+    },
+    "difficulty": "hard",
+    "minutes": 180,
+    "source": null,
+    "note": {
+      "en": "Clean-room synthetic plugin derived from a real upstream fix.",
+      "zh": "由真实上游修复派生的清洁室合成插件。"
+    }
+  },
+  {
+    "number": "SG-143",
+    "game": "minecraft",
+    "pack": "synth",
+    "type": "repair",
+    "title": {
+      "en": "NeutralVehicleCore — Several player-visible behaviors are wrong",
+      "zh": "NeutralVehicleCore — Several player-visible behaviors are wrong"
+    },
+    "difficulty": "hard",
+    "minutes": 180,
+    "source": null,
+    "note": {
+      "en": "Clean-room synthetic plugin derived from a real upstream fix.",
+      "zh": "由真实上游修复派生的清洁室合成插件。"
+    }
+  },
+  {
+    "number": "SG-144",
+    "game": "minecraft",
+    "pack": "synth",
+    "type": "repair",
+    "title": {
+      "en": "Debugging Task: Portal Info Plugin",
+      "zh": "Debugging Task: Portal Info Plugin"
+    },
+    "difficulty": "hard",
+    "minutes": 180,
+    "source": null,
+    "note": {
+      "en": "Clean-room synthetic plugin derived from a real upstream fix.",
+      "zh": "由真实上游修复派生的清洁室合成插件。"
+    }
+  },
+  {
+    "number": "SG-145",
+    "game": "minecraft",
+    "pack": "synth",
+    "type": "repair",
+    "title": {
+      "en": "Console probes return shop, portal and portal-frame results that contradict the documented contract",
+      "zh": "Console probes return shop, portal and portal-frame results that contradict the documented contract"
+    },
+    "difficulty": "hard",
+    "minutes": 180,
+    "source": null,
+    "note": {
+      "en": "Clean-room synthetic plugin derived from a real upstream fix.",
+      "zh": "由真实上游修复派生的清洁室合成插件。"
+    }
+  },
+  {
+    "number": "SG-146",
+    "game": "minecraft",
+    "pack": "synth",
+    "type": "repair",
+    "title": {
+      "en": "Cleanroom Minecraft Contract — Portal, Subtitle, Kit, and Version Handling",
+      "zh": "Cleanroom Minecraft Contract — Portal, Subtitle, Kit, and Version Handling"
+    },
+    "difficulty": "hard",
+    "minutes": 180,
+    "source": null,
+    "note": {
+      "en": "Clean-room synthetic plugin derived from a real upstream fix.",
+      "zh": "由真实上游修复派生的清洁室合成插件。"
+    }
+  },
+  {
+    "number": "SG-147",
+    "game": "minecraft",
+    "pack": "synth",
+    "type": "repair",
+    "title": {
+      "en": "CuboidProtocol: Scoreboard, Placeholder, and Entity Key Issues",
+      "zh": "CuboidProtocol: Scoreboard, Placeholder, and Entity Key Issues"
+    },
+    "difficulty": "hard",
+    "minutes": 180,
+    "source": null,
+    "note": {
+      "en": "Clean-room synthetic plugin derived from a real upstream fix.",
+      "zh": "由真实上游修复派生的清洁室合成插件。"
+    }
+  },
+  {
+    "number": "SG-148",
+    "game": "minecraft",
+    "pack": "synth",
+    "type": "repair",
+    "title": {
+      "en": "SynthBehaviors: three observable behavior discrepancies",
+      "zh": "SynthBehaviors: three observable behavior discrepancies"
+    },
+    "difficulty": "hard",
+    "minutes": 180,
+    "source": null,
+    "note": {
+      "en": "Clean-room synthetic plugin derived from a real upstream fix.",
+      "zh": "由真实上游修复派生的清洁室合成插件。"
+    }
+  },
+  {
+    "number": "SG-149",
+    "game": "minecraft",
+    "pack": "synth",
+    "type": "repair",
+    "title": {
+      "en": "NetherLink prportal behavior issues",
+      "zh": "NetherLink prportal behavior issues"
+    },
+    "difficulty": "hard",
+    "minutes": 180,
+    "source": null,
+    "note": {
+      "en": "Clean-room synthetic plugin derived from a real upstream fix.",
+      "zh": "由真实上游修复派生的清洁室合成插件。"
+    }
+  },
+  {
+    "number": "SG-150",
+    "game": "minecraft",
+    "pack": "synth",
+    "type": "repair",
+    "title": {
+      "en": "Course movement, linked portals, and message keys misbehave",
+      "zh": "Course movement, linked portals, and message keys misbehave"
+    },
+    "difficulty": "hard",
+    "minutes": 180,
+    "source": null,
+    "note": {
+      "en": "Clean-room synthetic plugin derived from a real upstream fix.",
+      "zh": "由真实上游修复派生的清洁室合成插件。"
+    }
+  },
+  {
+    "number": "SG-151",
+    "game": "minecraft",
+    "pack": "synth",
+    "type": "repair",
+    "title": {
+      "en": "Portal Contract behavior issues",
+      "zh": "Portal Contract behavior issues"
+    },
+    "difficulty": "hard",
+    "minutes": 180,
+    "source": null,
+    "note": {
+      "en": "Clean-room synthetic plugin derived from a real upstream fix.",
+      "zh": "由真实上游修复派生的清洁室合成插件。"
+    }
+  },
+  {
+    "number": "SG-152",
+    "game": "minecraft",
+    "pack": "synth",
+    "type": "repair",
+    "title": {
+      "en": "WorldshiftContract — reported problems",
+      "zh": "WorldshiftContract — reported problems"
+    },
+    "difficulty": "hard",
+    "minutes": 180,
+    "source": null,
+    "note": {
+      "en": "Clean-room synthetic plugin derived from a real upstream fix.",
+      "zh": "由真实上游修复派生的清洁室合成插件。"
+    }
+  },
+  {
+    "number": "SG-153",
+    "game": "minecraft",
+    "pack": "synth",
+    "type": "repair",
+    "title": {
+      "en": "Debugging task: user-visible contract failures in synthetic-contract-plugin",
+      "zh": "Debugging task: user-visible contract failures in synthetic-contract-plugin"
+    },
+    "difficulty": "hard",
+    "minutes": 180,
+    "source": null,
+    "note": {
+      "en": "Clean-room synthetic plugin derived from a real upstream fix.",
+      "zh": "由真实上游修复派生的清洁室合成插件。"
+    }
+  },
+  {
+    "number": "SG-154",
+    "game": "minecraft",
+    "pack": "synth",
+    "type": "repair",
+    "title": {
+      "en": "ServerKit observed contract violations",
+      "zh": "ServerKit observed contract violations"
+    },
+    "difficulty": "hard",
+    "minutes": 180,
+    "source": null,
+    "note": {
+      "en": "Clean-room synthetic plugin derived from a real upstream fix.",
+      "zh": "由真实上游修复派生的清洁室合成插件。"
+    }
+  },
+  {
+    "number": "SG-155",
+    "game": "minecraft",
+    "pack": "synth",
+    "type": "repair",
+    "title": {
+      "en": "Observed behavior in SynthPlugin",
+      "zh": "Observed behavior in SynthPlugin"
+    },
+    "difficulty": "hard",
+    "minutes": 180,
+    "source": null,
+    "note": {
+      "en": "Clean-room synthetic plugin derived from a real upstream fix.",
+      "zh": "由真实上游修复派生的清洁室合成插件。"
+    }
+  },
+  {
+    "number": "SG-156",
+    "game": "minecraft",
+    "pack": "synth",
+    "type": "repair",
+    "title": {
+      "en": "sleepcounter — build blocker, square-fill semantics, and a silent inspect command",
+      "zh": "sleepcounter — build blocker, square-fill semantics, and a silent inspect command"
+    },
+    "difficulty": "hard",
+    "minutes": 180,
+    "source": null,
+    "note": {
+      "en": "Clean-room synthetic plugin derived from a real upstream fix.",
+      "zh": "由真实上游修复派生的清洁室合成插件。"
+    }
+  },
+  {
+    "number": "SG-157",
+    "game": "minecraft",
+    "pack": "synth",
+    "type": "repair",
+    "title": {
+      "en": "Course command debugging task",
+      "zh": "Course command debugging task"
+    },
+    "difficulty": "hard",
+    "minutes": 180,
+    "source": null,
+    "note": {
+      "en": "Clean-room synthetic plugin derived from a real upstream fix.",
+      "zh": "由真实上游修复派生的清洁室合成插件。"
+    }
+  },
+  {
+    "number": "SG-158",
+    "game": "minecraft",
+    "pack": "synth",
+    "type": "repair",
+    "title": {
+      "en": "SynthCuiRouter — Client Render Routing, Block Statistic Saving, and API Surface",
+      "zh": "SynthCuiRouter — Client Render Routing, Block Statistic Saving, and API Surface"
+    },
+    "difficulty": "hard",
+    "minutes": 180,
+    "source": null,
+    "note": {
+      "en": "Clean-room synthetic plugin derived from a real upstream fix.",
+      "zh": "由真实上游修复派生的清洁室合成插件。"
+    }
+  },
+  {
+    "number": "SG-159",
+    "game": "minecraft",
+    "pack": "synth",
+    "type": "repair",
+    "title": {
+      "en": "SynthGuard protections do not hold on newer servers",
+      "zh": "SynthGuard protections do not hold on newer servers"
+    },
+    "difficulty": "hard",
+    "minutes": 180,
+    "source": null,
+    "note": {
+      "en": "Clean-room synthetic plugin derived from a real upstream fix.",
+      "zh": "由真实上游修复派生的清洁室合成插件。"
+    }
+  },
+  {
+    "number": "SG-160",
+    "game": "minecraft",
+    "pack": "synth",
+    "type": "repair",
+    "title": {
+      "en": "Bug report: prefixed messages, profile UUID handling, and shop visibility updates",
+      "zh": "Bug report: prefixed messages, profile UUID handling, and shop visibility updates"
+    },
+    "difficulty": "hard",
+    "minutes": 180,
+    "source": null,
+    "note": {
+      "en": "Clean-room synthetic plugin derived from a real upstream fix.",
+      "zh": "由真实上游修复派生的清洁室合成插件。"
+    }
+  },
+  {
+    "number": "SG-161",
+    "game": "minecraft",
+    "pack": "synth",
+    "type": "repair",
+    "title": {
+      "en": "PaperCoreContract: deferred dispatch reports the wrong execution mode, and saving a location crashes on load",
+      "zh": "PaperCoreContract: deferred dispatch reports the wrong execution mode, and saving a location crashes on load"
+    },
+    "difficulty": "hard",
+    "minutes": 180,
+    "source": null,
+    "note": {
+      "en": "Clean-room synthetic plugin derived from a real upstream fix.",
+      "zh": "由真实上游修复派生的清洁室合成插件。"
+    }
+  },
+  {
+    "number": "SG-162",
+    "game": "minecraft",
+    "pack": "synth",
+    "type": "repair",
+    "title": {
+      "en": "Neutral World Portal — world load flag exposure and cooldown message reporting",
+      "zh": "Neutral World Portal — world load flag exposure and cooldown message reporting"
+    },
+    "difficulty": "hard",
+    "minutes": 180,
+    "source": null,
+    "note": {
+      "en": "Clean-room synthetic plugin derived from a real upstream fix.",
+      "zh": "由真实上游修复派生的清洁室合成插件。"
+    }
+  },
+  {
+    "number": "SG-163",
+    "game": "minecraft",
+    "pack": "history",
+    "type": "repair",
+    "title": {
+      "en": "Multiverse-Core: spawns can be placed outside the world border",
+      "zh": "Multiverse-Core: spawns can be placed outside the world border"
+    },
+    "difficulty": "medium",
+    "minutes": 90,
+    "source": {
+      "name": "Multiverse-Core",
+      "license": "BSD-3-Clause"
+    },
+    "note": null
+  },
+  {
+    "number": "SG-164",
+    "game": "minecraft",
+    "pack": "history",
+    "type": "repair",
+    "title": {
+      "en": "ConfigLib: a failed configuration save erases the YAML file",
+      "zh": "ConfigLib: a failed configuration save erases the YAML file"
+    },
+    "difficulty": "easy",
+    "minutes": 45,
+    "source": {
+      "name": "ConfigLib",
+      "license": "MIT"
+    },
+    "note": null
+  },
+  {
+    "number": "SG-165",
+    "game": "minecraft",
+    "pack": "history",
+    "type": "repair",
+    "title": {
+      "en": "Multiverse-Core: entity-spawn tick-rate and spawn-limit edits are accepted even when the core config disables them",
+      "zh": "Multiverse-Core: entity-spawn tick-rate and spawn-limit edits are accepted even when the core config disables them"
+    },
+    "difficulty": "easy",
+    "minutes": 45,
+    "source": {
+      "name": "Multiverse-Core",
+      "license": "BSD-3-Clause"
+    },
+    "note": null
+  },
+  {
+    "number": "SG-166",
+    "game": "minecraft",
+    "pack": "history",
+    "type": "repair",
+    "title": {
+      "en": "Nextron: language files disappear after a reload and translations break",
+      "zh": "Nextron: language files disappear after a reload and translations break"
+    },
+    "difficulty": "medium",
+    "minutes": 90,
+    "source": {
+      "name": "Nextron",
+      "license": "MIT"
+    },
+    "note": null
+  },
+  {
+    "number": "SG-167",
+    "game": "minecraft",
+    "pack": "construct",
+    "type": "construct",
+    "title": {
+      "en": "Write a plugin: CoinLedger, a bank ledger for the server",
+      "zh": "Write a plugin: CoinLedger, a bank ledger for the server"
+    },
+    "difficulty": "hard",
+    "minutes": 240,
+    "source": null,
+    "note": null
+  },
+  {
+    "number": "SG-168",
+    "game": "minecraft",
+    "pack": "construct",
+    "type": "construct",
+    "title": {
+      "en": "Write a plugin: BlockTrail, a block change log with rollback",
+      "zh": "Write a plugin: BlockTrail, a block change log with rollback"
+    },
+    "difficulty": "hard",
+    "minutes": 240,
+    "source": null,
+    "note": null
+  },
+  {
+    "number": "SG-169",
+    "game": "minecraft",
+    "pack": "construct",
+    "type": "construct",
+    "title": {
+      "en": "Write a plugin: TownCrier, timed server announcements",
+      "zh": "Write a plugin: TownCrier, timed server announcements"
+    },
+    "difficulty": "hard",
+    "minutes": 240,
+    "source": null,
+    "note": null
+  },
+  {
+    "number": "SG-170",
+    "game": "minecraft",
+    "pack": "construct",
+    "type": "construct",
+    "title": {
+      "en": "Write a plugin: Wardstone, cuboid region protection",
+      "zh": "Write a plugin: Wardstone, cuboid region protection"
+    },
+    "difficulty": "hard",
+    "minutes": 240,
+    "source": null,
+    "note": null
+  },
+  {
+    "number": "SG-171",
+    "game": "minecraft",
+    "pack": "construct",
+    "type": "construct",
+    "title": {
+      "en": "Write a plugin: Recipesmith, custom recipes from a configuration file",
+      "zh": "Write a plugin: Recipesmith, custom recipes from a configuration file"
+    },
+    "difficulty": "hard",
+    "minutes": 240,
+    "source": null,
+    "note": null
+  },
+  {
+    "number": "SG-172",
+    "game": "palworld",
+    "pack": "core",
+    "type": "construct",
+    "title": {
+      "en": "服务端权威公会仓库物资账本",
+      "zh": "服务端权威公会仓库物资账本"
+    },
+    "difficulty": "hard",
+    "minutes": 360,
+    "source": null,
+    "note": null
+  },
+  {
+    "number": "SG-173",
+    "game": "palworld",
+    "pack": "core",
+    "type": "construct",
+    "title": {
+      "en": "崩溃安全的帕鲁箱转移事务",
+      "zh": "崩溃安全的帕鲁箱转移事务"
+    },
+    "difficulty": "hard",
+    "minutes": 420,
+    "source": null,
+    "note": null
+  },
+  {
+    "number": "SG-174",
+    "game": "palworld",
+    "pack": "core",
+    "type": "construct",
+    "title": {
+      "en": "基于租约的突袭派遣队列",
+      "zh": "基于租约的突袭派遣队列"
+    },
+    "difficulty": "hard",
+    "minutes": 390,
+    "source": null,
+    "note": null
+  },
+  {
+    "number": "SG-175",
+    "game": "palworld",
+    "pack": "core",
+    "type": "construct",
+    "title": {
+      "en": "服务端权威世界规则投票",
+      "zh": "服务端权威世界规则投票"
+    },
+    "difficulty": "hard",
+    "minutes": 360,
+    "source": null,
+    "note": null
+  },
+  {
+    "number": "SG-176",
+    "game": "palworld",
+    "pack": "core",
+    "type": "construct",
+    "title": {
+      "en": "确定性伤害归属仲裁器",
+      "zh": "确定性伤害归属仲裁器"
+    },
+    "difficulty": "hard",
+    "minutes": 390,
+    "source": null,
+    "note": null
+  },
+  {
+    "number": "SG-177",
+    "game": "palworld",
+    "pack": "core",
+    "type": "construct",
+    "title": {
+      "en": "崩溃窗口下的物资发放回执协议",
+      "zh": "崩溃窗口下的物资发放回执协议"
+    },
+    "difficulty": "hard",
+    "minutes": 660,
+    "source": null,
+    "note": null
+  },
+  {
+    "number": "SG-178",
+    "game": "palworld",
+    "pack": "core",
+    "type": "construct",
+    "title": {
+      "en": "帕鲁工作适应性的全局最优分配",
+      "zh": "帕鲁工作适应性的全局最优分配"
+    },
+    "difficulty": "hard",
+    "minutes": 720,
+    "source": null,
+    "note": null
+  },
+  {
+    "number": "SG-179",
+    "game": "palworld",
+    "pack": "core",
+    "type": "construct",
+    "title": {
+      "en": "支持撤销与迟到边界的突袭贡献结算",
+      "zh": "支持撤销与迟到边界的突袭贡献结算"
+    },
+    "difficulty": "hard",
+    "minutes": 660,
+    "source": null,
+    "note": null
+  },
+  {
+    "number": "SG-180",
+    "game": "palworld",
+    "pack": "core",
+    "type": "construct",
+    "title": {
+      "en": "跨据点因果一致的最大存档切面",
+      "zh": "跨据点因果一致的最大存档切面"
+    },
+    "difficulty": "hard",
+    "minutes": 720,
+    "source": null,
+    "note": null
+  },
+  {
+    "number": "SG-181",
+    "game": "palworld",
+    "pack": "core",
+    "type": "construct",
+    "title": {
+      "en": "世界换代与旧回调隔离的任务调度器",
+      "zh": "世界换代与旧回调隔离的任务调度器"
+    },
+    "difficulty": "hard",
+    "minutes": 660,
+    "source": null,
+    "note": null
+  },
+  {
+    "number": "SG-182",
+    "game": "rimworld",
+    "pack": "core",
+    "type": "repair",
+    "title": {
+      "en": "Restore the material basis for uncraftable gear",
+      "zh": "Restore the material basis for uncraftable gear"
+    },
+    "difficulty": "medium",
+    "minutes": 120,
+    "source": {
+      "name": "R⁴",
+      "license": "MIT"
+    },
+    "note": null
+  },
+  {
+    "number": "SG-183",
+    "game": "rimworld",
+    "pack": "core",
+    "type": "repair",
+    "title": {
+      "en": "Consume repair ingredients placed around small workbenches",
+      "zh": "Consume repair ingredients placed around small workbenches"
+    },
+    "difficulty": "hard",
+    "minutes": 150,
+    "source": {
+      "name": "R⁴",
+      "license": "MIT"
+    },
+    "note": null
+  },
+  {
+    "number": "SG-184",
+    "game": "rimworld",
+    "pack": "core",
+    "type": "repair",
+    "title": {
+      "en": "Use local growing conditions for cultivator planting",
+      "zh": "Use local growing conditions for cultivator planting"
+    },
+    "difficulty": "hard",
+    "minutes": 150,
+    "source": {
+      "name": "Project RimFactory Revived",
+      "license": "MIT"
+    },
+    "note": null
+  },
+  {
+    "number": "SG-185",
+    "game": "rimworld",
+    "pack": "core",
+    "type": "repair",
+    "title": {
+      "en": "Restore a saved storage slot limit after loading",
+      "zh": "Restore a saved storage slot limit after loading"
+    },
+    "difficulty": "hard",
+    "minutes": 150,
+    "source": {
+      "name": "Adaptive Storage Framework",
+      "license": "MIT"
+    },
+    "note": {
+      "en": "Not evaluable yet: the pinned .NET SDK cannot compile this task's starter.",
+      "zh": "暂不可评测：锁定版本的 .NET SDK 无法编译该题的 starter。"
+    }
+  },
+  {
+    "number": "SG-186",
+    "game": "rimworld",
+    "pack": "core",
+    "type": "repair",
+    "title": {
+      "en": "Preserve raw colony wealth for storyteller accounting",
+      "zh": "Preserve raw colony wealth for storyteller accounting"
+    },
+    "difficulty": "hard",
+    "minutes": 150,
+    "source": {
+      "name": "Combat Readiness Check (Continued)",
+      "license": "MIT"
+    },
+    "note": null
+  },
+  {
+    "number": "SG-187",
+    "game": "rimworld",
+    "pack": "core",
+    "type": "repair",
+    "title": {
+      "en": "Manage weapon abilities when a pawn has no tracker",
+      "zh": "Manage weapon abilities when a pawn has no tracker"
+    },
+    "difficulty": "hard",
+    "minutes": 150,
+    "source": {
+      "name": "Customize Weapon",
+      "license": "MIT"
+    },
+    "note": null
+  },
+  {
+    "number": "SG-188",
+    "game": "rimworld",
+    "pack": "core",
+    "type": "repair",
+    "title": {
+      "en": "Preserve vanilla quality and hit points without overrides",
+      "zh": "Preserve vanilla quality and hit points without overrides"
+    },
+    "difficulty": "hard",
+    "minutes": 150,
+    "source": {
+      "name": "Rimsential - Total Control: Continued",
+      "license": "MIT"
+    },
+    "note": null
+  },
+  {
+    "number": "SG-189",
+    "game": "rimworld",
+    "pack": "core",
+    "type": "repair",
+    "title": {
+      "en": "Preserve foreign bill repeat-mode ownership",
+      "zh": "Preserve foreign bill repeat-mode ownership"
+    },
+    "difficulty": "hard",
+    "minutes": 150,
+    "source": {
+      "name": "Bill Autopilot",
+      "license": "MIT"
+    },
+    "note": null
+  },
+  {
+    "number": "SG-190",
+    "game": "rimworld",
+    "pack": "core",
+    "type": "repair",
+    "title": {
+      "en": "Account for sold non-bulk trade goods",
+      "zh": "Account for sold non-bulk trade goods"
+    },
+    "difficulty": "hard",
+    "minutes": 150,
+    "source": {
+      "name": "Playwright",
+      "license": "MIT"
+    },
+    "note": null
+  },
+  {
+    "number": "SG-191",
+    "game": "rimworld",
+    "pack": "core",
+    "type": "repair",
+    "title": {
+      "en": "Respect dynamic need maxima and enhanced capacities",
+      "zh": "Respect dynamic need maxima and enhanced capacities"
+    },
+    "difficulty": "hard",
+    "minutes": 150,
+    "source": {
+      "name": "Zombieland",
+      "license": "MIT"
+    },
+    "note": null
+  },
+  {
+    "number": "SG-192",
+    "game": "slay-the-spire",
+    "pack": "core",
+    "type": "repair",
+    "title": {
+      "en": "ModTheSpire: reports about loading mods and patching the game",
+      "zh": "ModTheSpire: reports about loading mods and patching the game"
+    },
+    "difficulty": "hard",
+    "minutes": 180,
+    "source": {
+      "name": "ModTheSpire"
+    },
+    "note": {
+      "en": "Evaluated on the ModTheSpire loader alone, without the base game.",
+      "zh": "只评测 ModTheSpire 加载器，不需要原版游戏。"
+    }
+  },
+  {
+    "number": "SG-193",
+    "game": "slay-the-spire",
+    "pack": "core",
+    "type": "repair",
+    "title": {
+      "en": "ModTheSpire: reports about telling mods apart",
+      "zh": "ModTheSpire: reports about telling mods apart"
+    },
+    "difficulty": "hard",
+    "minutes": 180,
+    "source": {
+      "name": "ModTheSpire"
+    },
+    "note": {
+      "en": "Evaluated on the ModTheSpire loader alone, without the base game.",
+      "zh": "只评测 ModTheSpire 加载器，不需要原版游戏。"
+    }
+  },
+  {
+    "number": "SG-194",
+    "game": "slay-the-spire",
+    "pack": "core",
+    "type": "repair",
+    "title": {
+      "en": "ModTheSpire: reports from the modding community",
+      "zh": "ModTheSpire: reports from the modding community"
+    },
+    "difficulty": "hard",
+    "minutes": 180,
+    "source": {
+      "name": "ModTheSpire"
+    },
+    "note": {
+      "en": "Evaluated on the ModTheSpire loader alone, without the base game.",
+      "zh": "只评测 ModTheSpire 加载器，不需要原版游戏。"
+    }
+  },
+  {
+    "number": "SG-195",
+    "game": "slay-the-spire",
+    "pack": "core",
+    "type": "repair",
+    "title": {
+      "en": "BaseMod: Card descriptions disagree across updates",
+      "zh": "BaseMod：卡牌描述在更新后显示不一致"
+    },
+    "difficulty": "hard",
+    "minutes": 180,
+    "source": {
+      "name": "BaseMod"
+    },
+    "note": {
+      "en": "Needs an operator-supplied licensed game and the manual Harbor workflow.",
+      "zh": "需要操作员提供正版游戏，并通过手动 Harbor 流程评测。"
+    }
+  },
+  {
+    "number": "SG-196",
+    "game": "slay-the-spire",
+    "pack": "core",
+    "type": "repair",
+    "title": {
+      "en": "StSLib: Custom block gets counted incorrectly",
+      "zh": "StSLib：自定义格挡结算出错"
+    },
+    "difficulty": "hard",
+    "minutes": 180,
+    "source": {
+      "name": "StSLib"
+    },
+    "note": {
+      "en": "Needs an operator-supplied licensed game and the manual Harbor workflow.",
+      "zh": "需要操作员提供正版游戏，并通过手动 Harbor 流程评测。"
+    }
+  },
+  {
+    "number": "SG-197",
+    "game": "slay-the-spire",
+    "pack": "core",
+    "type": "repair",
+    "title": {
+      "en": "ModTheSpire: Extended values disagree across mods",
+      "zh": "ModTheSpire：模组扩展值在不同用法中不一致"
+    },
+    "difficulty": "hard",
+    "minutes": 180,
+    "source": {
+      "name": "ModTheSpire"
+    },
+    "note": {
+      "en": "Needs an operator-supplied licensed game and the manual Harbor workflow.",
+      "zh": "需要操作员提供正版游戏，并通过手动 Harbor 流程评测。"
+    }
+  },
+  {
+    "number": "SG-198",
+    "game": "slay-the-spire",
+    "pack": "core",
+    "type": "repair",
+    "title": {
+      "en": "StSLib: Custom icon measurements disagree with drawing",
+      "zh": "StSLib：自定义图标的测量与绘制不一致"
+    },
+    "difficulty": "hard",
+    "minutes": 180,
+    "source": {
+      "name": "StSLib"
+    },
+    "note": {
+      "en": "Needs an operator-supplied licensed game and the manual Harbor workflow.",
+      "zh": "需要操作员提供正版游戏，并通过手动 Harbor 流程评测。"
+    }
+  },
+  {
+    "number": "SG-199",
+    "game": "slay-the-spire",
+    "pack": "core",
+    "type": "repair",
+    "title": {
+      "en": "Downfall: Queued stored-card transfers lose ownership",
+      "zh": "Downfall：排队中的封存卡牌转移破坏归属关系"
+    },
+    "difficulty": "hard",
+    "minutes": 180,
+    "source": {
+      "name": "Downfall"
+    },
+    "note": {
+      "en": "Needs an operator-supplied licensed game and the manual Harbor workflow.",
+      "zh": "需要操作员提供正版游戏，并通过手动 Harbor 流程评测。"
+    }
+  },
+  {
+    "number": "SG-200",
+    "game": "slay-the-spire",
+    "pack": "core",
+    "type": "repair",
+    "title": {
+      "en": "BaseMod: Event redirects leave stale phases and choices",
+      "zh": "BaseMod：事件跳转残留过期阶段和选项"
+    },
+    "difficulty": "hard",
+    "minutes": 180,
+    "source": {
+      "name": "BaseMod"
+    },
+    "note": {
+      "en": "Needs an operator-supplied licensed game and the manual Harbor workflow.",
+      "zh": "需要操作员提供正版游戏，并通过手动 Harbor 流程评测。"
+    }
+  },
+  {
+    "number": "SG-201",
+    "game": "slay-the-spire",
+    "pack": "core",
+    "type": "repair",
+    "title": {
+      "en": "Downfall: Campfire selections leak across cancellation",
+      "zh": "Downfall：营火选择流程在取消后互相干扰"
+    },
+    "difficulty": "hard",
+    "minutes": 180,
+    "source": {
+      "name": "Downfall"
+    },
+    "note": {
+      "en": "Needs an operator-supplied licensed game and the manual Harbor workflow.",
+      "zh": "需要操作员提供正版游戏，并通过手动 Harbor 流程评测。"
+    }
+  },
+  {
+    "number": "SG-202",
+    "game": "terraria",
+    "pack": "core",
+    "type": "repair",
+    "title": {
+      "en": "Magic Storage compressed I/O regressions",
+      "zh": "Magic Storage compressed I/O regressions"
+    },
+    "difficulty": "hard",
+    "minutes": 360,
+    "source": {
+      "name": "Magic Storage",
+      "license": "MIT"
+    },
+    "note": null
+  },
+  {
+    "number": "SG-203",
+    "game": "terraria",
+    "pack": "core",
+    "type": "repair",
+    "title": {
+      "en": "Repair Fargo's Mutant Mod Enchanted Tree transactions",
+      "zh": "Repair Fargo's Mutant Mod Enchanted Tree transactions"
+    },
+    "difficulty": "hard",
+    "minutes": 480,
+    "source": {
+      "name": "Fargo's Mutant Mod",
+      "license": "MIT"
+    },
+    "note": null
+  },
+  {
+    "number": "SG-204",
+    "game": "terraria",
+    "pack": "core",
+    "type": "repair",
+    "title": {
+      "en": "Repair Terraria Overhaul entity-backed chunk lifetime",
+      "zh": "Repair Terraria Overhaul entity-backed chunk lifetime"
+    },
+    "difficulty": "hard",
+    "minutes": 480,
+    "source": {
+      "name": "Terraria Overhaul",
+      "license": "GPL-3.0"
+    },
+    "note": null
+  },
+  {
+    "number": "SG-205",
+    "game": "terraria",
+    "pack": "core",
+    "type": "repair",
+    "title": {
+      "en": "Repair Quality of Terraria Space Wand authority and geometry",
+      "zh": "Repair Quality of Terraria Space Wand authority and geometry"
+    },
+    "difficulty": "hard",
+    "minutes": 420,
+    "source": {
+      "name": "Quality of Terraria",
+      "license": "MIT"
+    },
+    "note": null
+  },
+  {
+    "number": "SG-206",
+    "game": "terraria",
+    "pack": "core",
+    "type": "repair",
+    "title": {
+      "en": "Repair Spirit Mod branching quest replication",
+      "zh": "Repair Spirit Mod branching quest replication"
+    },
+    "difficulty": "hard",
+    "minutes": 420,
+    "source": {
+      "name": "Spirit Mod",
+      "license": "MIT"
+    },
+    "note": null
+  },
+  {
+    "number": "SG-207",
+    "game": "terraria",
+    "pack": "core",
+    "type": "repair",
+    "title": {
+      "en": "Repair ModLiquid Library map persistence",
+      "zh": "Repair ModLiquid Library map persistence"
+    },
+    "difficulty": "hard",
+    "minutes": 600,
+    "source": {
+      "name": "ModLiquid Library",
+      "license": "MIT"
+    },
+    "note": null
+  },
+  {
+    "number": "SG-208",
+    "game": "terraria",
+    "pack": "core",
+    "type": "repair",
+    "title": {
+      "en": "Repair Aequus carpentry replication",
+      "zh": "Repair Aequus carpentry replication"
+    },
+    "difficulty": "hard",
+    "minutes": 420,
+    "source": {
+      "name": "Aequus",
+      "license": "MIT"
+    },
+    "note": null
+  },
+  {
+    "number": "SG-209",
+    "game": "terraria",
+    "pack": "core",
+    "type": "repair",
+    "title": {
+      "en": "Repair Starlight River ability state",
+      "zh": "Repair Starlight River ability state"
+    },
+    "difficulty": "hard",
+    "minutes": 480,
+    "source": {
+      "name": "Starlight River",
+      "license": "GPL-3.0"
+    },
+    "note": null
+  },
+  {
+    "number": "SG-210",
+    "game": "terraria",
+    "pack": "core",
+    "type": "repair",
+    "title": {
+      "en": "Repair Fargo's Souls toggle presets",
+      "zh": "Repair Fargo's Souls toggle presets"
+    },
+    "difficulty": "hard",
+    "minutes": 480,
+    "source": {
+      "name": "Fargo's Souls Mod",
+      "license": "MIT"
+    },
+    "note": null
+  },
+  {
+    "number": "SG-211",
+    "game": "terraria",
+    "pack": "core",
+    "type": "repair",
+    "title": {
+      "en": "Repair Calamity Overhaul time-control replication",
+      "zh": "Repair Calamity Overhaul time-control replication"
+    },
+    "difficulty": "hard",
+    "minutes": 480,
+    "source": {
+      "name": "Calamity Overhaul",
+      "license": "MIT"
+    },
+    "note": null
+  }
+]
