@@ -115,7 +115,7 @@ footer { color: var(--muted); font-size: 13px; padding: 0 0 40px; }
       <input type="search" id="q" aria-label="Search" autocomplete="off">
       <select id="type" aria-label="Type"></select>
       <select id="difficulty" aria-label="Difficulty"></select>
-      <button type="button" id="lang" aria-label="Language"></button>
+      <button type="button" id="lang"></button>
       <button type="button" id="theme" aria-label="Theme">◐</button>
     </div>
     <div class="chips" id="games" role="group" aria-label="Games"></div>
@@ -208,7 +208,7 @@ footer { color: var(--muted); font-size: 13px; padding: 0 0 40px; }
     document.getElementById("difficulty").setAttribute("aria-label", t("diffLabel"));
     document.getElementById("games").setAttribute("aria-label", t("gamesLabel"));
     document.getElementById("lang").textContent = t("lang");
-    document.getElementById("lang").setAttribute("aria-label", t("langLabel"));
+    document.getElementById("lang").setAttribute("title", t("langLabel"));
     document.getElementById("theme").setAttribute("aria-label", t("themeLabel"));
     var games = {}; var repair = 0;
     TASKS.forEach(function (task) { games[task.game] = true; if (task.type === "repair") repair++; });
