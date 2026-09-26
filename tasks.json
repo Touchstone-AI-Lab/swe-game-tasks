@@ -14,7 +14,12 @@
       "name": "DST Fixed",
       "license": "Apache-2.0"
     },
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    }
   },
   {
     "number": "SG-002",
@@ -31,7 +36,12 @@
       "name": "DST Fixed",
       "license": "Apache-2.0"
     },
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    }
   },
   {
     "number": "SG-003",
@@ -48,7 +58,12 @@
       "name": "Composting Together",
       "license": "MIT"
     },
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    }
   },
   {
     "number": "SG-004",
@@ -65,7 +80,12 @@
       "name": "DsMMO",
       "license": "Apache-2.0"
     },
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    }
   },
   {
     "number": "SG-005",
@@ -82,7 +102,12 @@
       "name": "Glassic API",
       "license": "Apache-2.0"
     },
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    }
   },
   {
     "number": "SG-006",
@@ -96,7 +121,12 @@
     "difficulty": "hard",
     "minutes": 360,
     "source": null,
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    }
   },
   {
     "number": "SG-007",
@@ -110,7 +140,12 @@
     "difficulty": "hard",
     "minutes": 420,
     "source": null,
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    }
   },
   {
     "number": "SG-008",
@@ -124,7 +159,12 @@
     "difficulty": "hard",
     "minutes": 390,
     "source": null,
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    }
   },
   {
     "number": "SG-009",
@@ -138,7 +178,12 @@
     "difficulty": "hard",
     "minutes": 360,
     "source": null,
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "not-scored",
+      "en": "Not scored (evaluation stopped)",
+      "zh": "未计分（评测中断）"
+    }
   },
   {
     "number": "SG-010",
@@ -152,7 +197,12 @@
     "difficulty": "hard",
     "minutes": 390,
     "source": null,
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    }
   },
   {
     "number": "SG-011",
@@ -166,7 +216,12 @@
     "difficulty": "hard",
     "minutes": 420,
     "source": null,
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    }
   },
   {
     "number": "SG-012",
@@ -180,7 +235,12 @@
     "difficulty": "hard",
     "minutes": 390,
     "source": null,
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    }
   },
   {
     "number": "SG-013",
@@ -194,7 +254,12 @@
     "difficulty": "hard",
     "minutes": 390,
     "source": null,
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "not-scored",
+      "en": "Not scored (evaluation stopped)",
+      "zh": "未计分（评测中断）"
+    }
   },
   {
     "number": "SG-014",
@@ -208,7 +273,12 @@
     "difficulty": "hard",
     "minutes": 390,
     "source": null,
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    }
   },
   {
     "number": "SG-015",
@@ -222,7 +292,12 @@
     "difficulty": "hard",
     "minutes": 390,
     "source": null,
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    }
   },
   {
     "number": "SG-016",
@@ -236,7 +311,12 @@
     "difficulty": "medium",
     "minutes": 180,
     "source": null,
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    }
   },
   {
     "number": "SG-017",
@@ -250,7 +330,12 @@
     "difficulty": "hard",
     "minutes": 360,
     "source": null,
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    }
   },
   {
     "number": "SG-018",
@@ -264,7 +349,12 @@
     "difficulty": "hard",
     "minutes": 360,
     "source": null,
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    }
   },
   {
     "number": "SG-019",
@@ -278,7 +368,12 @@
     "difficulty": "hard",
     "minutes": 390,
     "source": null,
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    }
   },
   {
     "number": "SG-020",
@@ -292,7 +387,12 @@
     "difficulty": null,
     "minutes": 420,
     "source": null,
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    }
   },
   {
     "number": "SG-021",
@@ -308,7 +408,12 @@
     "source": {
       "name": "DarkRP"
     },
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    }
   },
   {
     "number": "SG-022",
@@ -324,7 +429,12 @@
     "source": {
       "name": "DarkRP"
     },
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    }
   },
   {
     "number": "SG-023",
@@ -340,7 +450,12 @@
     "source": {
       "name": "DarkRP"
     },
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    }
   },
   {
     "number": "SG-024",
@@ -356,7 +471,12 @@
     "source": {
       "name": "DarkRP"
     },
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    }
   },
   {
     "number": "SG-025",
@@ -372,7 +492,12 @@
     "source": {
       "name": "DarkRP"
     },
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    }
   },
   {
     "number": "SG-026",
@@ -388,7 +513,12 @@
     "source": {
       "name": "DarkRP"
     },
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    }
   },
   {
     "number": "SG-027",
@@ -404,7 +534,12 @@
     "source": {
       "name": "DarkRP"
     },
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    }
   },
   {
     "number": "SG-028",
@@ -420,7 +555,12 @@
     "source": {
       "name": "DarkRP"
     },
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    }
   },
   {
     "number": "SG-029",
@@ -436,7 +576,12 @@
     "source": {
       "name": "Advanced Duplicator 2"
     },
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    }
   },
   {
     "number": "SG-030",
@@ -452,7 +597,12 @@
     "source": {
       "name": "Contraption Framework"
     },
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    }
   },
   {
     "number": "SG-031",
@@ -468,7 +618,12 @@
     "source": {
       "name": "StarfallEx"
     },
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    }
   },
   {
     "number": "SG-032",
@@ -484,7 +639,12 @@
     "source": {
       "name": "Wiremod"
     },
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    }
   },
   {
     "number": "SG-033",
@@ -500,7 +660,12 @@
     "source": {
       "name": "Wiremod"
     },
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    }
   },
   {
     "number": "SG-034",
@@ -516,7 +681,12 @@
     "source": {
       "name": "Exodus"
     },
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    }
   },
   {
     "number": "SG-035",
@@ -532,7 +702,12 @@
     "source": {
       "name": "Exodus"
     },
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    }
   },
   {
     "number": "SG-036",
@@ -548,7 +723,12 @@
     "source": {
       "name": "Exodus"
     },
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    }
   },
   {
     "number": "SG-037",
@@ -564,7 +744,12 @@
     "source": {
       "name": "Exodus"
     },
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    }
   },
   {
     "number": "SG-038",
@@ -580,7 +765,12 @@
     "source": {
       "name": "Exodus"
     },
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    }
   },
   {
     "number": "SG-039",
@@ -596,7 +786,12 @@
     "source": {
       "name": "Exodus"
     },
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    }
   },
   {
     "number": "SG-040",
@@ -612,7 +807,12 @@
     "source": {
       "name": "Exodus"
     },
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    }
   },
   {
     "number": "SG-041",
@@ -628,7 +828,12 @@
     "source": {
       "name": "Exodus"
     },
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    }
   },
   {
     "number": "SG-042",
@@ -644,7 +849,12 @@
     "source": {
       "name": "Exodus"
     },
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    }
   },
   {
     "number": "SG-043",
@@ -660,7 +870,12 @@
     "source": {
       "name": "Exodus"
     },
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    }
   },
   {
     "number": "SG-044",
@@ -676,7 +891,12 @@
     "source": {
       "name": "L4D2 Competitive Rework"
     },
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    }
   },
   {
     "number": "SG-045",
@@ -692,7 +912,12 @@
     "source": {
       "name": "Left4DHooks"
     },
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    }
   },
   {
     "number": "SG-046",
@@ -708,7 +933,12 @@
     "source": {
       "name": "L4D Infected Bots"
     },
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    }
   },
   {
     "number": "SG-047",
@@ -724,7 +954,12 @@
     "source": {
       "name": "LinGe VScripts"
     },
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    }
   },
   {
     "number": "SG-048",
@@ -740,7 +975,12 @@
     "source": {
       "name": "Mutant Tanks"
     },
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    }
   },
   {
     "number": "SG-049",
@@ -756,7 +996,12 @@
     "source": {
       "name": "LinGe VScripts"
     },
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    }
   },
   {
     "number": "SG-050",
@@ -772,7 +1017,12 @@
     "source": {
       "name": "L4D2 Competitive Rework"
     },
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    }
   },
   {
     "number": "SG-051",
@@ -788,7 +1038,12 @@
     "source": {
       "name": "LinGe VScripts"
     },
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    }
   },
   {
     "number": "SG-052",
@@ -804,7 +1059,12 @@
     "source": {
       "name": "L4D2 Competitive Rework"
     },
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    }
   },
   {
     "number": "SG-053",
@@ -820,7 +1080,12 @@
     "source": {
       "name": "L4D2 Competitive Rework"
     },
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    }
   },
   {
     "number": "SG-054",
@@ -836,7 +1101,12 @@
     "source": {
       "name": "Automate"
     },
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    }
   },
   {
     "number": "SG-055",
@@ -852,7 +1122,12 @@
     "source": {
       "name": "Automate"
     },
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    }
   },
   {
     "number": "SG-056",
@@ -868,7 +1143,12 @@
     "source": {
       "name": "Automate"
     },
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    }
   },
   {
     "number": "SG-057",
@@ -884,7 +1164,12 @@
     "source": {
       "name": "Automate"
     },
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    }
   },
   {
     "number": "SG-058",
@@ -900,7 +1185,12 @@
     "source": {
       "name": "Content Patcher"
     },
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    }
   },
   {
     "number": "SG-059",
@@ -916,7 +1206,12 @@
     "source": {
       "name": "Automate"
     },
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    }
   },
   {
     "number": "SG-060",
@@ -932,7 +1227,12 @@
     "source": {
       "name": "Automate"
     },
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    }
   },
   {
     "number": "SG-061",
@@ -948,7 +1248,12 @@
     "source": {
       "name": "Automate"
     },
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    }
   },
   {
     "number": "SG-062",
@@ -964,7 +1269,12 @@
     "source": {
       "name": "Automate"
     },
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    }
   },
   {
     "number": "SG-063",
@@ -980,7 +1290,12 @@
     "source": {
       "name": "Automate"
     },
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    }
   },
   {
     "number": "SG-064",
@@ -994,7 +1309,12 @@
     "difficulty": "medium",
     "minutes": 180,
     "source": null,
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    }
   },
   {
     "number": "SG-065",
@@ -1008,7 +1328,12 @@
     "difficulty": "hard",
     "minutes": 480,
     "source": null,
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    }
   },
   {
     "number": "SG-066",
@@ -1024,7 +1349,12 @@
     "source": {
       "name": "Content Patcher"
     },
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    }
   },
   {
     "number": "SG-067",
@@ -1040,7 +1370,12 @@
     "source": {
       "name": "CJB Cheats Menu"
     },
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    }
   },
   {
     "number": "SG-068",
@@ -1056,7 +1391,12 @@
     "source": {
       "name": "Tractor Mod"
     },
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    }
   },
   {
     "number": "SG-069",
@@ -1070,7 +1410,12 @@
     "difficulty": null,
     "minutes": null,
     "source": null,
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
+    }
   },
   {
     "number": "SG-070",
@@ -1084,7 +1429,12 @@
     "difficulty": null,
     "minutes": null,
     "source": null,
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
+    }
   },
   {
     "number": "SG-071",
@@ -1098,7 +1448,12 @@
     "difficulty": null,
     "minutes": null,
     "source": null,
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
+    }
   },
   {
     "number": "SG-072",
@@ -1112,7 +1467,12 @@
     "difficulty": null,
     "minutes": null,
     "source": null,
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
+    }
   },
   {
     "number": "SG-073",
@@ -1126,7 +1486,12 @@
     "difficulty": null,
     "minutes": null,
     "source": null,
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
+    }
   },
   {
     "number": "SG-074",
@@ -1140,7 +1505,12 @@
     "difficulty": null,
     "minutes": null,
     "source": null,
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
+    }
   },
   {
     "number": "SG-075",
@@ -1154,7 +1524,12 @@
     "difficulty": null,
     "minutes": null,
     "source": null,
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
+    }
   },
   {
     "number": "SG-076",
@@ -1168,7 +1543,12 @@
     "difficulty": null,
     "minutes": null,
     "source": null,
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
+    }
   },
   {
     "number": "SG-077",
@@ -1182,7 +1562,12 @@
     "difficulty": null,
     "minutes": null,
     "source": null,
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
+    }
   },
   {
     "number": "SG-078",
@@ -1196,7 +1581,12 @@
     "difficulty": null,
     "minutes": null,
     "source": null,
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
+    }
   },
   {
     "number": "SG-079",
@@ -1210,7 +1600,12 @@
     "difficulty": "hard",
     "minutes": 420,
     "source": null,
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    }
   },
   {
     "number": "SG-080",
@@ -1224,7 +1619,12 @@
     "difficulty": "hard",
     "minutes": 420,
     "source": null,
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    }
   },
   {
     "number": "SG-081",
@@ -1238,7 +1638,12 @@
     "difficulty": "hard",
     "minutes": 480,
     "source": null,
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    }
   },
   {
     "number": "SG-082",
@@ -1252,7 +1657,12 @@
     "difficulty": "hard",
     "minutes": 480,
     "source": null,
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    }
   },
   {
     "number": "SG-083",
@@ -1266,7 +1676,12 @@
     "difficulty": "hard",
     "minutes": 480,
     "source": null,
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    }
   },
   {
     "number": "SG-084",
@@ -1280,7 +1695,12 @@
     "difficulty": "hard",
     "minutes": 360,
     "source": null,
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    }
   },
   {
     "number": "SG-085",
@@ -1294,7 +1714,12 @@
     "difficulty": "hard",
     "minutes": 360,
     "source": null,
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    }
   },
   {
     "number": "SG-086",
@@ -1308,7 +1733,12 @@
     "difficulty": "hard",
     "minutes": 360,
     "source": null,
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    }
   },
   {
     "number": "SG-087",
@@ -1322,7 +1752,12 @@
     "difficulty": "hard",
     "minutes": 360,
     "source": null,
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    }
   },
   {
     "number": "SG-088",
@@ -1336,7 +1771,12 @@
     "difficulty": "hard",
     "minutes": 360,
     "source": null,
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    }
   },
   {
     "number": "SG-089",
@@ -1353,7 +1793,12 @@
       "name": "Mindustry",
       "license": "GPL-3.0"
     },
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    }
   },
   {
     "number": "SG-090",
@@ -1370,7 +1815,12 @@
       "name": "Mindustry",
       "license": "GPL-3.0"
     },
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    }
   },
   {
     "number": "SG-091",
@@ -1387,7 +1837,12 @@
       "name": "Mindustry",
       "license": "GPL-3.0"
     },
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    }
   },
   {
     "number": "SG-092",
@@ -1404,7 +1859,12 @@
       "name": "Mindustry",
       "license": "GPL-3.0"
     },
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    }
   },
   {
     "number": "SG-093",
@@ -1421,7 +1881,12 @@
       "name": "Mindustry",
       "license": "GPL-3.0"
     },
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    }
   },
   {
     "number": "SG-094",
@@ -1438,7 +1903,12 @@
       "name": "Multiverse-Core",
       "license": "BSD-3-Clause"
     },
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
+    }
   },
   {
     "number": "SG-095",
@@ -1455,7 +1925,12 @@
       "name": "Chatty",
       "license": "MIT"
     },
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
+    }
   },
   {
     "number": "SG-096",
@@ -1472,7 +1947,12 @@
       "name": "BetterTeams",
       "license": "MIT"
     },
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
+    }
   },
   {
     "number": "SG-097",
@@ -1489,7 +1969,12 @@
       "name": "minecraft-prometheus-exporter",
       "license": "MIT"
     },
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
+    }
   },
   {
     "number": "SG-098",
@@ -1506,7 +1991,12 @@
       "name": "Chatty",
       "license": "MIT"
     },
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
+    }
   },
   {
     "number": "SG-099",
@@ -1523,7 +2013,12 @@
       "name": "Multiverse-Core",
       "license": "BSD-3-Clause"
     },
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
+    }
   },
   {
     "number": "SG-100",
@@ -1540,7 +2035,12 @@
       "name": "BetterTeams",
       "license": "MIT"
     },
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
+    }
   },
   {
     "number": "SG-101",
@@ -1557,7 +2057,12 @@
       "name": "Chatty",
       "license": "MIT"
     },
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
+    }
   },
   {
     "number": "SG-102",
@@ -1574,7 +2079,12 @@
       "name": "Chatty",
       "license": "MIT"
     },
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
+    }
   },
   {
     "number": "SG-103",
@@ -1591,7 +2101,12 @@
       "name": "Chatty",
       "license": "MIT"
     },
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
+    }
   },
   {
     "number": "SG-104",
@@ -1605,7 +2120,12 @@
     "difficulty": "hard",
     "minutes": 240,
     "source": null,
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
+    }
   },
   {
     "number": "SG-105",
@@ -1619,7 +2139,12 @@
     "difficulty": "hard",
     "minutes": 240,
     "source": null,
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
+    }
   },
   {
     "number": "SG-106",
@@ -1633,7 +2158,12 @@
     "difficulty": "hard",
     "minutes": 240,
     "source": null,
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
+    }
   },
   {
     "number": "SG-107",
@@ -1647,7 +2177,12 @@
     "difficulty": "hard",
     "minutes": 240,
     "source": null,
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
+    }
   },
   {
     "number": "SG-108",
@@ -1661,7 +2196,12 @@
     "difficulty": "hard",
     "minutes": 240,
     "source": null,
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
+    }
   },
   {
     "number": "SG-109",
@@ -1675,7 +2215,12 @@
     "difficulty": "hard",
     "minutes": 360,
     "source": null,
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "pending",
+      "en": "Pending evaluation",
+      "zh": "待评测"
+    }
   },
   {
     "number": "SG-110",
@@ -1689,7 +2234,12 @@
     "difficulty": "hard",
     "minutes": 420,
     "source": null,
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "pending",
+      "en": "Pending evaluation",
+      "zh": "待评测"
+    }
   },
   {
     "number": "SG-111",
@@ -1703,7 +2253,12 @@
     "difficulty": "hard",
     "minutes": 390,
     "source": null,
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "pending",
+      "en": "Pending evaluation",
+      "zh": "待评测"
+    }
   },
   {
     "number": "SG-112",
@@ -1717,7 +2272,12 @@
     "difficulty": "hard",
     "minutes": 360,
     "source": null,
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "pending",
+      "en": "Pending evaluation",
+      "zh": "待评测"
+    }
   },
   {
     "number": "SG-113",
@@ -1731,7 +2291,12 @@
     "difficulty": "hard",
     "minutes": 390,
     "source": null,
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "pending",
+      "en": "Pending evaluation",
+      "zh": "待评测"
+    }
   },
   {
     "number": "SG-114",
@@ -1745,7 +2310,12 @@
     "difficulty": "hard",
     "minutes": 660,
     "source": null,
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "pending",
+      "en": "Pending evaluation",
+      "zh": "待评测"
+    }
   },
   {
     "number": "SG-115",
@@ -1759,7 +2329,12 @@
     "difficulty": "hard",
     "minutes": 720,
     "source": null,
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "pending",
+      "en": "Pending evaluation",
+      "zh": "待评测"
+    }
   },
   {
     "number": "SG-116",
@@ -1773,7 +2348,12 @@
     "difficulty": "hard",
     "minutes": 660,
     "source": null,
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "pending",
+      "en": "Pending evaluation",
+      "zh": "待评测"
+    }
   },
   {
     "number": "SG-117",
@@ -1787,7 +2367,12 @@
     "difficulty": "hard",
     "minutes": 720,
     "source": null,
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "pending",
+      "en": "Pending evaluation",
+      "zh": "待评测"
+    }
   },
   {
     "number": "SG-118",
@@ -1801,7 +2386,12 @@
     "difficulty": "hard",
     "minutes": 660,
     "source": null,
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "pending",
+      "en": "Pending evaluation",
+      "zh": "待评测"
+    }
   },
   {
     "number": "SG-119",
@@ -1818,7 +2408,12 @@
       "name": "R⁴",
       "license": "MIT"
     },
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    }
   },
   {
     "number": "SG-120",
@@ -1835,7 +2430,12 @@
       "name": "R⁴",
       "license": "MIT"
     },
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "not-scored",
+      "en": "Not scored (evaluation stopped)",
+      "zh": "未计分（评测中断）"
+    }
   },
   {
     "number": "SG-121",
@@ -1852,7 +2452,12 @@
       "name": "Project RimFactory Revived",
       "license": "MIT"
     },
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    }
   },
   {
     "number": "SG-122",
@@ -1872,6 +2477,11 @@
     "note": {
       "en": "Not evaluable yet: the pinned .NET SDK cannot compile this task's starter.",
       "zh": "暂不可评测：锁定版本的 .NET SDK 无法编译该题的 starter。"
+    },
+    "deepseek": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
     }
   },
   {
@@ -1889,7 +2499,12 @@
       "name": "Combat Readiness Check (Continued)",
       "license": "MIT"
     },
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    }
   },
   {
     "number": "SG-124",
@@ -1906,7 +2521,12 @@
       "name": "Customize Weapon",
       "license": "MIT"
     },
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    }
   },
   {
     "number": "SG-125",
@@ -1923,7 +2543,12 @@
       "name": "Rimsential - Total Control: Continued",
       "license": "MIT"
     },
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    }
   },
   {
     "number": "SG-126",
@@ -1940,7 +2565,12 @@
       "name": "Bill Autopilot",
       "license": "MIT"
     },
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "not-scored",
+      "en": "Not scored (evaluation stopped)",
+      "zh": "未计分（评测中断）"
+    }
   },
   {
     "number": "SG-127",
@@ -1957,7 +2587,12 @@
       "name": "Playwright",
       "license": "MIT"
     },
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "not-scored",
+      "en": "Not scored (evaluation stopped)",
+      "zh": "未计分（评测中断）"
+    }
   },
   {
     "number": "SG-128",
@@ -1974,7 +2609,12 @@
       "name": "Zombieland",
       "license": "MIT"
     },
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    }
   },
   {
     "number": "SG-129",
@@ -1993,6 +2633,11 @@
     "note": {
       "en": "Evaluated on the ModTheSpire loader alone, without the base game.",
       "zh": "只评测 ModTheSpire 加载器，不需要原版游戏。"
+    },
+    "deepseek": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -2012,6 +2657,11 @@
     "note": {
       "en": "Evaluated on the ModTheSpire loader alone, without the base game.",
       "zh": "只评测 ModTheSpire 加载器，不需要原版游戏。"
+    },
+    "deepseek": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -2031,6 +2681,11 @@
     "note": {
       "en": "Evaluated on the ModTheSpire loader alone, without the base game.",
       "zh": "只评测 ModTheSpire 加载器，不需要原版游戏。"
+    },
+    "deepseek": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -2050,6 +2705,11 @@
     "note": {
       "en": "Needs an operator-supplied licensed game and the manual Harbor workflow.",
       "zh": "需要操作员提供正版游戏，并通过手动 Harbor 流程评测。"
+    },
+    "deepseek": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
     }
   },
   {
@@ -2069,6 +2729,11 @@
     "note": {
       "en": "Needs an operator-supplied licensed game and the manual Harbor workflow.",
       "zh": "需要操作员提供正版游戏，并通过手动 Harbor 流程评测。"
+    },
+    "deepseek": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
     }
   },
   {
@@ -2088,6 +2753,11 @@
     "note": {
       "en": "Needs an operator-supplied licensed game and the manual Harbor workflow.",
       "zh": "需要操作员提供正版游戏，并通过手动 Harbor 流程评测。"
+    },
+    "deepseek": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
     }
   },
   {
@@ -2107,6 +2777,11 @@
     "note": {
       "en": "Needs an operator-supplied licensed game and the manual Harbor workflow.",
       "zh": "需要操作员提供正版游戏，并通过手动 Harbor 流程评测。"
+    },
+    "deepseek": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
     }
   },
   {
@@ -2126,6 +2801,11 @@
     "note": {
       "en": "Needs an operator-supplied licensed game and the manual Harbor workflow.",
       "zh": "需要操作员提供正版游戏，并通过手动 Harbor 流程评测。"
+    },
+    "deepseek": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
     }
   },
   {
@@ -2145,6 +2825,11 @@
     "note": {
       "en": "Needs an operator-supplied licensed game and the manual Harbor workflow.",
       "zh": "需要操作员提供正版游戏，并通过手动 Harbor 流程评测。"
+    },
+    "deepseek": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
     }
   },
   {
@@ -2164,6 +2849,11 @@
     "note": {
       "en": "Needs an operator-supplied licensed game and the manual Harbor workflow.",
       "zh": "需要操作员提供正版游戏，并通过手动 Harbor 流程评测。"
+    },
+    "deepseek": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
     }
   },
   {
@@ -2181,7 +2871,12 @@
       "name": "Magic Storage",
       "license": "MIT"
     },
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    }
   },
   {
     "number": "SG-140",
@@ -2198,7 +2893,12 @@
       "name": "Fargo's Mutant Mod",
       "license": "MIT"
     },
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    }
   },
   {
     "number": "SG-141",
@@ -2215,7 +2915,12 @@
       "name": "Terraria Overhaul",
       "license": "GPL-3.0"
     },
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    }
   },
   {
     "number": "SG-142",
@@ -2232,7 +2937,12 @@
       "name": "Quality of Terraria",
       "license": "MIT"
     },
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    }
   },
   {
     "number": "SG-143",
@@ -2249,7 +2959,12 @@
       "name": "Spirit Mod",
       "license": "MIT"
     },
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    }
   },
   {
     "number": "SG-144",
@@ -2266,7 +2981,12 @@
       "name": "ModLiquid Library",
       "license": "MIT"
     },
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    }
   },
   {
     "number": "SG-145",
@@ -2283,7 +3003,12 @@
       "name": "Aequus",
       "license": "MIT"
     },
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    }
   },
   {
     "number": "SG-146",
@@ -2300,7 +3025,12 @@
       "name": "Starlight River",
       "license": "GPL-3.0"
     },
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    }
   },
   {
     "number": "SG-147",
@@ -2317,7 +3047,12 @@
       "name": "Fargo's Souls Mod",
       "license": "MIT"
     },
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    }
   },
   {
     "number": "SG-148",
@@ -2334,6 +3069,11 @@
       "name": "Calamity Overhaul",
       "license": "MIT"
     },
-    "note": null
+    "note": null,
+    "deepseek": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    }
   }
 ]
