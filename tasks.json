@@ -704,9 +704,9 @@
     },
     "note": null,
     "deepseek": {
-      "outcome": "solved",
-      "en": "Solved",
-      "zh": "做对"
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
     }
   },
   {
@@ -718,16 +718,16 @@
       "en": "Exodus: bug reports against the Afterbirth+ release",
       "zh": "Exodus: bug reports against the Afterbirth+ release"
     },
-    "difficulty": "easy",
+    "difficulty": "hard",
     "minutes": 60,
     "source": {
       "name": "Exodus"
     },
     "note": null,
     "deepseek": {
-      "outcome": "failed",
-      "en": "Failed",
-      "zh": "做错"
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
     }
   },
   {
@@ -739,16 +739,16 @@
       "en": "Exodus: bug reports against the Afterbirth+ release",
       "zh": "Exodus: bug reports against the Afterbirth+ release"
     },
-    "difficulty": "easy",
+    "difficulty": "hard",
     "minutes": 60,
     "source": {
       "name": "Exodus"
     },
     "note": null,
     "deepseek": {
-      "outcome": "solved",
-      "en": "Solved",
-      "zh": "做对"
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
     }
   },
   {
@@ -760,16 +760,16 @@
       "en": "Exodus: bug reports against the Afterbirth+ release",
       "zh": "Exodus: bug reports against the Afterbirth+ release"
     },
-    "difficulty": "easy",
+    "difficulty": "hard",
     "minutes": 90,
     "source": {
       "name": "Exodus"
     },
     "note": null,
     "deepseek": {
-      "outcome": "solved",
-      "en": "Solved",
-      "zh": "做对"
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
     }
   },
   {
@@ -781,16 +781,16 @@
       "en": "Exodus: bug reports against the Afterbirth+ release",
       "zh": "Exodus: bug reports against the Afterbirth+ release"
     },
-    "difficulty": "medium",
+    "difficulty": "hard",
     "minutes": 60,
     "source": {
       "name": "Exodus"
     },
     "note": null,
     "deepseek": {
-      "outcome": "solved",
-      "en": "Solved",
-      "zh": "做对"
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
     }
   },
   {
@@ -802,16 +802,16 @@
       "en": "Exodus: bug reports against the Afterbirth+ release",
       "zh": "Exodus: bug reports against the Afterbirth+ release"
     },
-    "difficulty": "medium",
+    "difficulty": "hard",
     "minutes": 60,
     "source": {
       "name": "Exodus"
     },
     "note": null,
     "deepseek": {
-      "outcome": "solved",
-      "en": "Solved",
-      "zh": "做对"
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
     }
   },
   {
@@ -830,9 +830,9 @@
     },
     "note": null,
     "deepseek": {
-      "outcome": "solved",
-      "en": "Solved",
-      "zh": "做对"
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
     }
   },
   {
@@ -844,16 +844,16 @@
       "en": "Exodus: bug reports against the Afterbirth+ release",
       "zh": "Exodus: bug reports against the Afterbirth+ release"
     },
-    "difficulty": "medium",
+    "difficulty": "hard",
     "minutes": 60,
     "source": {
       "name": "Exodus"
     },
     "note": null,
     "deepseek": {
-      "outcome": "solved",
-      "en": "Solved",
-      "zh": "做对"
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
     }
   },
   {
@@ -872,9 +872,9 @@
     },
     "note": null,
     "deepseek": {
-      "outcome": "solved",
-      "en": "Solved",
-      "zh": "做对"
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
     }
   },
   {
@@ -3074,6 +3074,158 @@
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
+    }
+  },
+  {
+    "number": "SG-149",
+    "game": "isaac-rebirth",
+    "pack": "synth",
+    "type": "construct",
+    "title": {
+      "en": "Construct: Deterministic per-room random streams",
+      "zh": "Construct: Deterministic per-room random streams"
+    },
+    "difficulty": "hard",
+    "minutes": 90,
+    "source": null,
+    "note": null,
+    "deepseek": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
+    }
+  },
+  {
+    "number": "SG-150",
+    "game": "isaac-rebirth",
+    "pack": "synth",
+    "type": "construct",
+    "title": {
+      "en": "Construct: Config-menu input state machine",
+      "zh": "Construct: Config-menu input state machine"
+    },
+    "difficulty": "hard",
+    "minutes": 120,
+    "source": null,
+    "note": null,
+    "deepseek": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
+    }
+  },
+  {
+    "number": "SG-151",
+    "game": "isaac-rebirth",
+    "pack": "synth",
+    "type": "construct",
+    "title": {
+      "en": "Construct: Versioned configuration persistence and recovery",
+      "zh": "Construct: Versioned configuration persistence and recovery"
+    },
+    "difficulty": "hard",
+    "minutes": 90,
+    "source": null,
+    "note": null,
+    "deepseek": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
+    }
+  },
+  {
+    "number": "SG-152",
+    "game": "isaac-rebirth",
+    "pack": "synth",
+    "type": "construct",
+    "title": {
+      "en": "Construct: Fractional HUD notification compositor",
+      "zh": "Construct: Fractional HUD notification compositor"
+    },
+    "difficulty": "hard",
+    "minutes": 90,
+    "source": null,
+    "note": null,
+    "deepseek": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
+    }
+  },
+  {
+    "number": "SG-153",
+    "game": "isaac-rebirth",
+    "pack": "synth",
+    "type": "construct",
+    "title": {
+      "en": "Construct: Afterbirth+ configuration and HUD lifecycle",
+      "zh": "Construct: Afterbirth+ configuration and HUD lifecycle"
+    },
+    "difficulty": "hard",
+    "minutes": 100,
+    "source": null,
+    "note": null,
+    "deepseek": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
+    }
+  },
+  {
+    "number": "SG-154",
+    "game": "isaac-rebirth",
+    "pack": "synth",
+    "type": "construct",
+    "title": {
+      "en": "Construct: Identity-keyed option palette rendering",
+      "zh": "Construct: Identity-keyed option palette rendering"
+    },
+    "difficulty": "hard",
+    "minutes": 90,
+    "source": null,
+    "note": null,
+    "deepseek": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
+    }
+  },
+  {
+    "number": "SG-155",
+    "game": "isaac-rebirth",
+    "pack": "synth",
+    "type": "construct",
+    "title": {
+      "en": "Construct: Owned-entity lifecycle cleanup",
+      "zh": "Construct: Owned-entity lifecycle cleanup"
+    },
+    "difficulty": "hard",
+    "minutes": 110,
+    "source": null,
+    "note": null,
+    "deepseek": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
+    }
+  },
+  {
+    "number": "SG-156",
+    "game": "isaac-rebirth",
+    "pack": "synth",
+    "type": "construct",
+    "title": {
+      "en": "Construct: Cross-callback transaction ledger",
+      "zh": "Construct: Cross-callback transaction ledger"
+    },
+    "difficulty": "hard",
+    "minutes": 110,
+    "source": null,
+    "note": null,
+    "deepseek": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
     }
   }
 ]
