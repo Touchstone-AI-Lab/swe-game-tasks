@@ -2118,7 +2118,7 @@
       "zh": "Write a plugin: CoinLedger, a bank ledger for the server"
     },
     "difficulty": "hard",
-    "minutes": 240,
+    "minutes": 330,
     "source": null,
     "note": null,
     "deepseek": {
@@ -2137,7 +2137,7 @@
       "zh": "Write a plugin: BlockTrail, a block change log with rollback"
     },
     "difficulty": "hard",
-    "minutes": 240,
+    "minutes": 360,
     "source": null,
     "note": null,
     "deepseek": {
@@ -2156,7 +2156,7 @@
       "zh": "Write a plugin: TownCrier, timed server announcements"
     },
     "difficulty": "hard",
-    "minutes": 240,
+    "minutes": 300,
     "source": null,
     "note": null,
     "deepseek": {
@@ -2175,7 +2175,7 @@
       "zh": "Write a plugin: Wardstone, cuboid region protection"
     },
     "difficulty": "hard",
-    "minutes": 240,
+    "minutes": 330,
     "source": null,
     "note": null,
     "deepseek": {
@@ -2194,7 +2194,7 @@
       "zh": "Write a plugin: Recipesmith, custom recipes from a configuration file"
     },
     "difficulty": "hard",
-    "minutes": 240,
+    "minutes": 360,
     "source": null,
     "note": null,
     "deepseek": {
