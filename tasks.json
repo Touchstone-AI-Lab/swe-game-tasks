@@ -19,6 +19,16 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "dsflash": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "qwen": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -41,6 +51,16 @@
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
+    },
+    "dsflash": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "qwen": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -63,6 +83,16 @@
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
+    },
+    "dsflash": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "qwen": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -82,6 +112,16 @@
     },
     "note": null,
     "deepseek": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "dsflash": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "qwen": {
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
@@ -107,6 +147,16 @@
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
+    },
+    "dsflash": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "qwen": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -126,6 +176,16 @@
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
+    },
+    "dsflash": {
+      "outcome": "not-scored",
+      "en": "Not scored (evaluation stopped)",
+      "zh": "未计分（评测中断）"
+    },
+    "qwen": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -142,6 +202,16 @@
     "source": null,
     "note": null,
     "deepseek": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    },
+    "dsflash": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    },
+    "qwen": {
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
@@ -164,6 +234,16 @@
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
+    },
+    "dsflash": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "qwen": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -183,6 +263,16 @@
       "outcome": "not-scored",
       "en": "Not scored (evaluation stopped)",
       "zh": "未计分（评测中断）"
+    },
+    "dsflash": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    },
+    "qwen": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -199,6 +289,16 @@
     "source": null,
     "note": null,
     "deepseek": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    },
+    "dsflash": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    },
+    "qwen": {
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
@@ -221,6 +321,16 @@
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
+    },
+    "dsflash": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "qwen": {
+      "outcome": "not-scored",
+      "en": "Not scored (evaluation stopped)",
+      "zh": "未计分（评测中断）"
     }
   },
   {
@@ -240,6 +350,16 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "dsflash": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    },
+    "qwen": {
+      "outcome": "not-scored",
+      "en": "Not scored (evaluation stopped)",
+      "zh": "未计分（评测中断）"
     }
   },
   {
@@ -256,6 +376,16 @@
     "source": null,
     "note": null,
     "deepseek": {
+      "outcome": "not-scored",
+      "en": "Not scored (evaluation stopped)",
+      "zh": "未计分（评测中断）"
+    },
+    "dsflash": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    },
+    "qwen": {
       "outcome": "not-scored",
       "en": "Not scored (evaluation stopped)",
       "zh": "未计分（评测中断）"
@@ -278,6 +408,16 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "dsflash": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    },
+    "qwen": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -297,6 +437,16 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "dsflash": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    },
+    "qwen": {
+      "outcome": "not-scored",
+      "en": "Not scored (evaluation stopped)",
+      "zh": "未计分（评测中断）"
     }
   },
   {
@@ -313,6 +463,16 @@
     "source": null,
     "note": null,
     "deepseek": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    },
+    "dsflash": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    },
+    "qwen": {
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
@@ -335,6 +495,16 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "dsflash": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    },
+    "qwen": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -351,6 +521,16 @@
     "source": null,
     "note": null,
     "deepseek": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    },
+    "dsflash": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    },
+    "qwen": {
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
@@ -373,6 +553,16 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "dsflash": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    },
+    "qwen": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -389,6 +579,16 @@
     "source": null,
     "note": null,
     "deepseek": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    },
+    "dsflash": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    },
+    "qwen": {
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
@@ -413,6 +613,16 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "dsflash": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    },
+    "qwen": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -431,6 +641,16 @@
     },
     "note": null,
     "deepseek": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    },
+    "dsflash": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    },
+    "qwen": {
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
@@ -455,6 +675,16 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "dsflash": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    },
+    "qwen": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -476,6 +706,16 @@
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
+    },
+    "dsflash": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "qwen": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -494,6 +734,16 @@
     },
     "note": null,
     "deepseek": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    },
+    "dsflash": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "qwen": {
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
@@ -518,6 +768,16 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "dsflash": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    },
+    "qwen": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -536,6 +796,16 @@
     },
     "note": null,
     "deepseek": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    },
+    "dsflash": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    },
+    "qwen": {
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
@@ -560,6 +830,16 @@
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
+    },
+    "dsflash": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "qwen": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -578,6 +858,16 @@
     },
     "note": null,
     "deepseek": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    },
+    "dsflash": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    },
+    "qwen": {
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
@@ -602,6 +892,16 @@
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
+    },
+    "dsflash": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "qwen": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -623,6 +923,16 @@
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
+    },
+    "dsflash": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "qwen": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -644,6 +954,16 @@
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
+    },
+    "dsflash": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "qwen": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -662,6 +982,16 @@
     },
     "note": null,
     "deepseek": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "dsflash": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    },
+    "qwen": {
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
@@ -686,6 +1016,16 @@
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
+    },
+    "dsflash": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "qwen": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -707,6 +1047,16 @@
       "outcome": "not-evaluated",
       "en": "Not evaluated",
       "zh": "未评测"
+    },
+    "dsflash": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "qwen": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -728,6 +1078,16 @@
       "outcome": "not-evaluated",
       "en": "Not evaluated",
       "zh": "未评测"
+    },
+    "dsflash": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "qwen": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -749,6 +1109,16 @@
       "outcome": "not-evaluated",
       "en": "Not evaluated",
       "zh": "未评测"
+    },
+    "dsflash": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "qwen": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -770,6 +1140,16 @@
       "outcome": "not-evaluated",
       "en": "Not evaluated",
       "zh": "未评测"
+    },
+    "dsflash": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "qwen": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -791,6 +1171,16 @@
       "outcome": "not-evaluated",
       "en": "Not evaluated",
       "zh": "未评测"
+    },
+    "dsflash": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "qwen": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -812,6 +1202,16 @@
       "outcome": "not-evaluated",
       "en": "Not evaluated",
       "zh": "未评测"
+    },
+    "dsflash": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "qwen": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -833,6 +1233,16 @@
       "outcome": "not-evaluated",
       "en": "Not evaluated",
       "zh": "未评测"
+    },
+    "dsflash": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "qwen": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -854,6 +1264,16 @@
       "outcome": "not-evaluated",
       "en": "Not evaluated",
       "zh": "未评测"
+    },
+    "dsflash": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "qwen": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -875,6 +1295,16 @@
       "outcome": "not-evaluated",
       "en": "Not evaluated",
       "zh": "未评测"
+    },
+    "dsflash": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "qwen": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -893,6 +1323,16 @@
     },
     "note": null,
     "deepseek": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    },
+    "dsflash": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "qwen": {
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
@@ -917,6 +1357,16 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "dsflash": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    },
+    "qwen": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -938,6 +1388,16 @@
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
+    },
+    "dsflash": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "qwen": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -956,6 +1416,16 @@
     },
     "note": null,
     "deepseek": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    },
+    "dsflash": {
+      "outcome": "not-scored",
+      "en": "Not scored (evaluation stopped)",
+      "zh": "未计分（评测中断）"
+    },
+    "qwen": {
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
@@ -980,6 +1450,16 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "dsflash": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    },
+    "qwen": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -998,6 +1478,16 @@
     },
     "note": null,
     "deepseek": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    },
+    "dsflash": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "qwen": {
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
@@ -1022,6 +1512,16 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "dsflash": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    },
+    "qwen": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -1043,6 +1543,16 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "dsflash": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    },
+    "qwen": {
+      "outcome": "not-scored",
+      "en": "Not scored (evaluation stopped)",
+      "zh": "未计分（评测中断）"
     }
   },
   {
@@ -1064,6 +1574,16 @@
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
+    },
+    "dsflash": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "qwen": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -1082,6 +1602,16 @@
     },
     "note": null,
     "deepseek": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    },
+    "dsflash": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    },
+    "qwen": {
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
@@ -1106,6 +1636,16 @@
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
+    },
+    "dsflash": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "qwen": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -1124,6 +1664,16 @@
     },
     "note": null,
     "deepseek": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "dsflash": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "qwen": {
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
@@ -1148,6 +1698,16 @@
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
+    },
+    "dsflash": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "qwen": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -1166,6 +1726,16 @@
     },
     "note": null,
     "deepseek": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "dsflash": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "qwen": {
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
@@ -1190,6 +1760,16 @@
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
+    },
+    "dsflash": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "qwen": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -1208,6 +1788,16 @@
     },
     "note": null,
     "deepseek": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    },
+    "dsflash": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "qwen": {
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
@@ -1232,6 +1822,16 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "dsflash": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "qwen": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -1250,6 +1850,16 @@
     },
     "note": null,
     "deepseek": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    },
+    "dsflash": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "qwen": {
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
@@ -1274,6 +1884,16 @@
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
+    },
+    "dsflash": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "qwen": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -1292,6 +1912,16 @@
     },
     "note": null,
     "deepseek": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "dsflash": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "qwen": {
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
@@ -1314,6 +1944,16 @@
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
+    },
+    "dsflash": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    },
+    "qwen": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -1330,6 +1970,16 @@
     "source": null,
     "note": null,
     "deepseek": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    },
+    "dsflash": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    },
+    "qwen": {
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
@@ -1354,6 +2004,16 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "dsflash": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "qwen": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -1372,6 +2032,16 @@
     },
     "note": null,
     "deepseek": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    },
+    "dsflash": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    },
+    "qwen": {
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
@@ -1396,6 +2066,16 @@
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
+    },
+    "dsflash": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "qwen": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -1412,6 +2092,16 @@
     "source": null,
     "note": null,
     "deepseek": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
+    },
+    "dsflash": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
+    },
+    "qwen": {
       "outcome": "not-evaluated",
       "en": "Not evaluated",
       "zh": "未评测"
@@ -1434,6 +2124,16 @@
       "outcome": "not-evaluated",
       "en": "Not evaluated",
       "zh": "未评测"
+    },
+    "dsflash": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
+    },
+    "qwen": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
     }
   },
   {
@@ -1450,6 +2150,16 @@
     "source": null,
     "note": null,
     "deepseek": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
+    },
+    "dsflash": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
+    },
+    "qwen": {
       "outcome": "not-evaluated",
       "en": "Not evaluated",
       "zh": "未评测"
@@ -1472,6 +2182,16 @@
       "outcome": "not-evaluated",
       "en": "Not evaluated",
       "zh": "未评测"
+    },
+    "dsflash": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
+    },
+    "qwen": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
     }
   },
   {
@@ -1488,6 +2208,16 @@
     "source": null,
     "note": null,
     "deepseek": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
+    },
+    "dsflash": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
+    },
+    "qwen": {
       "outcome": "not-evaluated",
       "en": "Not evaluated",
       "zh": "未评测"
@@ -1510,6 +2240,16 @@
       "outcome": "not-evaluated",
       "en": "Not evaluated",
       "zh": "未评测"
+    },
+    "dsflash": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
+    },
+    "qwen": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
     }
   },
   {
@@ -1526,6 +2266,16 @@
     "source": null,
     "note": null,
     "deepseek": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
+    },
+    "dsflash": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
+    },
+    "qwen": {
       "outcome": "not-evaluated",
       "en": "Not evaluated",
       "zh": "未评测"
@@ -1548,6 +2298,16 @@
       "outcome": "not-evaluated",
       "en": "Not evaluated",
       "zh": "未评测"
+    },
+    "dsflash": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
+    },
+    "qwen": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
     }
   },
   {
@@ -1564,6 +2324,16 @@
     "source": null,
     "note": null,
     "deepseek": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
+    },
+    "dsflash": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
+    },
+    "qwen": {
       "outcome": "not-evaluated",
       "en": "Not evaluated",
       "zh": "未评测"
@@ -1586,6 +2356,16 @@
       "outcome": "not-evaluated",
       "en": "Not evaluated",
       "zh": "未评测"
+    },
+    "dsflash": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
+    },
+    "qwen": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
     }
   },
   {
@@ -1602,6 +2382,16 @@
     "source": null,
     "note": null,
     "deepseek": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    },
+    "dsflash": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    },
+    "qwen": {
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
@@ -1624,6 +2414,16 @@
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
+    },
+    "dsflash": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    },
+    "qwen": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -1640,6 +2440,16 @@
     "source": null,
     "note": null,
     "deepseek": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    },
+    "dsflash": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    },
+    "qwen": {
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
@@ -1662,6 +2472,16 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "dsflash": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "qwen": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -1678,6 +2498,16 @@
     "source": null,
     "note": null,
     "deepseek": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    },
+    "dsflash": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    },
+    "qwen": {
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
@@ -1700,6 +2530,16 @@
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
+    },
+    "dsflash": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "qwen": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -1719,6 +2559,16 @@
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
+    },
+    "dsflash": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "qwen": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -1735,6 +2585,16 @@
     "source": null,
     "note": null,
     "deepseek": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "dsflash": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "qwen": {
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
@@ -1757,6 +2617,16 @@
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
+    },
+    "dsflash": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "qwen": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -1776,6 +2646,16 @@
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
+    },
+    "dsflash": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "qwen": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -1795,6 +2675,16 @@
     },
     "note": null,
     "deepseek": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "dsflash": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "qwen": {
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
@@ -1820,6 +2710,16 @@
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
+    },
+    "dsflash": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    },
+    "qwen": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -1842,6 +2742,16 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "dsflash": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "qwen": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -1861,6 +2771,16 @@
     },
     "note": null,
     "deepseek": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "dsflash": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "qwen": {
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
@@ -1886,6 +2806,16 @@
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
+    },
+    "dsflash": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "qwen": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -1905,6 +2835,16 @@
     },
     "note": null,
     "deepseek": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
+    },
+    "dsflash": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
+    },
+    "qwen": {
       "outcome": "not-evaluated",
       "en": "Not evaluated",
       "zh": "未评测"
@@ -1930,6 +2870,16 @@
       "outcome": "not-evaluated",
       "en": "Not evaluated",
       "zh": "未评测"
+    },
+    "dsflash": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
+    },
+    "qwen": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
     }
   },
   {
@@ -1949,6 +2899,16 @@
     },
     "note": null,
     "deepseek": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
+    },
+    "dsflash": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
+    },
+    "qwen": {
       "outcome": "not-evaluated",
       "en": "Not evaluated",
       "zh": "未评测"
@@ -1974,6 +2934,16 @@
       "outcome": "not-evaluated",
       "en": "Not evaluated",
       "zh": "未评测"
+    },
+    "dsflash": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
+    },
+    "qwen": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
     }
   },
   {
@@ -1993,6 +2963,16 @@
     },
     "note": null,
     "deepseek": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
+    },
+    "dsflash": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
+    },
+    "qwen": {
       "outcome": "not-evaluated",
       "en": "Not evaluated",
       "zh": "未评测"
@@ -2018,6 +2998,16 @@
       "outcome": "not-evaluated",
       "en": "Not evaluated",
       "zh": "未评测"
+    },
+    "dsflash": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
+    },
+    "qwen": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
     }
   },
   {
@@ -2037,6 +3027,16 @@
     },
     "note": null,
     "deepseek": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
+    },
+    "dsflash": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
+    },
+    "qwen": {
       "outcome": "not-evaluated",
       "en": "Not evaluated",
       "zh": "未评测"
@@ -2062,6 +3062,16 @@
       "outcome": "not-evaluated",
       "en": "Not evaluated",
       "zh": "未评测"
+    },
+    "dsflash": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
+    },
+    "qwen": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
     }
   },
   {
@@ -2081,6 +3091,16 @@
     },
     "note": null,
     "deepseek": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
+    },
+    "dsflash": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
+    },
+    "qwen": {
       "outcome": "not-evaluated",
       "en": "Not evaluated",
       "zh": "未评测"
@@ -2106,6 +3126,16 @@
       "outcome": "not-evaluated",
       "en": "Not evaluated",
       "zh": "未评测"
+    },
+    "dsflash": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
+    },
+    "qwen": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
     }
   },
   {
@@ -2122,6 +3152,16 @@
     "source": null,
     "note": null,
     "deepseek": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
+    },
+    "dsflash": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
+    },
+    "qwen": {
       "outcome": "not-evaluated",
       "en": "Not evaluated",
       "zh": "未评测"
@@ -2144,6 +3184,16 @@
       "outcome": "not-evaluated",
       "en": "Not evaluated",
       "zh": "未评测"
+    },
+    "dsflash": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
+    },
+    "qwen": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
     }
   },
   {
@@ -2160,6 +3210,16 @@
     "source": null,
     "note": null,
     "deepseek": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
+    },
+    "dsflash": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
+    },
+    "qwen": {
       "outcome": "not-evaluated",
       "en": "Not evaluated",
       "zh": "未评测"
@@ -2182,6 +3242,16 @@
       "outcome": "not-evaluated",
       "en": "Not evaluated",
       "zh": "未评测"
+    },
+    "dsflash": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
+    },
+    "qwen": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
     }
   },
   {
@@ -2198,6 +3268,16 @@
     "source": null,
     "note": null,
     "deepseek": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
+    },
+    "dsflash": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
+    },
+    "qwen": {
       "outcome": "not-evaluated",
       "en": "Not evaluated",
       "zh": "未评测"
@@ -2220,6 +3300,16 @@
       "outcome": "pending",
       "en": "Pending evaluation",
       "zh": "待评测"
+    },
+    "dsflash": {
+      "outcome": "pending",
+      "en": "Pending evaluation",
+      "zh": "待评测"
+    },
+    "qwen": {
+      "outcome": "pending",
+      "en": "Pending evaluation",
+      "zh": "待评测"
     }
   },
   {
@@ -2236,6 +3326,16 @@
     "source": null,
     "note": null,
     "deepseek": {
+      "outcome": "pending",
+      "en": "Pending evaluation",
+      "zh": "待评测"
+    },
+    "dsflash": {
+      "outcome": "pending",
+      "en": "Pending evaluation",
+      "zh": "待评测"
+    },
+    "qwen": {
       "outcome": "pending",
       "en": "Pending evaluation",
       "zh": "待评测"
@@ -2258,6 +3358,16 @@
       "outcome": "pending",
       "en": "Pending evaluation",
       "zh": "待评测"
+    },
+    "dsflash": {
+      "outcome": "pending",
+      "en": "Pending evaluation",
+      "zh": "待评测"
+    },
+    "qwen": {
+      "outcome": "pending",
+      "en": "Pending evaluation",
+      "zh": "待评测"
     }
   },
   {
@@ -2274,6 +3384,16 @@
     "source": null,
     "note": null,
     "deepseek": {
+      "outcome": "pending",
+      "en": "Pending evaluation",
+      "zh": "待评测"
+    },
+    "dsflash": {
+      "outcome": "pending",
+      "en": "Pending evaluation",
+      "zh": "待评测"
+    },
+    "qwen": {
       "outcome": "pending",
       "en": "Pending evaluation",
       "zh": "待评测"
@@ -2296,6 +3416,16 @@
       "outcome": "pending",
       "en": "Pending evaluation",
       "zh": "待评测"
+    },
+    "dsflash": {
+      "outcome": "pending",
+      "en": "Pending evaluation",
+      "zh": "待评测"
+    },
+    "qwen": {
+      "outcome": "pending",
+      "en": "Pending evaluation",
+      "zh": "待评测"
     }
   },
   {
@@ -2312,6 +3442,16 @@
     "source": null,
     "note": null,
     "deepseek": {
+      "outcome": "pending",
+      "en": "Pending evaluation",
+      "zh": "待评测"
+    },
+    "dsflash": {
+      "outcome": "pending",
+      "en": "Pending evaluation",
+      "zh": "待评测"
+    },
+    "qwen": {
       "outcome": "pending",
       "en": "Pending evaluation",
       "zh": "待评测"
@@ -2334,6 +3474,16 @@
       "outcome": "pending",
       "en": "Pending evaluation",
       "zh": "待评测"
+    },
+    "dsflash": {
+      "outcome": "pending",
+      "en": "Pending evaluation",
+      "zh": "待评测"
+    },
+    "qwen": {
+      "outcome": "pending",
+      "en": "Pending evaluation",
+      "zh": "待评测"
     }
   },
   {
@@ -2350,6 +3500,16 @@
     "source": null,
     "note": null,
     "deepseek": {
+      "outcome": "pending",
+      "en": "Pending evaluation",
+      "zh": "待评测"
+    },
+    "dsflash": {
+      "outcome": "pending",
+      "en": "Pending evaluation",
+      "zh": "待评测"
+    },
+    "qwen": {
       "outcome": "pending",
       "en": "Pending evaluation",
       "zh": "待评测"
@@ -2372,6 +3532,16 @@
       "outcome": "pending",
       "en": "Pending evaluation",
       "zh": "待评测"
+    },
+    "dsflash": {
+      "outcome": "pending",
+      "en": "Pending evaluation",
+      "zh": "待评测"
+    },
+    "qwen": {
+      "outcome": "pending",
+      "en": "Pending evaluation",
+      "zh": "待评测"
     }
   },
   {
@@ -2388,6 +3558,16 @@
     "source": null,
     "note": null,
     "deepseek": {
+      "outcome": "pending",
+      "en": "Pending evaluation",
+      "zh": "待评测"
+    },
+    "dsflash": {
+      "outcome": "pending",
+      "en": "Pending evaluation",
+      "zh": "待评测"
+    },
+    "qwen": {
       "outcome": "pending",
       "en": "Pending evaluation",
       "zh": "待评测"
@@ -2413,6 +3593,16 @@
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
+    },
+    "dsflash": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "qwen": {
+      "outcome": "not-scored",
+      "en": "Not scored (evaluation stopped)",
+      "zh": "未计分（评测中断）"
     }
   },
   {
@@ -2435,6 +3625,16 @@
       "outcome": "not-scored",
       "en": "Not scored (evaluation stopped)",
       "zh": "未计分（评测中断）"
+    },
+    "dsflash": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    },
+    "qwen": {
+      "outcome": "not-scored",
+      "en": "Not scored (evaluation stopped)",
+      "zh": "未计分（评测中断）"
     }
   },
   {
@@ -2454,6 +3654,16 @@
     },
     "note": null,
     "deepseek": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    },
+    "dsflash": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    },
+    "qwen": {
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
@@ -2482,6 +3692,16 @@
       "outcome": "not-evaluated",
       "en": "Not evaluated",
       "zh": "未评测"
+    },
+    "dsflash": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
+    },
+    "qwen": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
     }
   },
   {
@@ -2504,6 +3724,16 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "dsflash": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "qwen": {
+      "outcome": "not-scored",
+      "en": "Not scored (evaluation stopped)",
+      "zh": "未计分（评测中断）"
     }
   },
   {
@@ -2526,6 +3756,16 @@
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
+    },
+    "dsflash": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "qwen": {
+      "outcome": "not-scored",
+      "en": "Not scored (evaluation stopped)",
+      "zh": "未计分（评测中断）"
     }
   },
   {
@@ -2548,6 +3788,16 @@
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
+    },
+    "dsflash": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "qwen": {
+      "outcome": "not-scored",
+      "en": "Not scored (evaluation stopped)",
+      "zh": "未计分（评测中断）"
     }
   },
   {
@@ -2567,6 +3817,16 @@
     },
     "note": null,
     "deepseek": {
+      "outcome": "not-scored",
+      "en": "Not scored (evaluation stopped)",
+      "zh": "未计分（评测中断）"
+    },
+    "dsflash": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    },
+    "qwen": {
       "outcome": "not-scored",
       "en": "Not scored (evaluation stopped)",
       "zh": "未计分（评测中断）"
@@ -2592,6 +3852,16 @@
       "outcome": "not-scored",
       "en": "Not scored (evaluation stopped)",
       "zh": "未计分（评测中断）"
+    },
+    "dsflash": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    },
+    "qwen": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -2611,6 +3881,16 @@
     },
     "note": null,
     "deepseek": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "dsflash": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "qwen": {
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
@@ -2638,6 +3918,16 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "dsflash": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    },
+    "qwen": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -2662,6 +3952,16 @@
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
+    },
+    "dsflash": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "qwen": {
+      "outcome": "not-scored",
+      "en": "Not scored (evaluation stopped)",
+      "zh": "未计分（评测中断）"
     }
   },
   {
@@ -2683,6 +3983,16 @@
       "zh": "只评测 ModTheSpire 加载器，不需要原版游戏。"
     },
     "deepseek": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    },
+    "dsflash": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "qwen": {
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
@@ -2710,6 +4020,16 @@
       "outcome": "not-evaluated",
       "en": "Not evaluated",
       "zh": "未评测"
+    },
+    "dsflash": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
+    },
+    "qwen": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
     }
   },
   {
@@ -2731,6 +4051,16 @@
       "zh": "需要操作员提供正版游戏，并通过手动 Harbor 流程评测。"
     },
     "deepseek": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
+    },
+    "dsflash": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
+    },
+    "qwen": {
       "outcome": "not-evaluated",
       "en": "Not evaluated",
       "zh": "未评测"
@@ -2758,6 +4088,16 @@
       "outcome": "not-evaluated",
       "en": "Not evaluated",
       "zh": "未评测"
+    },
+    "dsflash": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
+    },
+    "qwen": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
     }
   },
   {
@@ -2779,6 +4119,16 @@
       "zh": "需要操作员提供正版游戏，并通过手动 Harbor 流程评测。"
     },
     "deepseek": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
+    },
+    "dsflash": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
+    },
+    "qwen": {
       "outcome": "not-evaluated",
       "en": "Not evaluated",
       "zh": "未评测"
@@ -2806,6 +4156,16 @@
       "outcome": "not-evaluated",
       "en": "Not evaluated",
       "zh": "未评测"
+    },
+    "dsflash": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
+    },
+    "qwen": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
     }
   },
   {
@@ -2827,6 +4187,16 @@
       "zh": "需要操作员提供正版游戏，并通过手动 Harbor 流程评测。"
     },
     "deepseek": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
+    },
+    "dsflash": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
+    },
+    "qwen": {
       "outcome": "not-evaluated",
       "en": "Not evaluated",
       "zh": "未评测"
@@ -2854,6 +4224,16 @@
       "outcome": "not-evaluated",
       "en": "Not evaluated",
       "zh": "未评测"
+    },
+    "dsflash": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
+    },
+    "qwen": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
     }
   },
   {
@@ -2873,6 +4253,16 @@
     },
     "note": null,
     "deepseek": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    },
+    "dsflash": {
+      "outcome": "not-scored",
+      "en": "Not scored (evaluation stopped)",
+      "zh": "未计分（评测中断）"
+    },
+    "qwen": {
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
@@ -2898,6 +4288,16 @@
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
+    },
+    "dsflash": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "qwen": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -2920,6 +4320,16 @@
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
+    },
+    "dsflash": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    },
+    "qwen": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -2942,6 +4352,16 @@
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
+    },
+    "dsflash": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    },
+    "qwen": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -2964,6 +4384,16 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "dsflash": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    },
+    "qwen": {
+      "outcome": "not-scored",
+      "en": "Not scored (evaluation stopped)",
+      "zh": "未计分（评测中断）"
     }
   },
   {
@@ -2986,6 +4416,16 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "dsflash": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    },
+    "qwen": {
+      "outcome": "not-scored",
+      "en": "Not scored (evaluation stopped)",
+      "zh": "未计分（评测中断）"
     }
   },
   {
@@ -3008,6 +4448,16 @@
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
+    },
+    "dsflash": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    },
+    "qwen": {
+      "outcome": "not-scored",
+      "en": "Not scored (evaluation stopped)",
+      "zh": "未计分（评测中断）"
     }
   },
   {
@@ -3030,6 +4480,16 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "dsflash": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    },
+    "qwen": {
+      "outcome": "not-scored",
+      "en": "Not scored (evaluation stopped)",
+      "zh": "未计分（评测中断）"
     }
   },
   {
@@ -3049,6 +4509,16 @@
     },
     "note": null,
     "deepseek": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    },
+    "dsflash": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    },
+    "qwen": {
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
@@ -3074,6 +4544,16 @@
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
+    },
+    "dsflash": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "qwen": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -3090,6 +4570,16 @@
     "source": null,
     "note": null,
     "deepseek": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
+    },
+    "dsflash": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
+    },
+    "qwen": {
       "outcome": "not-evaluated",
       "en": "Not evaluated",
       "zh": "未评测"
@@ -3112,6 +4602,16 @@
       "outcome": "not-evaluated",
       "en": "Not evaluated",
       "zh": "未评测"
+    },
+    "dsflash": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
+    },
+    "qwen": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
     }
   },
   {
@@ -3128,6 +4628,16 @@
     "source": null,
     "note": null,
     "deepseek": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
+    },
+    "dsflash": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
+    },
+    "qwen": {
       "outcome": "not-evaluated",
       "en": "Not evaluated",
       "zh": "未评测"
@@ -3150,6 +4660,16 @@
       "outcome": "not-evaluated",
       "en": "Not evaluated",
       "zh": "未评测"
+    },
+    "dsflash": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
+    },
+    "qwen": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
     }
   },
   {
@@ -3166,6 +4686,16 @@
     "source": null,
     "note": null,
     "deepseek": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
+    },
+    "dsflash": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
+    },
+    "qwen": {
       "outcome": "not-evaluated",
       "en": "Not evaluated",
       "zh": "未评测"
@@ -3188,6 +4718,16 @@
       "outcome": "not-evaluated",
       "en": "Not evaluated",
       "zh": "未评测"
+    },
+    "dsflash": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
+    },
+    "qwen": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
     }
   },
   {
@@ -3207,6 +4747,16 @@
       "outcome": "not-evaluated",
       "en": "Not evaluated",
       "zh": "未评测"
+    },
+    "dsflash": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
+    },
+    "qwen": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
     }
   },
   {
@@ -3223,6 +4773,16 @@
     "source": null,
     "note": null,
     "deepseek": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
+    },
+    "dsflash": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
+    },
+    "qwen": {
       "outcome": "not-evaluated",
       "en": "Not evaluated",
       "zh": "未评测"
