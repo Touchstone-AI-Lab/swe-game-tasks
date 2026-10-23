@@ -455,27 +455,27 @@
     "pack": "addons",
     "type": "construct",
     "title": {
-      "en": "Prop 所有权与配额管理器",
-      "zh": "Prop 所有权与配额管理器"
+      "en": "Prop Ownership and Quota Manager",
+      "zh": "Prop Ownership and Quota Manager"
     },
     "difficulty": "medium",
     "minutes": 180,
     "source": null,
     "note": null,
     "deepseek": {
-      "outcome": "failed",
-      "en": "Failed",
-      "zh": "做错"
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
     },
     "dsflash": {
-      "outcome": "failed",
-      "en": "Failed",
-      "zh": "做错"
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
     },
     "qwen": {
-      "outcome": "failed",
-      "en": "Failed",
-      "zh": "做错"
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
     }
   },
   {
@@ -484,27 +484,27 @@
     "pack": "addons",
     "type": "construct",
     "title": {
-      "en": "分阶段三点 Prop 对齐工具",
-      "zh": "分阶段三点 Prop 对齐工具"
+      "en": "Staged Three-Point Prop Alignment",
+      "zh": "Staged Three-Point Prop Alignment"
     },
     "difficulty": "hard",
     "minutes": 360,
     "source": null,
     "note": null,
     "deepseek": {
-      "outcome": "failed",
-      "en": "Failed",
-      "zh": "做错"
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
     },
     "dsflash": {
-      "outcome": "failed",
-      "en": "Failed",
-      "zh": "做错"
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
     },
     "qwen": {
-      "outcome": "failed",
-      "en": "Failed",
-      "zh": "做错"
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
     }
   },
   {
@@ -513,27 +513,27 @@
     "pack": "addons",
     "type": "construct",
     "title": {
-      "en": "持久化玩家 Loadout Profiles",
-      "zh": "持久化玩家 Loadout Profiles"
+      "en": "Persistent Loadout Profiles",
+      "zh": "Persistent Loadout Profiles"
     },
     "difficulty": "hard",
     "minutes": 360,
     "source": null,
     "note": null,
     "deepseek": {
-      "outcome": "failed",
-      "en": "Failed",
-      "zh": "做错"
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
     },
     "dsflash": {
-      "outcome": "failed",
-      "en": "Failed",
-      "zh": "做错"
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
     },
     "qwen": {
-      "outcome": "failed",
-      "en": "Failed",
-      "zh": "做错"
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
     }
   },
   {
@@ -542,27 +542,27 @@
     "pack": "addons",
     "type": "construct",
     "title": {
-      "en": "Hot Object 回合控制器",
-      "zh": "Hot Object 回合控制器"
+      "en": "Hot Object Round Controller",
+      "zh": "Hot Object Round Controller"
     },
     "difficulty": "hard",
     "minutes": 390,
     "source": null,
     "note": null,
     "deepseek": {
-      "outcome": "failed",
-      "en": "Failed",
-      "zh": "做错"
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
     },
     "dsflash": {
-      "outcome": "failed",
-      "en": "Failed",
-      "zh": "做错"
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
     },
     "qwen": {
-      "outcome": "failed",
-      "en": "Failed",
-      "zh": "做错"
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
     }
   },
   {
@@ -571,27 +571,27 @@
     "pack": "addons",
     "type": "construct",
     "title": {
-      "en": "Contraption Blueprint 复制与恢复",
-      "zh": "Contraption Blueprint 复制与恢复"
+      "en": "Contraption Blueprint Duplicator",
+      "zh": "Contraption Blueprint Duplicator"
     },
     "difficulty": null,
     "minutes": 420,
     "source": null,
     "note": null,
     "deepseek": {
-      "outcome": "failed",
-      "en": "Failed",
-      "zh": "做错"
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
     },
     "dsflash": {
-      "outcome": "failed",
-      "en": "Failed",
-      "zh": "做错"
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
     },
     "qwen": {
-      "outcome": "failed",
-      "en": "Failed",
-      "zh": "做错"
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
     }
   },
   {
@@ -1038,7 +1038,7 @@
       "zh": "Exodus: bug reports against the Afterbirth+ release"
     },
     "difficulty": "hard",
-    "minutes": 90,
+    "minutes": 120,
     "source": {
       "name": "Exodus"
     },
@@ -1049,14 +1049,14 @@
       "zh": "未评测"
     },
     "dsflash": {
-      "outcome": "solved",
-      "en": "Solved",
-      "zh": "做对"
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
     },
     "qwen": {
-      "outcome": "solved",
-      "en": "Solved",
-      "zh": "做对"
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
     }
   },
   {
@@ -1069,7 +1069,7 @@
       "zh": "Exodus: bug reports against the Afterbirth+ release"
     },
     "difficulty": "hard",
-    "minutes": 60,
+    "minutes": 90,
     "source": {
       "name": "Exodus"
     },
@@ -1080,14 +1080,14 @@
       "zh": "未评测"
     },
     "dsflash": {
-      "outcome": "solved",
-      "en": "Solved",
-      "zh": "做对"
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
     },
     "qwen": {
-      "outcome": "failed",
-      "en": "Failed",
-      "zh": "做错"
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
     }
   },
   {
@@ -1100,7 +1100,7 @@
       "zh": "Exodus: bug reports against the Afterbirth+ release"
     },
     "difficulty": "hard",
-    "minutes": 60,
+    "minutes": 90,
     "source": {
       "name": "Exodus"
     },
@@ -1111,14 +1111,14 @@
       "zh": "未评测"
     },
     "dsflash": {
-      "outcome": "solved",
-      "en": "Solved",
-      "zh": "做对"
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
     },
     "qwen": {
-      "outcome": "solved",
-      "en": "Solved",
-      "zh": "做对"
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
     }
   },
   {
@@ -1131,7 +1131,7 @@
       "zh": "Exodus: bug reports against the Afterbirth+ release"
     },
     "difficulty": "hard",
-    "minutes": 90,
+    "minutes": 120,
     "source": {
       "name": "Exodus"
     },
@@ -1142,14 +1142,14 @@
       "zh": "未评测"
     },
     "dsflash": {
-      "outcome": "solved",
-      "en": "Solved",
-      "zh": "做对"
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
     },
     "qwen": {
-      "outcome": "solved",
-      "en": "Solved",
-      "zh": "做对"
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
     }
   },
   {
@@ -1162,7 +1162,7 @@
       "zh": "Exodus: bug reports against the Afterbirth+ release"
     },
     "difficulty": "hard",
-    "minutes": 60,
+    "minutes": 90,
     "source": {
       "name": "Exodus"
     },
@@ -1173,14 +1173,14 @@
       "zh": "未评测"
     },
     "dsflash": {
-      "outcome": "solved",
-      "en": "Solved",
-      "zh": "做对"
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
     },
     "qwen": {
-      "outcome": "failed",
-      "en": "Failed",
-      "zh": "做错"
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
     }
   },
   {
@@ -1193,7 +1193,7 @@
       "zh": "Exodus: bug reports against the Afterbirth+ release"
     },
     "difficulty": "hard",
-    "minutes": 60,
+    "minutes": 90,
     "source": {
       "name": "Exodus"
     },
@@ -1204,14 +1204,14 @@
       "zh": "未评测"
     },
     "dsflash": {
-      "outcome": "solved",
-      "en": "Solved",
-      "zh": "做对"
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
     },
     "qwen": {
-      "outcome": "solved",
-      "en": "Solved",
-      "zh": "做对"
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
     }
   },
   {
@@ -1224,7 +1224,7 @@
       "zh": "Exodus: bug reports against the Afterbirth+ release"
     },
     "difficulty": "hard",
-    "minutes": 90,
+    "minutes": 120,
     "source": {
       "name": "Exodus"
     },
@@ -1235,14 +1235,14 @@
       "zh": "未评测"
     },
     "dsflash": {
-      "outcome": "solved",
-      "en": "Solved",
-      "zh": "做对"
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
     },
     "qwen": {
-      "outcome": "failed",
-      "en": "Failed",
-      "zh": "做错"
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
     }
   },
   {
@@ -1255,7 +1255,7 @@
       "zh": "Exodus: bug reports against the Afterbirth+ release"
     },
     "difficulty": "hard",
-    "minutes": 60,
+    "minutes": 90,
     "source": {
       "name": "Exodus"
     },
@@ -1266,14 +1266,14 @@
       "zh": "未评测"
     },
     "dsflash": {
-      "outcome": "solved",
-      "en": "Solved",
-      "zh": "做对"
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
     },
     "qwen": {
-      "outcome": "failed",
-      "en": "Failed",
-      "zh": "做错"
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
     }
   },
   {
@@ -1286,7 +1286,7 @@
       "zh": "Exodus: bug reports against the Afterbirth+ release"
     },
     "difficulty": "hard",
-    "minutes": 90,
+    "minutes": 120,
     "source": {
       "name": "Exodus"
     },
@@ -1297,14 +1297,14 @@
       "zh": "未评测"
     },
     "dsflash": {
-      "outcome": "solved",
-      "en": "Solved",
-      "zh": "做对"
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
     },
     "qwen": {
-      "outcome": "failed",
-      "en": "Failed",
-      "zh": "做错"
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
     }
   },
   {
@@ -3289,27 +3289,27 @@
     "pack": "core",
     "type": "construct",
     "title": {
-      "en": "服务端权威公会仓库物资账本",
-      "zh": "服务端权威公会仓库物资账本"
+      "en": "Server-authoritative Guild Storage Ledger",
+      "zh": "Server-authoritative Guild Storage Ledger"
     },
     "difficulty": "hard",
     "minutes": 360,
     "source": null,
     "note": null,
     "deepseek": {
-      "outcome": "pending",
-      "en": "Pending evaluation",
-      "zh": "待评测"
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
     },
     "dsflash": {
-      "outcome": "pending",
-      "en": "Pending evaluation",
-      "zh": "待评测"
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
     },
     "qwen": {
-      "outcome": "pending",
-      "en": "Pending evaluation",
-      "zh": "待评测"
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
     }
   },
   {
@@ -3318,27 +3318,27 @@
     "pack": "core",
     "type": "construct",
     "title": {
-      "en": "崩溃安全的帕鲁箱转移事务",
-      "zh": "崩溃安全的帕鲁箱转移事务"
+      "en": "Crash-safe Palbox Transfer Transaction",
+      "zh": "Crash-safe Palbox Transfer Transaction"
     },
     "difficulty": "hard",
     "minutes": 420,
     "source": null,
     "note": null,
     "deepseek": {
-      "outcome": "pending",
-      "en": "Pending evaluation",
-      "zh": "待评测"
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
     },
     "dsflash": {
-      "outcome": "pending",
-      "en": "Pending evaluation",
-      "zh": "待评测"
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
     },
     "qwen": {
-      "outcome": "pending",
-      "en": "Pending evaluation",
-      "zh": "待评测"
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
     }
   },
   {
@@ -3347,27 +3347,27 @@
     "pack": "core",
     "type": "construct",
     "title": {
-      "en": "基于租约的突袭派遣队列",
-      "zh": "基于租约的突袭派遣队列"
+      "en": "Lease-based Raid Dispatch Queue",
+      "zh": "Lease-based Raid Dispatch Queue"
     },
     "difficulty": "hard",
     "minutes": 390,
     "source": null,
     "note": null,
     "deepseek": {
-      "outcome": "pending",
-      "en": "Pending evaluation",
-      "zh": "待评测"
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
     },
     "dsflash": {
-      "outcome": "pending",
-      "en": "Pending evaluation",
-      "zh": "待评测"
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
     },
     "qwen": {
-      "outcome": "pending",
-      "en": "Pending evaluation",
-      "zh": "待评测"
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
     }
   },
   {
@@ -3376,27 +3376,27 @@
     "pack": "core",
     "type": "construct",
     "title": {
-      "en": "服务端权威世界规则投票",
-      "zh": "服务端权威世界规则投票"
+      "en": "Server-authoritative World Rule Ballot",
+      "zh": "Server-authoritative World Rule Ballot"
     },
     "difficulty": "hard",
     "minutes": 360,
     "source": null,
     "note": null,
     "deepseek": {
-      "outcome": "pending",
-      "en": "Pending evaluation",
-      "zh": "待评测"
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
     },
     "dsflash": {
-      "outcome": "pending",
-      "en": "Pending evaluation",
-      "zh": "待评测"
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
     },
     "qwen": {
-      "outcome": "pending",
-      "en": "Pending evaluation",
-      "zh": "待评测"
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
     }
   },
   {
@@ -3405,27 +3405,27 @@
     "pack": "core",
     "type": "construct",
     "title": {
-      "en": "确定性伤害归属仲裁器",
-      "zh": "确定性伤害归属仲裁器"
+      "en": "Deterministic Damage Attribution Arbiter",
+      "zh": "Deterministic Damage Attribution Arbiter"
     },
     "difficulty": "hard",
     "minutes": 390,
     "source": null,
     "note": null,
     "deepseek": {
-      "outcome": "pending",
-      "en": "Pending evaluation",
-      "zh": "待评测"
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
     },
     "dsflash": {
-      "outcome": "pending",
-      "en": "Pending evaluation",
-      "zh": "待评测"
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
     },
     "qwen": {
-      "outcome": "pending",
-      "en": "Pending evaluation",
-      "zh": "待评测"
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
     }
   },
   {
@@ -3434,27 +3434,27 @@
     "pack": "core",
     "type": "construct",
     "title": {
-      "en": "崩溃窗口下的物资发放回执协议",
-      "zh": "崩溃窗口下的物资发放回执协议"
+      "en": "Receipt-driven Supply Outbox Recovery",
+      "zh": "Receipt-driven Supply Outbox Recovery"
     },
     "difficulty": "hard",
     "minutes": 660,
     "source": null,
     "note": null,
     "deepseek": {
-      "outcome": "pending",
-      "en": "Pending evaluation",
-      "zh": "待评测"
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
     },
     "dsflash": {
-      "outcome": "pending",
-      "en": "Pending evaluation",
-      "zh": "待评测"
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
     },
     "qwen": {
-      "outcome": "pending",
-      "en": "Pending evaluation",
-      "zh": "待评测"
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
     }
   },
   {
@@ -3463,27 +3463,27 @@
     "pack": "core",
     "type": "construct",
     "title": {
-      "en": "帕鲁工作适应性的全局最优分配",
-      "zh": "帕鲁工作适应性的全局最优分配"
+      "en": "Globally Optimal Pal Workforce Matching",
+      "zh": "Globally Optimal Pal Workforce Matching"
     },
     "difficulty": "hard",
     "minutes": 720,
     "source": null,
     "note": null,
     "deepseek": {
-      "outcome": "pending",
-      "en": "Pending evaluation",
-      "zh": "待评测"
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
     },
     "dsflash": {
-      "outcome": "pending",
-      "en": "Pending evaluation",
-      "zh": "待评测"
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
     },
     "qwen": {
-      "outcome": "pending",
-      "en": "Pending evaluation",
-      "zh": "待评测"
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
     }
   },
   {
@@ -3492,27 +3492,27 @@
     "pack": "core",
     "type": "construct",
     "title": {
-      "en": "支持撤销与迟到边界的突袭贡献结算",
-      "zh": "支持撤销与迟到边界的突袭贡献结算"
+      "en": "Revisioned Raid Contributions with Watermarks",
+      "zh": "Revisioned Raid Contributions with Watermarks"
     },
     "difficulty": "hard",
     "minutes": 660,
     "source": null,
     "note": null,
     "deepseek": {
-      "outcome": "pending",
-      "en": "Pending evaluation",
-      "zh": "待评测"
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
     },
     "dsflash": {
-      "outcome": "pending",
-      "en": "Pending evaluation",
-      "zh": "待评测"
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
     },
     "qwen": {
-      "outcome": "pending",
-      "en": "Pending evaluation",
-      "zh": "待评测"
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
     }
   },
   {
@@ -3521,27 +3521,27 @@
     "pack": "core",
     "type": "construct",
     "title": {
-      "en": "跨据点因果一致的最大存档切面",
-      "zh": "跨据点因果一致的最大存档切面"
+      "en": "Greatest Causally Consistent Guild Checkpoint",
+      "zh": "Greatest Causally Consistent Guild Checkpoint"
     },
     "difficulty": "hard",
     "minutes": 720,
     "source": null,
     "note": null,
     "deepseek": {
-      "outcome": "pending",
-      "en": "Pending evaluation",
-      "zh": "待评测"
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
     },
     "dsflash": {
-      "outcome": "pending",
-      "en": "Pending evaluation",
-      "zh": "待评测"
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
     },
     "qwen": {
-      "outcome": "pending",
-      "en": "Pending evaluation",
-      "zh": "待评测"
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
     }
   },
   {
@@ -3550,27 +3550,27 @@
     "pack": "core",
     "type": "construct",
     "title": {
-      "en": "世界换代与旧回调隔离的任务调度器",
-      "zh": "世界换代与旧回调隔离的任务调度器"
+      "en": "World Epoch Fencing and Timer Redelivery",
+      "zh": "World Epoch Fencing and Timer Redelivery"
     },
     "difficulty": "hard",
     "minutes": 660,
     "source": null,
     "note": null,
     "deepseek": {
-      "outcome": "pending",
-      "en": "Pending evaluation",
-      "zh": "待评测"
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
     },
     "dsflash": {
-      "outcome": "pending",
-      "en": "Pending evaluation",
-      "zh": "待评测"
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
     },
     "qwen": {
-      "outcome": "pending",
-      "en": "Pending evaluation",
-      "zh": "待评测"
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
     }
   },
   {
