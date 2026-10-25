@@ -68,9 +68,9 @@
       "zh": "做错"
     },
     "astra": {
-      "outcome": "failed",
-      "en": "Failed",
-      "zh": "做错"
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -213,9 +213,9 @@
       "zh": "做错"
     },
     "astra": {
-      "outcome": "not-scored",
-      "en": "Not scored (evaluation stopped)",
-      "zh": "未计分（评测中断）"
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -247,9 +247,9 @@
       "zh": "做错"
     },
     "astra": {
-      "outcome": "not-scored",
-      "en": "Not scored (evaluation stopped)",
-      "zh": "未计分（评测中断）"
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -281,9 +281,9 @@
       "zh": "做错"
     },
     "astra": {
-      "outcome": "failed",
-      "en": "Failed",
-      "zh": "做错"
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -315,9 +315,9 @@
       "zh": "做错"
     },
     "astra": {
-      "outcome": "failed",
-      "en": "Failed",
-      "zh": "做错"
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -417,9 +417,9 @@
       "zh": "未计分（评测中断）"
     },
     "astra": {
-      "outcome": "failed",
-      "en": "Failed",
-      "zh": "做错"
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -451,9 +451,9 @@
       "zh": "未计分（评测中断）"
     },
     "astra": {
-      "outcome": "failed",
-      "en": "Failed",
-      "zh": "做错"
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -725,9 +725,9 @@
       "zh": "做错"
     },
     "astra": {
-      "outcome": "failed",
-      "en": "Failed",
-      "zh": "做错"
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -833,9 +833,9 @@
       "zh": "做错"
     },
     "astra": {
-      "outcome": "failed",
-      "en": "Failed",
-      "zh": "做错"
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -869,9 +869,9 @@
       "zh": "做错"
     },
     "astra": {
-      "outcome": "failed",
-      "en": "Failed",
-      "zh": "做错"
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -905,9 +905,9 @@
       "zh": "做错"
     },
     "astra": {
-      "outcome": "solved",
-      "en": "Solved",
-      "zh": "做对"
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -1013,9 +1013,9 @@
       "zh": "做错"
     },
     "astra": {
-      "outcome": "failed",
-      "en": "Failed",
-      "zh": "做错"
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -1157,9 +1157,9 @@
       "zh": "做对"
     },
     "astra": {
-      "outcome": "failed",
-      "en": "Failed",
-      "zh": "做错"
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -1265,9 +1265,9 @@
       "zh": "未评测"
     },
     "astra": {
-      "outcome": "failed",
-      "en": "Failed",
-      "zh": "做错"
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -1373,9 +1373,9 @@
       "zh": "未评测"
     },
     "astra": {
-      "outcome": "failed",
-      "en": "Failed",
-      "zh": "做错"
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -1445,9 +1445,9 @@
       "zh": "未评测"
     },
     "astra": {
-      "outcome": "failed",
-      "en": "Failed",
-      "zh": "做错"
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -1481,9 +1481,9 @@
       "zh": "未评测"
     },
     "astra": {
-      "outcome": "failed",
-      "en": "Failed",
-      "zh": "做错"
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -1517,9 +1517,9 @@
       "zh": "未评测"
     },
     "astra": {
-      "outcome": "failed",
-      "en": "Failed",
-      "zh": "做错"
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -1553,9 +1553,9 @@
       "zh": "做错"
     },
     "astra": {
-      "outcome": "failed",
-      "en": "Failed",
-      "zh": "做错"
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -1697,9 +1697,9 @@
       "zh": "做错"
     },
     "astra": {
-      "outcome": "failed",
-      "en": "Failed",
-      "zh": "做错"
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -1733,9 +1733,9 @@
       "zh": "做错"
     },
     "astra": {
-      "outcome": "not-scored",
-      "en": "Not scored (evaluation stopped)",
-      "zh": "未计分（评测中断）"
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -1805,9 +1805,9 @@
       "zh": "未计分（评测中断）"
     },
     "astra": {
-      "outcome": "not-scored",
-      "en": "Not scored (evaluation stopped)",
-      "zh": "未计分（评测中断）"
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -1841,9 +1841,9 @@
       "zh": "做错"
     },
     "astra": {
-      "outcome": "failed",
-      "en": "Failed",
-      "zh": "做错"
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -1877,9 +1877,9 @@
       "zh": "做错"
     },
     "astra": {
-      "outcome": "failed",
-      "en": "Failed",
-      "zh": "做错"
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -2093,9 +2093,9 @@
       "zh": "做错"
     },
     "astra": {
-      "outcome": "failed",
-      "en": "Failed",
-      "zh": "做错"
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -2129,9 +2129,9 @@
       "zh": "做错"
     },
     "astra": {
-      "outcome": "failed",
-      "en": "Failed",
-      "zh": "做错"
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -2165,9 +2165,9 @@
       "zh": "做错"
     },
     "astra": {
-      "outcome": "failed",
-      "en": "Failed",
-      "zh": "做错"
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -2821,9 +2821,9 @@
       "zh": "做错"
     },
     "astra": {
-      "outcome": "failed",
-      "en": "Failed",
-      "zh": "做错"
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -2991,9 +2991,9 @@
       "zh": "做错"
     },
     "astra": {
-      "outcome": "failed",
-      "en": "Failed",
-      "zh": "做错"
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -3093,9 +3093,9 @@
       "zh": "做错"
     },
     "astra": {
-      "outcome": "solved",
-      "en": "Solved",
-      "zh": "做对"
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -3167,9 +3167,9 @@
       "zh": "做错"
     },
     "astra": {
-      "outcome": "failed",
-      "en": "Failed",
-      "zh": "做错"
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -3278,9 +3278,9 @@
       "zh": "做错"
     },
     "astra": {
-      "outcome": "solved",
-      "en": "Solved",
-      "zh": "做对"
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -4494,9 +4494,9 @@
       "zh": "做错"
     },
     "astra": {
-      "outcome": "failed",
-      "en": "Failed",
-      "zh": "做错"
+      "outcome": "not-scored",
+      "en": "Not scored (evaluation stopped)",
+      "zh": "未计分（评测中断）"
     }
   },
   {
@@ -4570,9 +4570,9 @@
       "zh": "做错"
     },
     "astra": {
-      "outcome": "failed",
-      "en": "Failed",
-      "zh": "做错"
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -4648,9 +4648,9 @@
       "zh": "做错"
     },
     "astra": {
-      "outcome": "failed",
-      "en": "Failed",
-      "zh": "做错"
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -4958,9 +4958,9 @@
       "zh": "做错"
     },
     "astra": {
-      "outcome": "not-scored",
-      "en": "Not scored (evaluation stopped)",
-      "zh": "未计分（评测中断）"
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -5106,9 +5106,9 @@
       "zh": "未计分（评测中断）"
     },
     "astra": {
-      "outcome": "failed",
-      "en": "Failed",
-      "zh": "做错"
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -5143,9 +5143,9 @@
       "zh": "未计分（评测中断）"
     },
     "astra": {
-      "outcome": "not-scored",
-      "en": "Not scored (evaluation stopped)",
-      "zh": "未计分（评测中断）"
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -5180,9 +5180,9 @@
       "zh": "未计分（评测中断）"
     },
     "astra": {
-      "outcome": "failed",
-      "en": "Failed",
-      "zh": "做错"
+      "outcome": "not-scored",
+      "en": "Not scored (evaluation stopped)",
+      "zh": "未计分（评测中断）"
     }
   },
   {
@@ -5217,9 +5217,9 @@
       "zh": "未计分（评测中断）"
     },
     "astra": {
-      "outcome": "not-scored",
-      "en": "Not scored (evaluation stopped)",
-      "zh": "未计分（评测中断）"
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -5291,9 +5291,9 @@
       "zh": "做错"
     },
     "astra": {
-      "outcome": "failed",
-      "en": "Failed",
-      "zh": "做错"
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
