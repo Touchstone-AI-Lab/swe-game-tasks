@@ -3858,40 +3858,6 @@
     }
   },
   {
-    "number": "SG-110",
-    "game": "palworld",
-    "pack": "core",
-    "type": "construct",
-    "title": {
-      "en": "Crash-safe Palbox Transfer Transaction",
-      "zh": "Crash-safe Palbox Transfer Transaction"
-    },
-    "difficulty": "hard",
-    "minutes": 420,
-    "source": null,
-    "note": null,
-    "deepseek": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
-    },
-    "dsflash": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
-    },
-    "qwen": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
-    },
-    "astra": {
-      "outcome": "pending",
-      "en": "Pending evaluation",
-      "zh": "待评测"
-    }
-  },
-  {
     "number": "SG-111",
     "game": "palworld",
     "pack": "core",
@@ -3936,40 +3902,6 @@
     },
     "difficulty": "hard",
     "minutes": 360,
-    "source": null,
-    "note": null,
-    "deepseek": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
-    },
-    "dsflash": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
-    },
-    "qwen": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
-    },
-    "astra": {
-      "outcome": "pending",
-      "en": "Pending evaluation",
-      "zh": "待评测"
-    }
-  },
-  {
-    "number": "SG-113",
-    "game": "palworld",
-    "pack": "core",
-    "type": "construct",
-    "title": {
-      "en": "Deterministic Damage Attribution Arbiter",
-      "zh": "Deterministic Damage Attribution Arbiter"
-    },
-    "difficulty": "hard",
-    "minutes": 390,
     "source": null,
     "note": null,
     "deepseek": {
@@ -5545,6 +5477,74 @@
     },
     "difficulty": "hard",
     "minutes": 110,
+    "source": null,
+    "note": null,
+    "deepseek": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
+    },
+    "dsflash": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
+    },
+    "qwen": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
+    },
+    "astra": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
+    }
+  },
+  {
+    "number": "SG-157",
+    "game": "palworld",
+    "pack": "core",
+    "type": "construct",
+    "title": {
+      "en": "Canonical Base Containment Under Coupled Costs",
+      "zh": "Canonical Base Containment Under Coupled Costs"
+    },
+    "difficulty": "hard",
+    "minutes": 960,
+    "source": null,
+    "note": null,
+    "deepseek": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
+    },
+    "dsflash": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
+    },
+    "qwen": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
+    },
+    "astra": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
+    }
+  },
+  {
+    "number": "SG-158",
+    "game": "palworld",
+    "pack": "core",
+    "type": "construct",
+    "title": {
+      "en": "Stable Guild Draft Under Conflicting Priorities",
+      "zh": "Stable Guild Draft Under Conflicting Priorities"
+    },
+    "difficulty": "hard",
+    "minutes": 960,
     "source": null,
     "note": null,
     "deepseek": {
