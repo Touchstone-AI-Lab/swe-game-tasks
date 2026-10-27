@@ -4483,8 +4483,8 @@
       "name": "ModTheSpire"
     },
     "note": {
-      "en": "Evaluated on the ModTheSpire loader alone, without the base game.",
-      "zh": "只评测 ModTheSpire 加载器，不需要原版游戏。"
+      "en": "Full evaluation unavailable: no real-game verifier. Historical loader results are diagnostic.",
+      "zh": "暂无真实游戏验证器，full 评测不可用；历史加载器结果仅供诊断。"
     },
     "deepseek": {
       "outcome": "failed",
@@ -4522,8 +4522,8 @@
       "name": "ModTheSpire"
     },
     "note": {
-      "en": "Evaluated on the ModTheSpire loader alone, without the base game.",
-      "zh": "只评测 ModTheSpire 加载器，不需要原版游戏。"
+      "en": "Full evaluation unavailable: no real-game verifier. Historical loader results are diagnostic.",
+      "zh": "暂无真实游戏验证器，full 评测不可用；历史加载器结果仅供诊断。"
     },
     "deepseek": {
       "outcome": "solved",
@@ -4561,8 +4561,8 @@
       "name": "ModTheSpire"
     },
     "note": {
-      "en": "Evaluated on the ModTheSpire loader alone, without the base game.",
-      "zh": "只评测 ModTheSpire 加载器，不需要原版游戏。"
+      "en": "Full evaluation unavailable: no real-game verifier. Historical loader results are diagnostic.",
+      "zh": "暂无真实游戏验证器，full 评测不可用；历史加载器结果仅供诊断。"
     },
     "deepseek": {
       "outcome": "failed",
@@ -4600,8 +4600,8 @@
       "name": "BaseMod"
     },
     "note": {
-      "en": "Needs an operator-supplied licensed game and the manual Harbor workflow.",
-      "zh": "需要操作员提供正版游戏，并通过手动 Harbor 流程评测。"
+      "en": "Runs in the licensed game, downloaded from Steam with the operator's own account.",
+      "zh": "在正版游戏中评测，游戏由操作员用自己的 Steam 账号下载。"
     },
     "deepseek": {
       "outcome": "not-evaluated",
@@ -4639,8 +4639,8 @@
       "name": "StSLib"
     },
     "note": {
-      "en": "Needs an operator-supplied licensed game and the manual Harbor workflow.",
-      "zh": "需要操作员提供正版游戏，并通过手动 Harbor 流程评测。"
+      "en": "Runs in the licensed game, downloaded from Steam with the operator's own account.",
+      "zh": "在正版游戏中评测，游戏由操作员用自己的 Steam 账号下载。"
     },
     "deepseek": {
       "outcome": "not-evaluated",
@@ -4678,8 +4678,8 @@
       "name": "ModTheSpire"
     },
     "note": {
-      "en": "Needs an operator-supplied licensed game and the manual Harbor workflow.",
-      "zh": "需要操作员提供正版游戏，并通过手动 Harbor 流程评测。"
+      "en": "Full evaluation unavailable: no real-game verifier. Historical loader results are diagnostic.",
+      "zh": "暂无真实游戏验证器，full 评测不可用；历史加载器结果仅供诊断。"
     },
     "deepseek": {
       "outcome": "not-evaluated",
@@ -4717,8 +4717,8 @@
       "name": "StSLib"
     },
     "note": {
-      "en": "Needs an operator-supplied licensed game and the manual Harbor workflow.",
-      "zh": "需要操作员提供正版游戏，并通过手动 Harbor 流程评测。"
+      "en": "Runs in the licensed game, downloaded from Steam with the operator's own account.",
+      "zh": "在正版游戏中评测，游戏由操作员用自己的 Steam 账号下载。"
     },
     "deepseek": {
       "outcome": "not-evaluated",
@@ -4756,8 +4756,8 @@
       "name": "Downfall"
     },
     "note": {
-      "en": "Needs an operator-supplied licensed game and the manual Harbor workflow.",
-      "zh": "需要操作员提供正版游戏，并通过手动 Harbor 流程评测。"
+      "en": "Runs in the licensed game, downloaded from Steam with the operator's own account.",
+      "zh": "在正版游戏中评测，游戏由操作员用自己的 Steam 账号下载。"
     },
     "deepseek": {
       "outcome": "not-evaluated",
@@ -4795,47 +4795,8 @@
       "name": "BaseMod"
     },
     "note": {
-      "en": "Needs an operator-supplied licensed game and the manual Harbor workflow.",
-      "zh": "需要操作员提供正版游戏，并通过手动 Harbor 流程评测。"
-    },
-    "deepseek": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
-    },
-    "dsflash": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
-    },
-    "qwen": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
-    },
-    "astra": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
-    }
-  },
-  {
-    "number": "SG-138",
-    "game": "slay-the-spire",
-    "pack": "core",
-    "type": "repair",
-    "title": {
-      "en": "Downfall: Campfire selections leak across cancellation",
-      "zh": "Downfall：营火选择流程在取消后互相干扰"
-    },
-    "difficulty": "hard",
-    "minutes": 180,
-    "source": {
-      "name": "Downfall"
-    },
-    "note": {
-      "en": "Needs an operator-supplied licensed game and the manual Harbor workflow.",
-      "zh": "需要操作员提供正版游戏，并通过手动 Harbor 流程评测。"
+      "en": "Runs in the licensed game, downloaded from Steam with the operator's own account.",
+      "zh": "在正版游戏中评测，游戏由操作员用自己的 Steam 账号下载。"
     },
     "deepseek": {
       "outcome": "not-evaluated",
@@ -5547,6 +5508,45 @@
     "minutes": 960,
     "source": null,
     "note": null,
+    "deepseek": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
+    },
+    "dsflash": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
+    },
+    "qwen": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
+    },
+    "astra": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
+    }
+  },
+  {
+    "number": "SG-159",
+    "game": "slay-the-spire",
+    "pack": "core",
+    "type": "repair",
+    "title": {
+      "en": "Downfall: Campfire selections leak across cancellation",
+      "zh": "Downfall：营火选择流程在取消后互相干扰"
+    },
+    "difficulty": "hard",
+    "minutes": 180,
+    "source": {
+      "name": "Downfall"
+    },
+    "note": {
+      "en": "Runs in the licensed game, downloaded from Steam with the operator's own account.",
+      "zh": "在正版游戏中评测，游戏由操作员用自己的 Steam 账号下载。"
+    },
     "deepseek": {
       "outcome": "not-evaluated",
       "en": "Not evaluated",
