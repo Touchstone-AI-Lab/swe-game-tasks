@@ -9,31 +9,31 @@
       "zh": "DST Fixed: gifts and bundles misbehave when they are opened from an inventory"
     },
     "difficulty": "hard",
-    "minutes": 120,
+    "minutes": 150,
     "source": {
       "name": "DST Fixed",
       "license": "Apache-2.0"
     },
     "note": null,
     "deepseek": {
-      "outcome": "failed",
-      "en": "Failed",
-      "zh": "做错"
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
     },
     "dsflash": {
-      "outcome": "solved",
-      "en": "Solved",
-      "zh": "做对"
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
     },
     "qwen": {
-      "outcome": "failed",
-      "en": "Failed",
-      "zh": "做错"
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
     },
     "astra": {
-      "outcome": "solved",
-      "en": "Solved",
-      "zh": "做对"
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
     }
   },
   {
@@ -42,35 +42,35 @@
     "pack": "core",
     "type": "repair",
     "title": {
-      "en": "DST Fixed: five optional modules misbehave on our server",
-      "zh": "DST Fixed: five optional modules misbehave on our server"
+      "en": "DST Fixed: six optional modules misbehave on our server",
+      "zh": "DST Fixed: six optional modules misbehave on our server"
     },
     "difficulty": "hard",
-    "minutes": 150,
+    "minutes": 180,
     "source": {
       "name": "DST Fixed",
       "license": "Apache-2.0"
     },
     "note": null,
     "deepseek": {
-      "outcome": "solved",
-      "en": "Solved",
-      "zh": "做对"
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
     },
     "dsflash": {
-      "outcome": "solved",
-      "en": "Solved",
-      "zh": "做对"
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
     },
     "qwen": {
-      "outcome": "failed",
-      "en": "Failed",
-      "zh": "做错"
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
     },
     "astra": {
-      "outcome": "solved",
-      "en": "Solved",
-      "zh": "做对"
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
     }
   },
   {
@@ -116,35 +116,35 @@
     "pack": "core",
     "type": "repair",
     "title": {
-      "en": "DsMMO: skill handlers throw Lua errors on a live server",
-      "zh": "DsMMO: skill handlers throw Lua errors on a live server"
+      "en": "DsMMO: skill handlers, saves and commands misbehave on a live server",
+      "zh": "DsMMO: skill handlers, saves and commands misbehave on a live server"
     },
-    "difficulty": "medium",
-    "minutes": 90,
+    "difficulty": "hard",
+    "minutes": 120,
     "source": {
       "name": "DsMMO",
       "license": "Apache-2.0"
     },
     "note": null,
     "deepseek": {
-      "outcome": "solved",
-      "en": "Solved",
-      "zh": "做对"
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
     },
     "dsflash": {
-      "outcome": "solved",
-      "en": "Solved",
-      "zh": "做对"
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
     },
     "qwen": {
-      "outcome": "solved",
-      "en": "Solved",
-      "zh": "做对"
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
     },
     "astra": {
-      "outcome": "solved",
-      "en": "Solved",
-      "zh": "做对"
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
     }
   },
   {
@@ -156,32 +156,32 @@
       "en": "Glassic API: recipe sorting and mod skins break other mods",
       "zh": "Glassic API: recipe sorting and mod skins break other mods"
     },
-    "difficulty": "medium",
-    "minutes": 90,
+    "difficulty": "hard",
+    "minutes": 120,
     "source": {
       "name": "Glassic API",
       "license": "Apache-2.0"
     },
     "note": null,
     "deepseek": {
-      "outcome": "solved",
-      "en": "Solved",
-      "zh": "做对"
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
     },
     "dsflash": {
-      "outcome": "solved",
-      "en": "Solved",
-      "zh": "做对"
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
     },
     "qwen": {
-      "outcome": "solved",
-      "en": "Solved",
-      "zh": "做对"
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
     },
     "astra": {
-      "outcome": "solved",
-      "en": "Solved",
-      "zh": "做对"
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
     }
   },
   {
@@ -1219,14 +1219,14 @@
       "zh": "未评测"
     },
     "dsflash": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     },
     "qwen": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     },
     "astra": {
       "outcome": "failed",
@@ -1255,14 +1255,14 @@
       "zh": "未评测"
     },
     "dsflash": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     },
     "qwen": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     },
     "astra": {
       "outcome": "solved",
@@ -1291,14 +1291,14 @@
       "zh": "未评测"
     },
     "dsflash": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     },
     "qwen": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     },
     "astra": {
       "outcome": "solved",
@@ -1327,14 +1327,14 @@
       "zh": "未评测"
     },
     "dsflash": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     },
     "qwen": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     },
     "astra": {
       "outcome": "failed",
@@ -1363,14 +1363,14 @@
       "zh": "未评测"
     },
     "dsflash": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     },
     "qwen": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     },
     "astra": {
       "outcome": "solved",
@@ -1399,14 +1399,14 @@
       "zh": "未评测"
     },
     "dsflash": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     },
     "qwen": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     },
     "astra": {
       "outcome": "failed",
@@ -1435,14 +1435,14 @@
       "zh": "未评测"
     },
     "dsflash": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     },
     "qwen": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     },
     "astra": {
       "outcome": "solved",
@@ -1471,14 +1471,14 @@
       "zh": "未评测"
     },
     "dsflash": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     },
     "qwen": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
+      "outcome": "not-scored",
+      "en": "Not scored (evaluation stopped)",
+      "zh": "未计分（评测中断）"
     },
     "astra": {
       "outcome": "solved",
@@ -1507,14 +1507,14 @@
       "zh": "未评测"
     },
     "dsflash": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     },
     "qwen": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     },
     "astra": {
       "outcome": "solved",
