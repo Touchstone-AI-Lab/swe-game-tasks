@@ -4222,8 +4222,8 @@
       "license": "MIT"
     },
     "note": {
-      "en": "Not evaluable yet: the pinned .NET SDK cannot compile this task's starter.",
-      "zh": "暂不可评测：锁定版本的 .NET SDK 无法编译该题的 starter。"
+      "en": "Not evaluable yet: its repaired build still awaits real-game acceptance.",
+      "zh": "暂不可评测：修复后的构建尚未完成真实游戏验收。"
     },
     "deepseek": {
       "outcome": "not-evaluated",
@@ -5547,6 +5547,43 @@
       "en": "Runs in the licensed game, downloaded from Steam with the operator's own account.",
       "zh": "在正版游戏中评测，游戏由操作员用自己的 Steam 账号下载。"
     },
+    "deepseek": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
+    },
+    "dsflash": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
+    },
+    "qwen": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
+    },
+    "astra": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
+    }
+  },
+  {
+    "number": "SG-160",
+    "game": "rimworld",
+    "pack": "core",
+    "type": "repair",
+    "title": {
+      "en": "Keep research-tab state consistent after re-layout",
+      "zh": "Keep research-tab state consistent after re-layout"
+    },
+    "difficulty": "hard",
+    "minutes": 90,
+    "source": {
+      "name": "Research: Organized",
+      "license": "MIT"
+    },
+    "note": null,
     "deepseek": {
       "outcome": "not-evaluated",
       "en": "Not evaluated",
