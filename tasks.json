@@ -4466,123 +4466,6 @@
     }
   },
   {
-    "number": "SG-129",
-    "game": "slay-the-spire",
-    "pack": "core",
-    "type": "repair",
-    "title": {
-      "en": "ModTheSpire: reports about loading mods and patching the game",
-      "zh": "ModTheSpire: reports about loading mods and patching the game"
-    },
-    "difficulty": "hard",
-    "minutes": 180,
-    "source": {
-      "name": "ModTheSpire"
-    },
-    "note": {
-      "en": "Full evaluation unavailable: no real-game verifier. Historical loader results are diagnostic.",
-      "zh": "暂无真实游戏验证器，full 评测不可用；历史加载器结果仅供诊断。"
-    },
-    "deepseek": {
-      "outcome": "failed",
-      "en": "Failed",
-      "zh": "做错"
-    },
-    "dsflash": {
-      "outcome": "failed",
-      "en": "Failed",
-      "zh": "做错"
-    },
-    "qwen": {
-      "outcome": "failed",
-      "en": "Failed",
-      "zh": "做错"
-    },
-    "astra": {
-      "outcome": "solved",
-      "en": "Solved",
-      "zh": "做对"
-    }
-  },
-  {
-    "number": "SG-130",
-    "game": "slay-the-spire",
-    "pack": "core",
-    "type": "repair",
-    "title": {
-      "en": "ModTheSpire: reports about telling mods apart",
-      "zh": "ModTheSpire: reports about telling mods apart"
-    },
-    "difficulty": "hard",
-    "minutes": 180,
-    "source": {
-      "name": "ModTheSpire"
-    },
-    "note": {
-      "en": "Full evaluation unavailable: no real-game verifier. Historical loader results are diagnostic.",
-      "zh": "暂无真实游戏验证器，full 评测不可用；历史加载器结果仅供诊断。"
-    },
-    "deepseek": {
-      "outcome": "solved",
-      "en": "Solved",
-      "zh": "做对"
-    },
-    "dsflash": {
-      "outcome": "solved",
-      "en": "Solved",
-      "zh": "做对"
-    },
-    "qwen": {
-      "outcome": "failed",
-      "en": "Failed",
-      "zh": "做错"
-    },
-    "astra": {
-      "outcome": "solved",
-      "en": "Solved",
-      "zh": "做对"
-    }
-  },
-  {
-    "number": "SG-131",
-    "game": "slay-the-spire",
-    "pack": "core",
-    "type": "repair",
-    "title": {
-      "en": "ModTheSpire: reports from the modding community",
-      "zh": "ModTheSpire: reports from the modding community"
-    },
-    "difficulty": "hard",
-    "minutes": 180,
-    "source": {
-      "name": "ModTheSpire"
-    },
-    "note": {
-      "en": "Full evaluation unavailable: no real-game verifier. Historical loader results are diagnostic.",
-      "zh": "暂无真实游戏验证器，full 评测不可用；历史加载器结果仅供诊断。"
-    },
-    "deepseek": {
-      "outcome": "failed",
-      "en": "Failed",
-      "zh": "做错"
-    },
-    "dsflash": {
-      "outcome": "solved",
-      "en": "Solved",
-      "zh": "做对"
-    },
-    "qwen": {
-      "outcome": "failed",
-      "en": "Failed",
-      "zh": "做错"
-    },
-    "astra": {
-      "outcome": "solved",
-      "en": "Solved",
-      "zh": "做对"
-    }
-  },
-  {
     "number": "SG-132",
     "game": "slay-the-spire",
     "pack": "core",
@@ -4658,45 +4541,6 @@
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
-    }
-  },
-  {
-    "number": "SG-134",
-    "game": "slay-the-spire",
-    "pack": "core",
-    "type": "repair",
-    "title": {
-      "en": "ModTheSpire: Extended values disagree across mods",
-      "zh": "ModTheSpire：模组扩展值在不同用法中不一致"
-    },
-    "difficulty": "hard",
-    "minutes": 180,
-    "source": {
-      "name": "ModTheSpire"
-    },
-    "note": {
-      "en": "Full evaluation unavailable: no real-game verifier. Historical loader results are diagnostic.",
-      "zh": "暂无真实游戏验证器，full 评测不可用；历史加载器结果仅供诊断。"
-    },
-    "deepseek": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
-    },
-    "dsflash": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
-    },
-    "qwen": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
-    },
-    "astra": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
     }
   },
   {
@@ -5600,6 +5444,123 @@
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
+    }
+  },
+  {
+    "number": "SG-161",
+    "game": "slay-the-spire",
+    "pack": "core",
+    "type": "repair",
+    "title": {
+      "en": "ModTheSpire: Extended values disagree across mods",
+      "zh": "ModTheSpire：模组扩展值在不同用法中不一致"
+    },
+    "difficulty": "hard",
+    "minutes": 180,
+    "source": {
+      "name": "ModTheSpire"
+    },
+    "note": {
+      "en": "Runs in the licensed game, downloaded from Steam with the operator's own account.",
+      "zh": "在正版游戏中评测，游戏由操作员用自己的 Steam 账号下载。"
+    },
+    "deepseek": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
+    },
+    "dsflash": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
+    },
+    "qwen": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
+    },
+    "astra": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
+    }
+  },
+  {
+    "number": "SG-162",
+    "game": "slay-the-spire",
+    "pack": "core",
+    "type": "repair",
+    "title": {
+      "en": "ModTheSpire: reports about loading mods and patching the game",
+      "zh": "ModTheSpire: reports about loading mods and patching the game"
+    },
+    "difficulty": "hard",
+    "minutes": 180,
+    "source": {
+      "name": "ModTheSpire"
+    },
+    "note": {
+      "en": "Runs in the licensed game, downloaded from Steam with the operator's own account.",
+      "zh": "在正版游戏中评测，游戏由操作员用自己的 Steam 账号下载。"
+    },
+    "deepseek": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
+    },
+    "dsflash": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
+    },
+    "qwen": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
+    },
+    "astra": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
+    }
+  },
+  {
+    "number": "SG-163",
+    "game": "slay-the-spire",
+    "pack": "core",
+    "type": "repair",
+    "title": {
+      "en": "ModTheSpire: reports about telling mods apart",
+      "zh": "ModTheSpire: reports about telling mods apart"
+    },
+    "difficulty": "hard",
+    "minutes": 180,
+    "source": {
+      "name": "ModTheSpire"
+    },
+    "note": {
+      "en": "Runs in the licensed game, downloaded from Steam with the operator's own account.",
+      "zh": "在正版游戏中评测，游戏由操作员用自己的 Steam 账号下载。"
+    },
+    "deepseek": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
+    },
+    "dsflash": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
+    },
+    "qwen": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
+    },
+    "astra": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
     }
   }
 ]
