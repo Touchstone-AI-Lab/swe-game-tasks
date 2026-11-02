@@ -5205,19 +5205,19 @@
       "zh": "未评测"
     },
     "dsflash": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     },
     "qwen": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     },
     "astra": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -5239,19 +5239,19 @@
       "zh": "未评测"
     },
     "dsflash": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     },
     "qwen": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     },
     "astra": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -5273,19 +5273,19 @@
       "zh": "未评测"
     },
     "dsflash": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     },
     "qwen": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     },
     "astra": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -5307,19 +5307,19 @@
       "zh": "未评测"
     },
     "dsflash": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     },
     "qwen": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     },
     "astra": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -5341,19 +5341,19 @@
       "zh": "未评测"
     },
     "dsflash": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     },
     "qwen": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     },
     "astra": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -5375,19 +5375,19 @@
       "zh": "未评测"
     },
     "dsflash": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     },
     "qwen": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     },
     "astra": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -5409,19 +5409,19 @@
       "zh": "未评测"
     },
     "dsflash": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     },
     "qwen": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     },
     "astra": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -5443,19 +5443,19 @@
       "zh": "未评测"
     },
     "dsflash": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     },
     "qwen": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     },
     "astra": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
