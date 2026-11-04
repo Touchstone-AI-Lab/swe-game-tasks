@@ -3289,8 +3289,8 @@
     "pack": "core",
     "type": "repair",
     "title": {
-      "en": "Multiverse-Core: worlds with upper-case letters in their name cannot be unloaded or removed",
-      "zh": "Multiverse-Core: worlds with upper-case letters in their name cannot be unloaded or removed"
+      "en": "Multiverse-Core: worlds with upper-case letters in their name break on unload, remove, delete and regen",
+      "zh": "Multiverse-Core: worlds with upper-case letters in their name break on unload, remove, delete and regen"
     },
     "difficulty": "medium",
     "minutes": 90,
@@ -3363,8 +3363,8 @@
     "pack": "core",
     "type": "repair",
     "title": {
-      "en": "BetterTeams: /team help crashes on page 0, prints phantom pages and a null prefix",
-      "zh": "BetterTeams: /team help crashes on page 0, prints phantom pages and a null prefix"
+      "en": "BetterTeams: /team help crashes on page 0, prints phantom pages, and plugin lines start with null",
+      "zh": "BetterTeams: /team help crashes on page 0, prints phantom pages, and plugin lines start with null"
     },
     "difficulty": "easy",
     "minutes": 60,
@@ -3437,8 +3437,8 @@
     "pack": "core",
     "type": "repair",
     "title": {
-      "en": "Chatty: chatty reload ignores chat commands added or renamed in chats.yml",
-      "zh": "Chatty: chatty reload ignores chat commands added or renamed in chats.yml"
+      "en": "Chatty: chatty reload ignores chat commands added, renamed or removed in chats.yml",
+      "zh": "Chatty: chatty reload ignores chat commands added, renamed or removed in chats.yml"
     },
     "difficulty": "medium",
     "minutes": 90,
@@ -3474,8 +3474,8 @@
     "pack": "core",
     "type": "repair",
     "title": {
-      "en": "Multiverse-Core: world existence checks ignore the namespaced world key",
-      "zh": "Multiverse-Core: world existence checks ignore the namespaced world key"
+      "en": "Multiverse-Core: creating, importing or cloning a world does not notice that the world already exists",
+      "zh": "Multiverse-Core: creating, importing or cloning a world does not notice that the world already exists"
     },
     "difficulty": "medium",
     "minutes": 90,
@@ -3622,8 +3622,8 @@
     "pack": "core",
     "type": "repair",
     "title": {
-      "en": "Chatty: a v2 config.yml without a spy section breaks the migrated plugin",
-      "zh": "Chatty: a v2 config.yml without a spy section breaks the migrated plugin"
+      "en": "Chatty: a migrated v2 configuration breaks the plugin and loses its language",
+      "zh": "Chatty: a migrated v2 configuration breaks the plugin and loses its language"
     },
     "difficulty": "medium",
     "minutes": 60,
