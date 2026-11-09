@@ -947,42 +947,6 @@
     }
   },
   {
-    "number": "SG-028",
-    "game": "garrys-mod",
-    "pack": "darkrp",
-    "type": "repair",
-    "title": {
-      "en": "DarkRP: reports about what a job hands its players",
-      "zh": "DarkRP: reports about what a job hands its players"
-    },
-    "difficulty": "hard",
-    "minutes": 240,
-    "source": {
-      "name": "DarkRP"
-    },
-    "note": null,
-    "deepseek": {
-      "outcome": "solved",
-      "en": "Solved",
-      "zh": "做对"
-    },
-    "dsflash": {
-      "outcome": "solved",
-      "en": "Solved",
-      "zh": "做对"
-    },
-    "qwen": {
-      "outcome": "solved",
-      "en": "Solved",
-      "zh": "做对"
-    },
-    "astra": {
-      "outcome": "solved",
-      "en": "Solved",
-      "zh": "做对"
-    }
-  },
-  {
     "number": "SG-029",
     "game": "garrys-mod",
     "pack": "addon-repairs",
@@ -1919,78 +1883,6 @@
     }
   },
   {
-    "number": "SG-055",
-    "game": "stardew-valley",
-    "pack": "core",
-    "type": "repair",
-    "title": {
-      "en": "Automate: Junimo hut seed setting doesn't do what it says",
-      "zh": "Automate: Junimo hut seed setting doesn't do what it says"
-    },
-    "difficulty": "easy",
-    "minutes": 120,
-    "source": {
-      "name": "Automate"
-    },
-    "note": null,
-    "deepseek": {
-      "outcome": "solved",
-      "en": "Solved",
-      "zh": "做对"
-    },
-    "dsflash": {
-      "outcome": "solved",
-      "en": "Solved",
-      "zh": "做对"
-    },
-    "qwen": {
-      "outcome": "solved",
-      "en": "Solved",
-      "zh": "做对"
-    },
-    "astra": {
-      "outcome": "solved",
-      "en": "Solved",
-      "zh": "做对"
-    }
-  },
-  {
-    "number": "SG-056",
-    "game": "stardew-valley",
-    "pack": "core",
-    "type": "repair",
-    "title": {
-      "en": "Automate: GetMachineStates API misses locations with only non-automated machines",
-      "zh": "Automate: GetMachineStates API misses locations with only non-automated machines"
-    },
-    "difficulty": "medium",
-    "minutes": 180,
-    "source": {
-      "name": "Automate"
-    },
-    "note": null,
-    "deepseek": {
-      "outcome": "solved",
-      "en": "Solved",
-      "zh": "做对"
-    },
-    "dsflash": {
-      "outcome": "solved",
-      "en": "Solved",
-      "zh": "做对"
-    },
-    "qwen": {
-      "outcome": "solved",
-      "en": "Solved",
-      "zh": "做对"
-    },
-    "astra": {
-      "outcome": "solved",
-      "en": "Solved",
-      "zh": "做对"
-    }
-  },
-  {
     "number": "SG-057",
     "game": "stardew-valley",
     "pack": "core",
@@ -2199,42 +2091,6 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
-    },
-    "astra": {
-      "outcome": "solved",
-      "en": "Solved",
-      "zh": "做对"
-    }
-  },
-  {
-    "number": "SG-063",
-    "game": "stardew-valley",
-    "pack": "core",
-    "type": "repair",
-    "title": {
-      "en": "Automate: extended setups stay idle until a reload",
-      "zh": "Automate: extended setups stay idle until a reload"
-    },
-    "difficulty": "medium",
-    "minutes": 240,
-    "source": {
-      "name": "Automate"
-    },
-    "note": null,
-    "deepseek": {
-      "outcome": "solved",
-      "en": "Solved",
-      "zh": "做对"
-    },
-    "dsflash": {
-      "outcome": "solved",
-      "en": "Solved",
-      "zh": "做对"
-    },
-    "qwen": {
-      "outcome": "solved",
-      "en": "Solved",
-      "zh": "做对"
     },
     "astra": {
       "outcome": "solved",
@@ -2989,40 +2845,6 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
-    },
-    "astra": {
-      "outcome": "solved",
-      "en": "Solved",
-      "zh": "做对"
-    }
-  },
-  {
-    "number": "SG-086",
-    "game": "mindustry",
-    "pack": "construct",
-    "type": "construct",
-    "title": {
-      "en": "Server Command Rate Limiter",
-      "zh": "Server Command Rate Limiter"
-    },
-    "difficulty": "hard",
-    "minutes": 360,
-    "source": null,
-    "note": null,
-    "deepseek": {
-      "outcome": "solved",
-      "en": "Solved",
-      "zh": "做对"
-    },
-    "dsflash": {
-      "outcome": "solved",
-      "en": "Solved",
-      "zh": "做对"
-    },
-    "qwen": {
-      "outcome": "solved",
-      "en": "Solved",
-      "zh": "做对"
     },
     "astra": {
       "outcome": "solved",
@@ -4426,43 +4248,6 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
-    }
-  },
-  {
-    "number": "SG-128",
-    "game": "rimworld",
-    "pack": "core",
-    "type": "repair",
-    "title": {
-      "en": "Respect dynamic need maxima and enhanced capacities",
-      "zh": "Respect dynamic need maxima and enhanced capacities"
-    },
-    "difficulty": "hard",
-    "minutes": 150,
-    "source": {
-      "name": "Zombieland",
-      "license": "MIT"
-    },
-    "note": null,
-    "deepseek": {
-      "outcome": "solved",
-      "en": "Solved",
-      "zh": "做对"
-    },
-    "dsflash": {
-      "outcome": "solved",
-      "en": "Solved",
-      "zh": "做对"
-    },
-    "qwen": {
-      "outcome": "solved",
-      "en": "Solved",
-      "zh": "做对"
-    },
-    "astra": {
-      "outcome": "solved",
-      "en": "Solved",
-      "zh": "做对"
     }
   },
   {
