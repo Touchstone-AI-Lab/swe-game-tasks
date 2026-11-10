@@ -15,11 +15,6 @@
       "license": "Apache-2.0"
     },
     "note": null,
-    "deepseek": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
-    },
     "dsflash": {
       "outcome": "failed",
       "en": "Failed",
@@ -57,11 +52,6 @@
       "license": "Apache-2.0"
     },
     "note": null,
-    "deepseek": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
-    },
     "dsflash": {
       "outcome": "failed",
       "en": "Failed",
@@ -99,11 +89,6 @@
       "license": "MIT"
     },
     "note": null,
-    "deepseek": {
-      "outcome": "solved",
-      "en": "Solved",
-      "zh": "做对"
-    },
     "dsflash": {
       "outcome": "solved",
       "en": "Solved",
@@ -141,11 +126,6 @@
       "license": "Apache-2.0"
     },
     "note": null,
-    "deepseek": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
-    },
     "dsflash": {
       "outcome": "solved",
       "en": "Solved",
@@ -183,11 +163,6 @@
       "license": "Apache-2.0"
     },
     "note": null,
-    "deepseek": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
-    },
     "dsflash": {
       "outcome": "failed",
       "en": "Failed",
@@ -222,11 +197,6 @@
     "minutes": 360,
     "source": null,
     "note": null,
-    "deepseek": {
-      "outcome": "solved",
-      "en": "Solved",
-      "zh": "做对"
-    },
     "dsflash": {
       "outcome": "failed",
       "en": "Failed",
@@ -261,11 +231,6 @@
     "minutes": 420,
     "source": null,
     "note": null,
-    "deepseek": {
-      "outcome": "failed",
-      "en": "Failed",
-      "zh": "做错"
-    },
     "dsflash": {
       "outcome": "failed",
       "en": "Failed",
@@ -300,11 +265,6 @@
     "minutes": 390,
     "source": null,
     "note": null,
-    "deepseek": {
-      "outcome": "solved",
-      "en": "Solved",
-      "zh": "做对"
-    },
     "dsflash": {
       "outcome": "solved",
       "en": "Solved",
@@ -339,11 +299,6 @@
     "minutes": 360,
     "source": null,
     "note": null,
-    "deepseek": {
-      "outcome": "not-scored",
-      "en": "Not scored (evaluation stopped)",
-      "zh": "未计分（评测中断）"
-    },
     "dsflash": {
       "outcome": "failed",
       "en": "Failed",
@@ -378,11 +333,6 @@
     "minutes": 390,
     "source": null,
     "note": null,
-    "deepseek": {
-      "outcome": "failed",
-      "en": "Failed",
-      "zh": "做错"
-    },
     "dsflash": {
       "outcome": "failed",
       "en": "Failed",
@@ -417,11 +367,6 @@
     "minutes": 420,
     "source": null,
     "note": null,
-    "deepseek": {
-      "outcome": "solved",
-      "en": "Solved",
-      "zh": "做对"
-    },
     "dsflash": {
       "outcome": "solved",
       "en": "Solved",
@@ -456,11 +401,6 @@
     "minutes": 390,
     "source": null,
     "note": null,
-    "deepseek": {
-      "outcome": "failed",
-      "en": "Failed",
-      "zh": "做错"
-    },
     "dsflash": {
       "outcome": "failed",
       "en": "Failed",
@@ -495,11 +435,6 @@
     "minutes": 390,
     "source": null,
     "note": null,
-    "deepseek": {
-      "outcome": "not-scored",
-      "en": "Not scored (evaluation stopped)",
-      "zh": "未计分（评测中断）"
-    },
     "dsflash": {
       "outcome": "failed",
       "en": "Failed",
@@ -534,11 +469,6 @@
     "minutes": 390,
     "source": null,
     "note": null,
-    "deepseek": {
-      "outcome": "failed",
-      "en": "Failed",
-      "zh": "做错"
-    },
     "dsflash": {
       "outcome": "failed",
       "en": "Failed",
@@ -573,11 +503,6 @@
     "minutes": 390,
     "source": null,
     "note": null,
-    "deepseek": {
-      "outcome": "failed",
-      "en": "Failed",
-      "zh": "做错"
-    },
     "dsflash": {
       "outcome": "failed",
       "en": "Failed",
@@ -612,11 +537,6 @@
     "minutes": 180,
     "source": null,
     "note": null,
-    "deepseek": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
-    },
     "dsflash": {
       "outcome": "failed",
       "en": "Failed",
@@ -651,11 +571,6 @@
     "minutes": 360,
     "source": null,
     "note": null,
-    "deepseek": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
-    },
     "dsflash": {
       "outcome": "failed",
       "en": "Failed",
@@ -690,11 +605,6 @@
     "minutes": 360,
     "source": null,
     "note": null,
-    "deepseek": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
-    },
     "dsflash": {
       "outcome": "failed",
       "en": "Failed",
@@ -729,11 +639,6 @@
     "minutes": 390,
     "source": null,
     "note": null,
-    "deepseek": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
-    },
     "dsflash": {
       "outcome": "failed",
       "en": "Failed",
@@ -768,11 +673,6 @@
     "minutes": 420,
     "source": null,
     "note": null,
-    "deepseek": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
-    },
     "dsflash": {
       "outcome": "failed",
       "en": "Failed",
@@ -809,11 +709,6 @@
       "name": "DarkRP"
     },
     "note": null,
-    "deepseek": {
-      "outcome": "failed",
-      "en": "Failed",
-      "zh": "做错"
-    },
     "dsflash": {
       "outcome": "failed",
       "en": "Failed",
@@ -850,11 +745,6 @@
       "name": "DarkRP"
     },
     "note": null,
-    "deepseek": {
-      "outcome": "failed",
-      "en": "Failed",
-      "zh": "做错"
-    },
     "dsflash": {
       "outcome": "failed",
       "en": "Failed",
@@ -891,11 +781,6 @@
       "name": "DarkRP"
     },
     "note": null,
-    "deepseek": {
-      "outcome": "failed",
-      "en": "Failed",
-      "zh": "做错"
-    },
     "dsflash": {
       "outcome": "failed",
       "en": "Failed",
@@ -932,11 +817,6 @@
       "name": "DarkRP"
     },
     "note": null,
-    "deepseek": {
-      "outcome": "solved",
-      "en": "Solved",
-      "zh": "做对"
-    },
     "dsflash": {
       "outcome": "solved",
       "en": "Solved",
@@ -973,11 +853,6 @@
       "name": "DarkRP"
     },
     "note": null,
-    "deepseek": {
-      "outcome": "failed",
-      "en": "Failed",
-      "zh": "做错"
-    },
     "dsflash": {
       "outcome": "solved",
       "en": "Solved",
@@ -1014,11 +889,6 @@
       "name": "DarkRP"
     },
     "note": null,
-    "deepseek": {
-      "outcome": "failed",
-      "en": "Failed",
-      "zh": "做错"
-    },
     "dsflash": {
       "outcome": "failed",
       "en": "Failed",
@@ -1055,11 +925,6 @@
       "name": "DarkRP"
     },
     "note": null,
-    "deepseek": {
-      "outcome": "failed",
-      "en": "Failed",
-      "zh": "做错"
-    },
     "dsflash": {
       "outcome": "failed",
       "en": "Failed",
@@ -1096,11 +961,6 @@
       "name": "Advanced Duplicator 2"
     },
     "note": null,
-    "deepseek": {
-      "outcome": "failed",
-      "en": "Failed",
-      "zh": "做错"
-    },
     "dsflash": {
       "outcome": "failed",
       "en": "Failed",
@@ -1137,11 +997,6 @@
       "name": "Contraption Framework"
     },
     "note": null,
-    "deepseek": {
-      "outcome": "solved",
-      "en": "Solved",
-      "zh": "做对"
-    },
     "dsflash": {
       "outcome": "solved",
       "en": "Solved",
@@ -1178,11 +1033,6 @@
       "name": "StarfallEx"
     },
     "note": null,
-    "deepseek": {
-      "outcome": "solved",
-      "en": "Solved",
-      "zh": "做对"
-    },
     "dsflash": {
       "outcome": "solved",
       "en": "Solved",
@@ -1219,11 +1069,6 @@
       "name": "Wiremod"
     },
     "note": null,
-    "deepseek": {
-      "outcome": "solved",
-      "en": "Solved",
-      "zh": "做对"
-    },
     "dsflash": {
       "outcome": "solved",
       "en": "Solved",
@@ -1260,11 +1105,6 @@
       "name": "Wiremod"
     },
     "note": null,
-    "deepseek": {
-      "outcome": "solved",
-      "en": "Solved",
-      "zh": "做对"
-    },
     "dsflash": {
       "outcome": "failed",
       "en": "Failed",
@@ -1301,11 +1141,6 @@
       "name": "Exodus"
     },
     "note": null,
-    "deepseek": {
-      "outcome": "solved",
-      "en": "Solved",
-      "zh": "做对"
-    },
     "dsflash": {
       "outcome": "solved",
       "en": "Solved",
@@ -1342,11 +1177,6 @@
       "name": "Exodus"
     },
     "note": null,
-    "deepseek": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
-    },
     "dsflash": {
       "outcome": "failed",
       "en": "Failed",
@@ -1383,11 +1213,6 @@
       "name": "Exodus"
     },
     "note": null,
-    "deepseek": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
-    },
     "dsflash": {
       "outcome": "failed",
       "en": "Failed",
@@ -1424,11 +1249,6 @@
       "name": "Exodus"
     },
     "note": null,
-    "deepseek": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
-    },
     "dsflash": {
       "outcome": "solved",
       "en": "Solved",
@@ -1465,11 +1285,6 @@
       "name": "Exodus"
     },
     "note": null,
-    "deepseek": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
-    },
     "dsflash": {
       "outcome": "failed",
       "en": "Failed",
@@ -1506,11 +1321,6 @@
       "name": "Exodus"
     },
     "note": null,
-    "deepseek": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
-    },
     "dsflash": {
       "outcome": "solved",
       "en": "Solved",
@@ -1547,11 +1357,6 @@
       "name": "Exodus"
     },
     "note": null,
-    "deepseek": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
-    },
     "dsflash": {
       "outcome": "solved",
       "en": "Solved",
@@ -1588,11 +1393,6 @@
       "name": "Exodus"
     },
     "note": null,
-    "deepseek": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
-    },
     "dsflash": {
       "outcome": "failed",
       "en": "Failed",
@@ -1629,11 +1429,6 @@
       "name": "Exodus"
     },
     "note": null,
-    "deepseek": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
-    },
     "dsflash": {
       "outcome": "solved",
       "en": "Solved",
@@ -1670,11 +1465,6 @@
       "name": "Exodus"
     },
     "note": null,
-    "deepseek": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
-    },
     "dsflash": {
       "outcome": "failed",
       "en": "Failed",
@@ -1711,11 +1501,6 @@
       "name": "L4D2 Competitive Rework"
     },
     "note": null,
-    "deepseek": {
-      "outcome": "failed",
-      "en": "Failed",
-      "zh": "做错"
-    },
     "dsflash": {
       "outcome": "solved",
       "en": "Solved",
@@ -1752,11 +1537,6 @@
       "name": "Left4DHooks"
     },
     "note": null,
-    "deepseek": {
-      "outcome": "failed",
-      "en": "Failed",
-      "zh": "做错"
-    },
     "dsflash": {
       "outcome": "failed",
       "en": "Failed",
@@ -1793,11 +1573,6 @@
       "name": "L4D Infected Bots"
     },
     "note": null,
-    "deepseek": {
-      "outcome": "solved",
-      "en": "Solved",
-      "zh": "做对"
-    },
     "dsflash": {
       "outcome": "solved",
       "en": "Solved",
@@ -1834,11 +1609,6 @@
       "name": "LinGe VScripts"
     },
     "note": null,
-    "deepseek": {
-      "outcome": "failed",
-      "en": "Failed",
-      "zh": "做错"
-    },
     "dsflash": {
       "outcome": "failed",
       "en": "Failed",
@@ -1875,11 +1645,6 @@
       "name": "Mutant Tanks"
     },
     "note": null,
-    "deepseek": {
-      "outcome": "failed",
-      "en": "Failed",
-      "zh": "做错"
-    },
     "dsflash": {
       "outcome": "failed",
       "en": "Failed",
@@ -1916,11 +1681,6 @@
       "name": "LinGe VScripts"
     },
     "note": null,
-    "deepseek": {
-      "outcome": "failed",
-      "en": "Failed",
-      "zh": "做错"
-    },
     "dsflash": {
       "outcome": "solved",
       "en": "Solved",
@@ -1957,11 +1717,6 @@
       "name": "L4D2 Competitive Rework"
     },
     "note": null,
-    "deepseek": {
-      "outcome": "failed",
-      "en": "Failed",
-      "zh": "做错"
-    },
     "dsflash": {
       "outcome": "failed",
       "en": "Failed",
@@ -1998,11 +1753,6 @@
       "name": "LinGe VScripts"
     },
     "note": null,
-    "deepseek": {
-      "outcome": "failed",
-      "en": "Failed",
-      "zh": "做错"
-    },
     "dsflash": {
       "outcome": "failed",
       "en": "Failed",
@@ -2039,11 +1789,6 @@
       "name": "L4D2 Competitive Rework"
     },
     "note": null,
-    "deepseek": {
-      "outcome": "solved",
-      "en": "Solved",
-      "zh": "做对"
-    },
     "dsflash": {
       "outcome": "solved",
       "en": "Solved",
@@ -2080,11 +1825,6 @@
       "name": "L4D2 Competitive Rework"
     },
     "note": null,
-    "deepseek": {
-      "outcome": "failed",
-      "en": "Failed",
-      "zh": "做错"
-    },
     "dsflash": {
       "outcome": "failed",
       "en": "Failed",
@@ -2121,11 +1861,6 @@
       "name": "Automate"
     },
     "note": null,
-    "deepseek": {
-      "outcome": "solved",
-      "en": "Solved",
-      "zh": "做对"
-    },
     "dsflash": {
       "outcome": "solved",
       "en": "Solved",
@@ -2162,11 +1897,6 @@
       "name": "Automate"
     },
     "note": null,
-    "deepseek": {
-      "outcome": "solved",
-      "en": "Solved",
-      "zh": "做对"
-    },
     "dsflash": {
       "outcome": "solved",
       "en": "Solved",
@@ -2203,11 +1933,6 @@
       "name": "Content Patcher"
     },
     "note": null,
-    "deepseek": {
-      "outcome": "solved",
-      "en": "Solved",
-      "zh": "做对"
-    },
     "dsflash": {
       "outcome": "solved",
       "en": "Solved",
@@ -2244,11 +1969,6 @@
       "name": "Automate"
     },
     "note": null,
-    "deepseek": {
-      "outcome": "failed",
-      "en": "Failed",
-      "zh": "做错"
-    },
     "dsflash": {
       "outcome": "solved",
       "en": "Solved",
@@ -2285,11 +2005,6 @@
       "name": "Automate"
     },
     "note": null,
-    "deepseek": {
-      "outcome": "failed",
-      "en": "Failed",
-      "zh": "做错"
-    },
     "dsflash": {
       "outcome": "solved",
       "en": "Solved",
@@ -2326,11 +2041,6 @@
       "name": "Automate"
     },
     "note": null,
-    "deepseek": {
-      "outcome": "failed",
-      "en": "Failed",
-      "zh": "做错"
-    },
     "dsflash": {
       "outcome": "solved",
       "en": "Solved",
@@ -2367,11 +2077,6 @@
       "name": "Automate"
     },
     "note": null,
-    "deepseek": {
-      "outcome": "solved",
-      "en": "Solved",
-      "zh": "做对"
-    },
     "dsflash": {
       "outcome": "solved",
       "en": "Solved",
@@ -2406,11 +2111,6 @@
     "minutes": 180,
     "source": null,
     "note": null,
-    "deepseek": {
-      "outcome": "solved",
-      "en": "Solved",
-      "zh": "做对"
-    },
     "dsflash": {
       "outcome": "failed",
       "en": "Failed",
@@ -2445,11 +2145,6 @@
     "minutes": 480,
     "source": null,
     "note": null,
-    "deepseek": {
-      "outcome": "failed",
-      "en": "Failed",
-      "zh": "做错"
-    },
     "dsflash": {
       "outcome": "failed",
       "en": "Failed",
@@ -2486,11 +2181,6 @@
       "name": "Content Patcher"
     },
     "note": null,
-    "deepseek": {
-      "outcome": "failed",
-      "en": "Failed",
-      "zh": "做错"
-    },
     "dsflash": {
       "outcome": "solved",
       "en": "Solved",
@@ -2527,11 +2217,6 @@
       "name": "CJB Cheats Menu"
     },
     "note": null,
-    "deepseek": {
-      "outcome": "failed",
-      "en": "Failed",
-      "zh": "做错"
-    },
     "dsflash": {
       "outcome": "failed",
       "en": "Failed",
@@ -2568,11 +2253,6 @@
       "name": "Tractor Mod"
     },
     "note": null,
-    "deepseek": {
-      "outcome": "solved",
-      "en": "Solved",
-      "zh": "做对"
-    },
     "dsflash": {
       "outcome": "solved",
       "en": "Solved",
@@ -2607,11 +2287,6 @@
     "minutes": null,
     "source": null,
     "note": null,
-    "deepseek": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
-    },
     "dsflash": {
       "outcome": "solved",
       "en": "Solved",
@@ -2646,11 +2321,6 @@
     "minutes": null,
     "source": null,
     "note": null,
-    "deepseek": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
-    },
     "dsflash": {
       "outcome": "solved",
       "en": "Solved",
@@ -2685,11 +2355,6 @@
     "minutes": null,
     "source": null,
     "note": null,
-    "deepseek": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
-    },
     "dsflash": {
       "outcome": "failed",
       "en": "Failed",
@@ -2724,11 +2389,6 @@
     "minutes": null,
     "source": null,
     "note": null,
-    "deepseek": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
-    },
     "dsflash": {
       "outcome": "failed",
       "en": "Failed",
@@ -2763,11 +2423,6 @@
     "minutes": null,
     "source": null,
     "note": null,
-    "deepseek": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
-    },
     "dsflash": {
       "outcome": "solved",
       "en": "Solved",
@@ -2802,11 +2457,6 @@
     "minutes": null,
     "source": null,
     "note": null,
-    "deepseek": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
-    },
     "dsflash": {
       "outcome": "solved",
       "en": "Solved",
@@ -2841,11 +2491,6 @@
     "minutes": null,
     "source": null,
     "note": null,
-    "deepseek": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
-    },
     "dsflash": {
       "outcome": "solved",
       "en": "Solved",
@@ -2880,11 +2525,6 @@
     "minutes": null,
     "source": null,
     "note": null,
-    "deepseek": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
-    },
     "dsflash": {
       "outcome": "solved",
       "en": "Solved",
@@ -2919,11 +2559,6 @@
     "minutes": null,
     "source": null,
     "note": null,
-    "deepseek": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
-    },
     "dsflash": {
       "outcome": "failed",
       "en": "Failed",
@@ -2958,11 +2593,6 @@
     "minutes": null,
     "source": null,
     "note": null,
-    "deepseek": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
-    },
     "dsflash": {
       "outcome": "failed",
       "en": "Failed",
@@ -2997,11 +2627,6 @@
     "minutes": 420,
     "source": null,
     "note": null,
-    "deepseek": {
-      "outcome": "failed",
-      "en": "Failed",
-      "zh": "做错"
-    },
     "dsflash": {
       "outcome": "failed",
       "en": "Failed",
@@ -3036,11 +2661,6 @@
     "minutes": 420,
     "source": null,
     "note": null,
-    "deepseek": {
-      "outcome": "solved",
-      "en": "Solved",
-      "zh": "做对"
-    },
     "dsflash": {
       "outcome": "failed",
       "en": "Failed",
@@ -3075,11 +2695,6 @@
     "minutes": 480,
     "source": null,
     "note": null,
-    "deepseek": {
-      "outcome": "failed",
-      "en": "Failed",
-      "zh": "做错"
-    },
     "dsflash": {
       "outcome": "failed",
       "en": "Failed",
@@ -3114,11 +2729,6 @@
     "minutes": 480,
     "source": null,
     "note": null,
-    "deepseek": {
-      "outcome": "failed",
-      "en": "Failed",
-      "zh": "做错"
-    },
     "dsflash": {
       "outcome": "solved",
       "en": "Solved",
@@ -3153,11 +2763,6 @@
     "minutes": 480,
     "source": null,
     "note": null,
-    "deepseek": {
-      "outcome": "failed",
-      "en": "Failed",
-      "zh": "做错"
-    },
     "dsflash": {
       "outcome": "failed",
       "en": "Failed",
@@ -3192,11 +2797,6 @@
     "minutes": 360,
     "source": null,
     "note": null,
-    "deepseek": {
-      "outcome": "solved",
-      "en": "Solved",
-      "zh": "做对"
-    },
     "dsflash": {
       "outcome": "solved",
       "en": "Solved",
@@ -3231,11 +2831,6 @@
     "minutes": 360,
     "source": null,
     "note": null,
-    "deepseek": {
-      "outcome": "solved",
-      "en": "Solved",
-      "zh": "做对"
-    },
     "dsflash": {
       "outcome": "solved",
       "en": "Solved",
@@ -3270,11 +2865,6 @@
     "minutes": 360,
     "source": null,
     "note": null,
-    "deepseek": {
-      "outcome": "solved",
-      "en": "Solved",
-      "zh": "做对"
-    },
     "dsflash": {
       "outcome": "solved",
       "en": "Solved",
@@ -3309,11 +2899,6 @@
     "minutes": 360,
     "source": null,
     "note": null,
-    "deepseek": {
-      "outcome": "solved",
-      "en": "Solved",
-      "zh": "做对"
-    },
     "dsflash": {
       "outcome": "solved",
       "en": "Solved",
@@ -3351,11 +2936,6 @@
       "license": "GPL-3.0"
     },
     "note": null,
-    "deepseek": {
-      "outcome": "solved",
-      "en": "Solved",
-      "zh": "做对"
-    },
     "dsflash": {
       "outcome": "solved",
       "en": "Solved",
@@ -3393,11 +2973,6 @@
       "license": "GPL-3.0"
     },
     "note": null,
-    "deepseek": {
-      "outcome": "solved",
-      "en": "Solved",
-      "zh": "做对"
-    },
     "dsflash": {
       "outcome": "failed",
       "en": "Failed",
@@ -3435,11 +3010,6 @@
       "license": "GPL-3.0"
     },
     "note": null,
-    "deepseek": {
-      "outcome": "failed",
-      "en": "Failed",
-      "zh": "做错"
-    },
     "dsflash": {
       "outcome": "solved",
       "en": "Solved",
@@ -3477,11 +3047,6 @@
       "license": "GPL-3.0"
     },
     "note": null,
-    "deepseek": {
-      "outcome": "solved",
-      "en": "Solved",
-      "zh": "做对"
-    },
     "dsflash": {
       "outcome": "solved",
       "en": "Solved",
@@ -3519,11 +3084,6 @@
       "license": "GPL-3.0"
     },
     "note": null,
-    "deepseek": {
-      "outcome": "solved",
-      "en": "Solved",
-      "zh": "做对"
-    },
     "dsflash": {
       "outcome": "solved",
       "en": "Solved",
@@ -3561,11 +3121,6 @@
       "license": "BSD-3-Clause"
     },
     "note": null,
-    "deepseek": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
-    },
     "dsflash": {
       "outcome": "solved",
       "en": "Solved",
@@ -3603,11 +3158,6 @@
       "license": "MIT"
     },
     "note": null,
-    "deepseek": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
-    },
     "dsflash": {
       "outcome": "solved",
       "en": "Solved",
@@ -3645,11 +3195,6 @@
       "license": "MIT"
     },
     "note": null,
-    "deepseek": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
-    },
     "dsflash": {
       "outcome": "solved",
       "en": "Solved",
@@ -3687,11 +3232,6 @@
       "license": "MIT"
     },
     "note": null,
-    "deepseek": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
-    },
     "dsflash": {
       "outcome": "solved",
       "en": "Solved",
@@ -3729,11 +3269,6 @@
       "license": "MIT"
     },
     "note": null,
-    "deepseek": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
-    },
     "dsflash": {
       "outcome": "failed",
       "en": "Failed",
@@ -3771,11 +3306,6 @@
       "license": "BSD-3-Clause"
     },
     "note": null,
-    "deepseek": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
-    },
     "dsflash": {
       "outcome": "solved",
       "en": "Solved",
@@ -3813,11 +3343,6 @@
       "license": "MIT"
     },
     "note": null,
-    "deepseek": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
-    },
     "dsflash": {
       "outcome": "solved",
       "en": "Solved",
@@ -3855,11 +3380,6 @@
       "license": "MIT"
     },
     "note": null,
-    "deepseek": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
-    },
     "dsflash": {
       "outcome": "solved",
       "en": "Solved",
@@ -3897,11 +3417,6 @@
       "license": "MIT"
     },
     "note": null,
-    "deepseek": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
-    },
     "dsflash": {
       "outcome": "solved",
       "en": "Solved",
@@ -3939,11 +3454,6 @@
       "license": "MIT"
     },
     "note": null,
-    "deepseek": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
-    },
     "dsflash": {
       "outcome": "solved",
       "en": "Solved",
@@ -3978,11 +3488,6 @@
     "minutes": 330,
     "source": null,
     "note": null,
-    "deepseek": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
-    },
     "dsflash": {
       "outcome": "solved",
       "en": "Solved",
@@ -4017,11 +3522,6 @@
     "minutes": 360,
     "source": null,
     "note": null,
-    "deepseek": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
-    },
     "dsflash": {
       "outcome": "solved",
       "en": "Solved",
@@ -4056,11 +3556,6 @@
     "minutes": 300,
     "source": null,
     "note": null,
-    "deepseek": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
-    },
     "dsflash": {
       "outcome": "failed",
       "en": "Failed",
@@ -4095,11 +3590,6 @@
     "minutes": 330,
     "source": null,
     "note": null,
-    "deepseek": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
-    },
     "dsflash": {
       "outcome": "failed",
       "en": "Failed",
@@ -4134,11 +3624,6 @@
     "minutes": 360,
     "source": null,
     "note": null,
-    "deepseek": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
-    },
     "dsflash": {
       "outcome": "failed",
       "en": "Failed",
@@ -4173,11 +3658,6 @@
     "minutes": 360,
     "source": null,
     "note": null,
-    "deepseek": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
-    },
     "dsflash": {
       "outcome": "failed",
       "en": "Failed",
@@ -4212,11 +3692,6 @@
     "minutes": 390,
     "source": null,
     "note": null,
-    "deepseek": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
-    },
     "dsflash": {
       "outcome": "failed",
       "en": "Failed",
@@ -4251,11 +3726,6 @@
     "minutes": 360,
     "source": null,
     "note": null,
-    "deepseek": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
-    },
     "dsflash": {
       "outcome": "failed",
       "en": "Failed",
@@ -4290,11 +3760,6 @@
     "minutes": 660,
     "source": null,
     "note": null,
-    "deepseek": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
-    },
     "dsflash": {
       "outcome": "failed",
       "en": "Failed",
@@ -4329,11 +3794,6 @@
     "minutes": 720,
     "source": null,
     "note": null,
-    "deepseek": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
-    },
     "dsflash": {
       "outcome": "failed",
       "en": "Failed",
@@ -4368,11 +3828,6 @@
     "minutes": 660,
     "source": null,
     "note": null,
-    "deepseek": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
-    },
     "dsflash": {
       "outcome": "failed",
       "en": "Failed",
@@ -4407,11 +3862,6 @@
     "minutes": 720,
     "source": null,
     "note": null,
-    "deepseek": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
-    },
     "dsflash": {
       "outcome": "failed",
       "en": "Failed",
@@ -4446,11 +3896,6 @@
     "minutes": 660,
     "source": null,
     "note": null,
-    "deepseek": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
-    },
     "dsflash": {
       "outcome": "failed",
       "en": "Failed",
@@ -4488,11 +3933,6 @@
       "license": "MIT"
     },
     "note": null,
-    "deepseek": {
-      "outcome": "solved",
-      "en": "Solved",
-      "zh": "做对"
-    },
     "dsflash": {
       "outcome": "solved",
       "en": "Solved",
@@ -4530,11 +3970,6 @@
       "license": "MIT"
     },
     "note": null,
-    "deepseek": {
-      "outcome": "not-scored",
-      "en": "Not scored (evaluation stopped)",
-      "zh": "未计分（评测中断）"
-    },
     "dsflash": {
       "outcome": "failed",
       "en": "Failed",
@@ -4572,11 +4007,6 @@
       "license": "MIT"
     },
     "note": null,
-    "deepseek": {
-      "outcome": "failed",
-      "en": "Failed",
-      "zh": "做错"
-    },
     "dsflash": {
       "outcome": "failed",
       "en": "Failed",
@@ -4614,11 +4044,6 @@
       "license": "MIT"
     },
     "note": null,
-    "deepseek": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
-    },
     "dsflash": {
       "outcome": "solved",
       "en": "Solved",
@@ -4656,11 +4081,6 @@
       "license": "MIT"
     },
     "note": null,
-    "deepseek": {
-      "outcome": "failed",
-      "en": "Failed",
-      "zh": "做错"
-    },
     "dsflash": {
       "outcome": "solved",
       "en": "Solved",
@@ -4698,11 +4118,6 @@
       "license": "MIT"
     },
     "note": null,
-    "deepseek": {
-      "outcome": "solved",
-      "en": "Solved",
-      "zh": "做对"
-    },
     "dsflash": {
       "outcome": "solved",
       "en": "Solved",
@@ -4740,11 +4155,6 @@
       "license": "MIT"
     },
     "note": null,
-    "deepseek": {
-      "outcome": "solved",
-      "en": "Solved",
-      "zh": "做对"
-    },
     "dsflash": {
       "outcome": "solved",
       "en": "Solved",
@@ -4782,11 +4192,6 @@
       "license": "MIT"
     },
     "note": null,
-    "deepseek": {
-      "outcome": "not-scored",
-      "en": "Not scored (evaluation stopped)",
-      "zh": "未计分（评测中断）"
-    },
     "dsflash": {
       "outcome": "failed",
       "en": "Failed",
@@ -4824,11 +4229,6 @@
       "license": "MIT"
     },
     "note": null,
-    "deepseek": {
-      "outcome": "not-scored",
-      "en": "Not scored (evaluation stopped)",
-      "zh": "未计分（评测中断）"
-    },
     "dsflash": {
       "outcome": "failed",
       "en": "Failed",
@@ -4867,11 +4267,6 @@
     "note": {
       "en": "Runs in the licensed game, downloaded from Steam with the operator's own account.",
       "zh": "在正版游戏中评测，游戏由操作员用自己的 Steam 账号下载。"
-    },
-    "deepseek": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
     },
     "dsflash": {
       "outcome": "failed",
@@ -4912,11 +4307,6 @@
       "en": "Runs in the licensed game, downloaded from Steam with the operator's own account.",
       "zh": "在正版游戏中评测，游戏由操作员用自己的 Steam 账号下载。"
     },
-    "deepseek": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
-    },
     "dsflash": {
       "outcome": "failed",
       "en": "Failed",
@@ -4955,11 +4345,6 @@
     "note": {
       "en": "Runs in the licensed game, downloaded from Steam with the operator's own account.",
       "zh": "在正版游戏中评测，游戏由操作员用自己的 Steam 账号下载。"
-    },
-    "deepseek": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
     },
     "dsflash": {
       "outcome": "failed",
@@ -5000,11 +4385,6 @@
       "en": "Runs in the licensed game, downloaded from Steam with the operator's own account.",
       "zh": "在正版游戏中评测，游戏由操作员用自己的 Steam 账号下载。"
     },
-    "deepseek": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
-    },
     "dsflash": {
       "outcome": "solved",
       "en": "Solved",
@@ -5044,11 +4424,6 @@
       "en": "Runs in the licensed game, downloaded from Steam with the operator's own account.",
       "zh": "在正版游戏中评测，游戏由操作员用自己的 Steam 账号下载。"
     },
-    "deepseek": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
-    },
     "dsflash": {
       "outcome": "solved",
       "en": "Solved",
@@ -5086,11 +4461,6 @@
       "license": "MIT"
     },
     "note": null,
-    "deepseek": {
-      "outcome": "failed",
-      "en": "Failed",
-      "zh": "做错"
-    },
     "dsflash": {
       "outcome": "failed",
       "en": "Failed",
@@ -5128,11 +4498,6 @@
       "license": "MIT"
     },
     "note": null,
-    "deepseek": {
-      "outcome": "solved",
-      "en": "Solved",
-      "zh": "做对"
-    },
     "dsflash": {
       "outcome": "solved",
       "en": "Solved",
@@ -5170,11 +4535,6 @@
       "license": "GPL-3.0"
     },
     "note": null,
-    "deepseek": {
-      "outcome": "solved",
-      "en": "Solved",
-      "zh": "做对"
-    },
     "dsflash": {
       "outcome": "failed",
       "en": "Failed",
@@ -5212,11 +4572,6 @@
       "license": "MIT"
     },
     "note": null,
-    "deepseek": {
-      "outcome": "solved",
-      "en": "Solved",
-      "zh": "做对"
-    },
     "dsflash": {
       "outcome": "failed",
       "en": "Failed",
@@ -5254,11 +4609,6 @@
       "license": "MIT"
     },
     "note": null,
-    "deepseek": {
-      "outcome": "failed",
-      "en": "Failed",
-      "zh": "做错"
-    },
     "dsflash": {
       "outcome": "failed",
       "en": "Failed",
@@ -5296,11 +4646,6 @@
       "license": "MIT"
     },
     "note": null,
-    "deepseek": {
-      "outcome": "failed",
-      "en": "Failed",
-      "zh": "做错"
-    },
     "dsflash": {
       "outcome": "failed",
       "en": "Failed",
@@ -5338,11 +4683,6 @@
       "license": "MIT"
     },
     "note": null,
-    "deepseek": {
-      "outcome": "solved",
-      "en": "Solved",
-      "zh": "做对"
-    },
     "dsflash": {
       "outcome": "failed",
       "en": "Failed",
@@ -5380,11 +4720,6 @@
       "license": "GPL-3.0"
     },
     "note": null,
-    "deepseek": {
-      "outcome": "failed",
-      "en": "Failed",
-      "zh": "做错"
-    },
     "dsflash": {
       "outcome": "failed",
       "en": "Failed",
@@ -5422,11 +4757,6 @@
       "license": "MIT"
     },
     "note": null,
-    "deepseek": {
-      "outcome": "failed",
-      "en": "Failed",
-      "zh": "做错"
-    },
     "dsflash": {
       "outcome": "failed",
       "en": "Failed",
@@ -5464,11 +4794,6 @@
       "license": "MIT"
     },
     "note": null,
-    "deepseek": {
-      "outcome": "solved",
-      "en": "Solved",
-      "zh": "做对"
-    },
     "dsflash": {
       "outcome": "solved",
       "en": "Solved",
@@ -5503,11 +4828,6 @@
     "minutes": 90,
     "source": null,
     "note": null,
-    "deepseek": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
-    },
     "dsflash": {
       "outcome": "failed",
       "en": "Failed",
@@ -5542,11 +4862,6 @@
     "minutes": 120,
     "source": null,
     "note": null,
-    "deepseek": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
-    },
     "dsflash": {
       "outcome": "solved",
       "en": "Solved",
@@ -5581,11 +4896,6 @@
     "minutes": 90,
     "source": null,
     "note": null,
-    "deepseek": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
-    },
     "dsflash": {
       "outcome": "failed",
       "en": "Failed",
@@ -5620,11 +4930,6 @@
     "minutes": 90,
     "source": null,
     "note": null,
-    "deepseek": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
-    },
     "dsflash": {
       "outcome": "failed",
       "en": "Failed",
@@ -5659,11 +4964,6 @@
     "minutes": 100,
     "source": null,
     "note": null,
-    "deepseek": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
-    },
     "dsflash": {
       "outcome": "failed",
       "en": "Failed",
@@ -5698,11 +4998,6 @@
     "minutes": 90,
     "source": null,
     "note": null,
-    "deepseek": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
-    },
     "dsflash": {
       "outcome": "failed",
       "en": "Failed",
@@ -5737,11 +5032,6 @@
     "minutes": 110,
     "source": null,
     "note": null,
-    "deepseek": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
-    },
     "dsflash": {
       "outcome": "failed",
       "en": "Failed",
@@ -5776,11 +5066,6 @@
     "minutes": 110,
     "source": null,
     "note": null,
-    "deepseek": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
-    },
     "dsflash": {
       "outcome": "failed",
       "en": "Failed",
@@ -5815,11 +5100,6 @@
     "minutes": 960,
     "source": null,
     "note": null,
-    "deepseek": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
-    },
     "dsflash": {
       "outcome": "failed",
       "en": "Failed",
@@ -5854,11 +5134,6 @@
     "minutes": 960,
     "source": null,
     "note": null,
-    "deepseek": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
-    },
     "dsflash": {
       "outcome": "failed",
       "en": "Failed",
@@ -5898,11 +5173,6 @@
       "en": "Runs in the licensed game, downloaded from Steam with the operator's own account.",
       "zh": "在正版游戏中评测，游戏由操作员用自己的 Steam 账号下载。"
     },
-    "deepseek": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
-    },
     "dsflash": {
       "outcome": "solved",
       "en": "Solved",
@@ -5940,11 +5210,6 @@
       "license": "MIT"
     },
     "note": null,
-    "deepseek": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
-    },
     "dsflash": {
       "outcome": "failed",
       "en": "Failed",
@@ -5983,11 +5248,6 @@
     "note": {
       "en": "Runs in the licensed game, downloaded from Steam with the operator's own account.",
       "zh": "在正版游戏中评测，游戏由操作员用自己的 Steam 账号下载。"
-    },
-    "deepseek": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
     },
     "dsflash": {
       "outcome": "solved",
@@ -6028,11 +5288,6 @@
       "en": "Runs in the licensed game, downloaded from Steam with the operator's own account.",
       "zh": "在正版游戏中评测，游戏由操作员用自己的 Steam 账号下载。"
     },
-    "deepseek": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
-    },
     "dsflash": {
       "outcome": "solved",
       "en": "Solved",
@@ -6071,11 +5326,6 @@
     "note": {
       "en": "Runs in the licensed game, downloaded from Steam with the operator's own account.",
       "zh": "在正版游戏中评测，游戏由操作员用自己的 Steam 账号下载。"
-    },
-    "deepseek": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
     },
     "dsflash": {
       "outcome": "solved",
