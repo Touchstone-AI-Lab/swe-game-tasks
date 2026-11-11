@@ -3132,9 +3132,9 @@
       "zh": "做对"
     },
     "astra": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     },
     "minimax": {
       "outcome": "solved",
@@ -3169,9 +3169,9 @@
       "zh": "做对"
     },
     "astra": {
-      "outcome": "not-scored",
-      "en": "Not scored (evaluation stopped)",
-      "zh": "未计分（评测中断）"
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     },
     "minimax": {
       "outcome": "solved",
@@ -3206,9 +3206,9 @@
       "zh": "做对"
     },
     "astra": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     },
     "minimax": {
       "outcome": "solved",
@@ -3243,9 +3243,9 @@
       "zh": "做对"
     },
     "astra": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     },
     "minimax": {
       "outcome": "solved",
@@ -3280,9 +3280,9 @@
       "zh": "做错"
     },
     "astra": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     },
     "minimax": {
       "outcome": "failed",
@@ -3317,9 +3317,9 @@
       "zh": "做对"
     },
     "astra": {
-      "outcome": "not-scored",
-      "en": "Not scored (evaluation stopped)",
-      "zh": "未计分（评测中断）"
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     },
     "minimax": {
       "outcome": "solved",
@@ -3354,9 +3354,9 @@
       "zh": "做对"
     },
     "astra": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     },
     "minimax": {
       "outcome": "solved",
@@ -3391,9 +3391,9 @@
       "zh": "做错"
     },
     "astra": {
-      "outcome": "not-scored",
-      "en": "Not scored (evaluation stopped)",
-      "zh": "未计分（评测中断）"
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     },
     "minimax": {
       "outcome": "solved",
@@ -3428,9 +3428,9 @@
       "zh": "做对"
     },
     "astra": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     },
     "minimax": {
       "outcome": "solved",
@@ -3465,9 +3465,9 @@
       "zh": "做错"
     },
     "astra": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     },
     "minimax": {
       "outcome": "solved",
@@ -3499,9 +3499,9 @@
       "zh": "做错"
     },
     "astra": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     },
     "minimax": {
       "outcome": "failed",
@@ -3533,9 +3533,9 @@
       "zh": "做错"
     },
     "astra": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     },
     "minimax": {
       "outcome": "failed",
@@ -3567,9 +3567,9 @@
       "zh": "做错"
     },
     "astra": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     },
     "minimax": {
       "outcome": "solved",
@@ -3601,9 +3601,9 @@
       "zh": "做错"
     },
     "astra": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     },
     "minimax": {
       "outcome": "failed",
@@ -3635,9 +3635,9 @@
       "zh": "做错"
     },
     "astra": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     },
     "minimax": {
       "outcome": "failed",
