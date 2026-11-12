@@ -6076,14 +6076,14 @@
       "zh": "未评测"
     },
     "qwen": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     },
     "astra": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     },
     "minimax": {
       "outcome": "not-evaluated",
@@ -6091,9 +6091,9 @@
       "zh": "未评测"
     },
     "opus": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   }
 ]
