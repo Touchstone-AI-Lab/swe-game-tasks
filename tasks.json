@@ -34,6 +34,11 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "opus": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -71,6 +76,11 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "opus": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -108,6 +118,11 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "opus": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -142,6 +157,11 @@
       "zh": "做对"
     },
     "minimax": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "opus": {
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
@@ -182,6 +202,11 @@
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
+    },
+    "opus": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -216,6 +241,11 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "opus": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -250,6 +280,11 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "opus": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -284,6 +319,11 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "opus": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -318,6 +358,11 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "opus": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -352,6 +397,11 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "opus": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -386,6 +436,11 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "opus": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -420,6 +475,11 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "opus": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -451,6 +511,11 @@
       "zh": "做对"
     },
     "minimax": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    },
+    "opus": {
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
@@ -488,6 +553,11 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "opus": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -522,6 +592,11 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "opus": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -553,6 +628,11 @@
       "zh": "做错"
     },
     "minimax": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    },
+    "opus": {
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
@@ -590,6 +670,11 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "opus": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -621,6 +706,11 @@
       "zh": "做错"
     },
     "minimax": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    },
+    "opus": {
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
@@ -658,6 +748,11 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "opus": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -689,6 +784,11 @@
       "zh": "做错"
     },
     "minimax": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    },
+    "opus": {
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
@@ -728,6 +828,11 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "opus": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -761,6 +866,11 @@
       "zh": "做错"
     },
     "minimax": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    },
+    "opus": {
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
@@ -800,6 +910,11 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "opus": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -836,6 +951,11 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "opus": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -872,6 +992,11 @@
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
+    },
+    "opus": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -908,6 +1033,11 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "opus": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -941,6 +1071,11 @@
       "zh": "做错"
     },
     "minimax": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    },
+    "opus": {
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
@@ -980,6 +1115,11 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "opus": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -1013,6 +1153,11 @@
       "zh": "做对"
     },
     "minimax": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "opus": {
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
@@ -1052,6 +1197,11 @@
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
+    },
+    "opus": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -1088,6 +1238,11 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "opus": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -1121,6 +1276,11 @@
       "zh": "做对"
     },
     "minimax": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "opus": {
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
@@ -1160,6 +1320,11 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "opus": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -1193,6 +1358,11 @@
       "zh": "做错"
     },
     "minimax": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    },
+    "opus": {
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
@@ -1232,6 +1402,11 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "opus": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -1268,6 +1443,11 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "opus": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -1301,6 +1481,11 @@
       "zh": "做错"
     },
     "minimax": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    },
+    "opus": {
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
@@ -1340,6 +1525,11 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "opus": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -1376,6 +1566,11 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "opus": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -1412,6 +1607,11 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "opus": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -1445,6 +1645,11 @@
       "zh": "做对"
     },
     "minimax": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    },
+    "opus": {
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
@@ -1484,6 +1689,11 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "opus": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -1517,6 +1727,11 @@
       "zh": "做对"
     },
     "minimax": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    },
+    "opus": {
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
@@ -1556,6 +1771,11 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "opus": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -1589,6 +1809,11 @@
       "zh": "做对"
     },
     "minimax": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "opus": {
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
@@ -1628,6 +1853,11 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "opus": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -1664,6 +1894,11 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "opus": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -1697,6 +1932,11 @@
       "zh": "做对"
     },
     "minimax": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "opus": {
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
@@ -1736,6 +1976,11 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "opus": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -1772,6 +2017,11 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "opus": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -1808,6 +2058,11 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "opus": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -1844,6 +2099,11 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "opus": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -1880,6 +2140,11 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "opus": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -1913,6 +2178,11 @@
       "zh": "做对"
     },
     "minimax": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "opus": {
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
@@ -1952,6 +2222,11 @@
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
+    },
+    "opus": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -1988,6 +2263,11 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "opus": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -2024,6 +2304,11 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "opus": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -2060,6 +2345,11 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "opus": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -2093,6 +2383,11 @@
       "zh": "做对"
     },
     "minimax": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "opus": {
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
@@ -2130,6 +2425,11 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "opus": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -2161,6 +2461,11 @@
       "zh": "做错"
     },
     "minimax": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    },
+    "opus": {
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
@@ -2200,6 +2505,11 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "opus": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -2233,6 +2543,11 @@
       "zh": "做错"
     },
     "minimax": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    },
+    "opus": {
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
@@ -2272,6 +2587,11 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "opus": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -2303,6 +2623,11 @@
       "zh": "做对"
     },
     "minimax": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "opus": {
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
@@ -2340,6 +2665,11 @@
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
+    },
+    "opus": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -2371,6 +2701,11 @@
       "zh": "做对"
     },
     "minimax": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "opus": {
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
@@ -2408,6 +2743,11 @@
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
+    },
+    "opus": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -2439,6 +2779,11 @@
       "zh": "做对"
     },
     "minimax": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "opus": {
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
@@ -2476,6 +2821,11 @@
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
+    },
+    "opus": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -2510,6 +2860,11 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "opus": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -2541,6 +2896,11 @@
       "zh": "做对"
     },
     "minimax": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "opus": {
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
@@ -2578,6 +2938,11 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "opus": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -2612,6 +2977,11 @@
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
+    },
+    "opus": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -2643,6 +3013,11 @@
       "zh": "做错"
     },
     "minimax": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    },
+    "opus": {
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
@@ -2680,6 +3055,11 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "opus": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -2711,6 +3091,11 @@
       "zh": "做错"
     },
     "minimax": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    },
+    "opus": {
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
@@ -2748,6 +3133,11 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "opus": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -2779,6 +3169,11 @@
       "zh": "做错"
     },
     "minimax": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    },
+    "opus": {
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
@@ -2816,6 +3211,11 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "opus": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -2847,6 +3247,11 @@
       "zh": "做对"
     },
     "minimax": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "opus": {
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
@@ -2884,6 +3289,11 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "opus": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -2918,6 +3328,11 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "opus": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -2952,6 +3367,11 @@
       "zh": "做对"
     },
     "minimax": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "opus": {
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
@@ -2992,6 +3412,11 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "opus": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -3026,6 +3451,11 @@
       "zh": "做对"
     },
     "minimax": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "opus": {
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
@@ -3066,6 +3496,11 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "opus": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -3103,6 +3538,11 @@
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
+    },
+    "opus": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -3137,6 +3577,11 @@
       "zh": "做对"
     },
     "minimax": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "opus": {
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
@@ -3177,6 +3622,11 @@
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
+    },
+    "opus": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -3211,6 +3661,11 @@
       "zh": "做对"
     },
     "minimax": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "opus": {
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
@@ -3251,6 +3706,11 @@
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
+    },
+    "opus": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -3288,6 +3748,11 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "opus": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -3322,6 +3787,11 @@
       "zh": "做对"
     },
     "minimax": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "opus": {
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
@@ -3362,6 +3832,11 @@
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
+    },
+    "opus": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -3396,6 +3871,11 @@
       "zh": "做对"
     },
     "minimax": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "opus": {
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
@@ -3436,6 +3916,11 @@
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
+    },
+    "opus": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -3473,6 +3958,11 @@
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
+    },
+    "opus": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -3507,6 +3997,11 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "opus": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -3538,6 +4033,11 @@
       "zh": "做对"
     },
     "minimax": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    },
+    "opus": {
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
@@ -3575,6 +4075,11 @@
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
+    },
+    "opus": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -3609,6 +4114,11 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "opus": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -3643,6 +4153,11 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "opus": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -3677,6 +4192,11 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "opus": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -3708,6 +4228,11 @@
       "zh": "做错"
     },
     "minimax": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    },
+    "opus": {
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
@@ -3745,6 +4270,11 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "opus": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -3776,6 +4306,11 @@
       "zh": "做错"
     },
     "minimax": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    },
+    "opus": {
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
@@ -3813,6 +4348,11 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "opus": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -3844,6 +4384,11 @@
       "zh": "做错"
     },
     "minimax": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    },
+    "opus": {
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
@@ -3881,6 +4426,11 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "opus": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -3912,6 +4462,11 @@
       "zh": "做错"
     },
     "minimax": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    },
+    "opus": {
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
@@ -3952,6 +4507,11 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "opus": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -3986,6 +4546,11 @@
       "zh": "做错"
     },
     "minimax": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    },
+    "opus": {
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
@@ -4026,6 +4591,11 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "opus": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -4060,6 +4630,11 @@
       "zh": "做对"
     },
     "minimax": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "opus": {
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
@@ -4100,6 +4675,11 @@
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
+    },
+    "opus": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -4134,6 +4714,11 @@
       "zh": "做对"
     },
     "minimax": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "opus": {
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
@@ -4174,6 +4759,11 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "opus": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -4211,6 +4801,11 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "opus": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -4245,6 +4840,11 @@
       "zh": "做错"
     },
     "minimax": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    },
+    "opus": {
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
@@ -4287,6 +4887,11 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "opus": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -4326,6 +4931,11 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "opus": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -4362,6 +4972,11 @@
       "zh": "做错"
     },
     "minimax": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    },
+    "opus": {
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
@@ -4404,6 +5019,11 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "opus": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -4443,6 +5063,11 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "opus": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -4480,6 +5105,11 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "opus": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -4517,6 +5147,11 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "opus": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -4554,6 +5189,11 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "opus": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -4588,6 +5228,11 @@
       "zh": "做对"
     },
     "minimax": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "opus": {
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
@@ -4628,6 +5273,11 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "opus": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -4665,6 +5315,11 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "opus": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -4699,6 +5354,11 @@
       "zh": "做错"
     },
     "minimax": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    },
+    "opus": {
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
@@ -4739,6 +5399,11 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "opus": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -4773,6 +5438,11 @@
       "zh": "做错"
     },
     "minimax": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    },
+    "opus": {
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
@@ -4813,6 +5483,11 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "opus": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -4844,6 +5519,11 @@
       "zh": "做错"
     },
     "minimax": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    },
+    "opus": {
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
@@ -4881,6 +5561,11 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "opus": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -4915,6 +5600,11 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "opus": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -4949,6 +5639,11 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "opus": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -4980,6 +5675,11 @@
       "zh": "做对"
     },
     "minimax": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    },
+    "opus": {
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
@@ -5017,6 +5717,11 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "opus": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -5048,6 +5753,11 @@
       "zh": "做错"
     },
     "minimax": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    },
+    "opus": {
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
@@ -5085,6 +5795,11 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "opus": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -5119,6 +5834,11 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "opus": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -5153,6 +5873,11 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "opus": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -5192,6 +5917,11 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "opus": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -5229,6 +5959,11 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "opus": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -5268,6 +6003,11 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "opus": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -5307,6 +6047,11 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "opus": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -5343,6 +6088,11 @@
       "zh": "做对"
     },
     "minimax": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "opus": {
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
