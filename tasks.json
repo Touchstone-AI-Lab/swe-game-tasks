@@ -2189,47 +2189,6 @@
     }
   },
   {
-    "number": "SG-058",
-    "game": "stardew-valley",
-    "pack": "core",
-    "type": "repair",
-    "title": {
-      "en": "Content Patcher: {{i18n}} rewrites some translations to lowercase",
-      "zh": "Content Patcher: {{i18n}} rewrites some translations to lowercase"
-    },
-    "difficulty": "medium",
-    "minutes": 180,
-    "source": {
-      "name": "Content Patcher"
-    },
-    "note": null,
-    "dsflash": {
-      "outcome": "solved",
-      "en": "Solved",
-      "zh": "做对"
-    },
-    "qwen": {
-      "outcome": "solved",
-      "en": "Solved",
-      "zh": "做对"
-    },
-    "astra": {
-      "outcome": "solved",
-      "en": "Solved",
-      "zh": "做对"
-    },
-    "minimax": {
-      "outcome": "solved",
-      "en": "Solved",
-      "zh": "做对"
-    },
-    "opus": {
-      "outcome": "solved",
-      "en": "Solved",
-      "zh": "做对"
-    }
-  },
-  {
     "number": "SG-059",
     "game": "stardew-valley",
     "pack": "core",
@@ -6096,6 +6055,45 @@
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
+    }
+  },
+  {
+    "number": "SG-164",
+    "game": "mindustry",
+    "pack": "construct",
+    "type": "construct",
+    "title": {
+      "en": "Blueprint Layout Reconciler",
+      "zh": "Blueprint Layout Reconciler"
+    },
+    "difficulty": "hard",
+    "minutes": 420,
+    "source": null,
+    "note": null,
+    "dsflash": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
+    },
+    "qwen": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
+    },
+    "astra": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
+    },
+    "minimax": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
+    },
+    "opus": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
     }
   }
 ]
