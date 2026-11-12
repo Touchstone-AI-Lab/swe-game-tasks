@@ -6071,9 +6071,9 @@
     "source": null,
     "note": null,
     "dsflash": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     },
     "qwen": {
       "outcome": "failed",
