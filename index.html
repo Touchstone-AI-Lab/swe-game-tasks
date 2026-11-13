@@ -88,6 +88,27 @@ tr.detail td { background: var(--bg); padding: 14px 16px 18px; }
 code { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 13px; }
 footer { color: var(--muted); font-size: 13px; padding: 0 0 40px; }
 .empty { text-align: center; color: var(--muted); padding: 40px 0; }
+.board { position: relative; background: var(--panel); border: 1px solid var(--line); border-radius: 10px; padding: 16px 18px 18px; margin: 22px 0 0; box-shadow: var(--shadow); }
+.board h2 { margin: 0; font-size: 17px; line-height: 1.3; }
+.board .sub { margin: 4px 0 14px; color: var(--muted); font-size: 13px; max-width: 820px; }
+.meters { list-style: none; margin: 0; padding: 0; display: grid; gap: 12px; }
+.meter { display: grid; grid-template-columns: minmax(150px, 280px) minmax(0, 1fr) 132px; gap: 4px 14px; align-items: center; border-radius: 6px; }
+.meter:hover .meter-fill, .meter:focus-visible .meter-fill { filter: brightness(1.12); }
+.meter-name { font-size: 14px; font-weight: 600; }
+.meter-track { display: block; height: 14px; background: var(--accent-soft); border-radius: 0 4px 4px 0; }
+.meter-fill { display: block; height: 100%; min-width: 2px; background: var(--accent); border-radius: 0 4px 4px 0; }
+.meter-value { font-size: 13px; color: var(--muted); text-align: right; white-space: nowrap; font-variant-numeric: tabular-nums; }
+.meter-value b { color: var(--ink); font-size: 15px; margin-right: 6px; }
+.board-tip { position: absolute; z-index: 6; pointer-events: none; background: var(--panel); border: 1px solid var(--line); border-radius: 8px; padding: 8px 10px; font-size: 13px; box-shadow: 0 4px 14px rgba(16, 24, 40, .14); min-width: 190px; }
+.board-tip b { display: block; margin-bottom: 4px; }
+.board-tip div { display: flex; justify-content: space-between; gap: 18px; color: var(--muted); }
+.board-tip div span:last-child { color: var(--ink); font-variant-numeric: tabular-nums; }
+@media (max-width: 640px) {
+  .meter { grid-template-columns: minmax(0, 1fr) auto; }
+  .meter-name { grid-row: 1; grid-column: 1 / 3; }
+  .meter-track { grid-row: 2; grid-column: 1; }
+  .meter-value { grid-row: 2; grid-column: 2; }
+}
 @media (max-width: 1100px) {
   .controls { position: static; }
   tbody tr.task { scroll-margin-top: 12px; }
@@ -117,6 +138,12 @@ footer { color: var(--muted); font-size: 13px; padding: 0 0 40px; }
 <header class="wrap">
   <h1 data-i18n="title"></h1>
   <p class="lede" data-i18n="lede"></p>
+  <section class="board" id="board" aria-labelledby="board-title">
+    <h2 id="board-title" data-i18n="boardTitle"></h2>
+    <p class="sub" id="board-sub"></p>
+    <ol class="meters" id="board-list"></ol>
+    <div class="board-tip" id="board-tip" hidden aria-hidden="true"></div>
+  </section>
   <div class="stats" id="stats"></div>
 </header>
 <div class="controls">
@@ -177,7 +204,12 @@ footer { color: var(--muted); font-size: 13px; padding: 0 0 40px; }
       "ds_failed": "唯一一次尝试已评分，至少有一项要求未通过。",
       "ds_not-scored": "评测在观察到通过或失败之前中断，研究尚未判定原因在提交还是环境，因此既不算做对也不算做错。",
       "ds_pending": "尝试已生成，尚未在该游戏的评测主机上完成评测。",
-      "ds_not-evaluated": "该模型没有与当前题目版本一致的 E1 结果：未安排评测、已从研究中撤出，或尝试针对较早版本。"
+      "ds_not-evaluated": "该模型没有与当前题目版本一致的 E1 结果：未安排评测、已从研究中撤出，或尝试针对较早版本。",
+      boardTitle: "各模型做对率",
+      boardSub: "做对率 = 做对题数 ÷ 当前全部 {total} 道题。每个模型每道题只有一次 E1 尝试；做错、未计分、待评测和未评测都不算做对。只统计与当前题目版本一致的结果。",
+      boardValue: "{n} / {total} 道",
+      boardRow: "{name}：做对 {n} / {total} 道，{pct}",
+      boardLabel: "各模型做对率，按做对题数从高到低排列"
     },
     en: {
       title: "SWE-Game task catalogue",
@@ -197,7 +229,12 @@ footer { color: var(--muted); font-size: 13px; padding: 0 0 40px; }
       "ds_failed": "The one attempt was scored and failed at least one requirement.",
       "ds_not-scored": "The evaluation stopped before it observed a pass or a failure, and the study has not attributed the stop to the submission or to the environment, so it counts as neither solved nor failed.",
       "ds_pending": "The attempt was generated; its evaluation on the game's host has not finished yet.",
-      "ds_not-evaluated": "This model has no E1 result matching the current task version: the task was not scheduled, was withdrawn from the study, or the attempt targeted an earlier version."
+      "ds_not-evaluated": "This model has no E1 result matching the current task version: the task was not scheduled, was withdrawn from the study, or the attempt targeted an earlier version.",
+      boardTitle: "Solve rate by model",
+      boardSub: "Solve rate = tasks solved ÷ all {total} current tasks. Each model made a single E1 attempt per task; failed, not scored, pending and not evaluated outcomes all count as not solved. Only results matching the current task version count.",
+      boardValue: "{n} / {total}",
+      boardRow: "{name}: {n} of {total} tasks solved, {pct}",
+      boardLabel: "Solve rate by model, most tasks solved first"
     }
   };
   var state = { lang: /^zh/i.test(navigator.language || "") ? "zh" : "en", q: "", game: "", type: "", difficulty: "", model: "dsflash", outcome: "", open: null };
@@ -247,6 +284,51 @@ footer { color: var(--muted); font-size: 13px; padding: 0 0 40px; }
     return true;
   }
 
+  // The chart is computed here from the published per-task outcome codes alone; the payload
+  // carries no aggregate.
+  function boardRows() {
+    return MODELS.map(function (model, index) {
+      var counts = {};
+      TASKS.forEach(function (task) { var code = task[model.key].outcome; counts[code] = (counts[code] || 0) + 1; });
+      return { key: model.key, index: index, counts: counts, solved: counts.solved || 0 };
+    }).sort(function (a, b) { return b.solved - a.solved || a.index - b.index; });
+  }
+  function percent(n, total) { return (total ? (100 * n / total).toFixed(1) : "0.0") + "%"; }
+  function fill(text, values) {
+    return Object.keys(values).reduce(function (out, k) { return out.replace("{" + k + "}", values[k]); }, text);
+  }
+  function renderBoard() {
+    var total = TASKS.length;
+    document.getElementById("board-sub").textContent = fill(t("boardSub"), { total: total });
+    var list = document.getElementById("board-list");
+    list.setAttribute("aria-label", t("boardLabel"));
+    list.innerHTML = boardRows().map(function (row) {
+      var name = modelLabel(row.key);
+      var values = { name: name, n: row.solved, total: total, pct: percent(row.solved, total) };
+      return '<li class="meter" tabindex="0" data-model="' + esc(row.key) + '" aria-label="' + esc(fill(t("boardRow"), values)) + '">' +
+        '<span class="meter-name" aria-hidden="true">' + esc(name) + "</span>" +
+        '<span class="meter-track" aria-hidden="true"><span class="meter-fill" style="width:' + (total ? 100 * row.solved / total : 0) + '%"></span></span>' +
+        '<span class="meter-value" aria-hidden="true"><b>' + values.pct + "</b>" + esc(fill(t("boardValue"), values)) + "</span></li>";
+    }).join("");
+    hideTip();
+  }
+  function showTip(item) {
+    var row = boardRows().find(function (r) { return r.key === item.dataset.model; });
+    var tip = document.getElementById("board-tip");
+    var lines = Object.keys(DATA.deepseek.outcomes).filter(function (k) { return k === "solved" || row.counts[k]; });
+    tip.innerHTML = "<b>" + esc(modelLabel(row.key)) + "</b>" + lines.map(function (k) {
+      return "<div><span>" + esc(pick(DATA.deepseek.outcomes[k])) + "</span><span>" + (row.counts[k] || 0) + "</span></div>";
+    }).join("");
+    tip.hidden = false;
+    var board = document.getElementById("board");
+    var track = item.querySelector(".meter-track");
+    var bar = item.querySelector(".meter-fill");
+    var left = track.offsetLeft + bar.offsetWidth - tip.offsetWidth / 2;
+    tip.style.left = Math.max(8, Math.min(left, board.clientWidth - tip.offsetWidth - 8)) + "px";
+    tip.style.top = (item.offsetTop + item.offsetHeight + 6) + "px";
+  }
+  function hideTip() { document.getElementById("board-tip").hidden = true; }
+
   function renderStatic() {
     document.documentElement.lang = state.lang === "zh" ? "zh-CN" : "en";
     document.title = t("title");
@@ -268,6 +350,7 @@ footer { color: var(--muted); font-size: 13px; padding: 0 0 40px; }
     document.getElementById("stats").innerHTML = stats.map(function (s) {
       return '<div class="stat"><b>' + s[0] + "</b><span>" + esc(t(s[1])) + "</span></div>";
     }).join("");
+    renderBoard();
     var type = document.getElementById("type");
     type.innerHTML = '<option value="">' + esc(t("allTypes")) + "</option>" + Object.keys(DATA.types).map(function (k) {
       return '<option value="' + k + '">' + esc(pick(DATA.types[k])) + "</option>";
@@ -346,6 +429,11 @@ footer { color: var(--muted); font-size: 13px; padding: 0 0 40px; }
 
   function render() { renderStatic(); renderRows(); }
 
+  var boardList = document.getElementById("board-list");
+  boardList.addEventListener("mouseover", function (e) { var item = e.target.closest(".meter"); if (item) showTip(item); });
+  boardList.addEventListener("mouseleave", hideTip);
+  boardList.addEventListener("focusin", function (e) { var item = e.target.closest(".meter"); if (item) showTip(item); });
+  boardList.addEventListener("focusout", hideTip);
   document.getElementById("q").addEventListener("input", function (e) { state.q = e.target.value.trim(); renderRows(); });
   document.getElementById("type").addEventListener("change", function (e) { state.type = e.target.value; renderRows(); });
   document.getElementById("difficulty").addEventListener("change", function (e) { state.difficulty = e.target.value; renderRows(); });
