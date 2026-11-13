@@ -6086,9 +6086,9 @@
       "zh": "做对"
     },
     "minimax": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     },
     "opus": {
       "outcome": "solved",
