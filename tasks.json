@@ -39,6 +39,11 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "kimi": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -81,6 +86,11 @@
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
+    },
+    "kimi": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -120,6 +130,11 @@
       "zh": "做错"
     },
     "opus": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "kimi": {
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
@@ -165,6 +180,11 @@
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
+    },
+    "kimi": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -207,6 +227,11 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "kimi": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -243,6 +268,11 @@
       "zh": "做错"
     },
     "opus": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "kimi": {
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
@@ -285,6 +315,11 @@
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
+    },
+    "kimi": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -324,6 +359,11 @@
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
+    },
+    "kimi": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -363,6 +403,11 @@
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
+    },
+    "kimi": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -402,6 +447,11 @@
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
+    },
+    "kimi": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -438,6 +488,11 @@
       "zh": "做错"
     },
     "opus": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "kimi": {
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
@@ -480,6 +535,11 @@
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
+    },
+    "kimi": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -516,6 +576,11 @@
       "zh": "做错"
     },
     "opus": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    },
+    "kimi": {
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
@@ -558,6 +623,11 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "kimi": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -594,6 +664,11 @@
       "zh": "做错"
     },
     "opus": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "kimi": {
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
@@ -636,6 +711,11 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "kimi": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -672,6 +752,11 @@
       "zh": "做错"
     },
     "opus": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    },
+    "kimi": {
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
@@ -714,6 +799,11 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "kimi": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -753,6 +843,11 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "kimi": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -789,6 +884,11 @@
       "zh": "做错"
     },
     "opus": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    },
+    "kimi": {
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
@@ -833,6 +933,11 @@
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
+    },
+    "kimi": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -871,6 +976,11 @@
       "zh": "做错"
     },
     "opus": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    },
+    "kimi": {
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
@@ -915,6 +1025,11 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "kimi": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -953,6 +1068,11 @@
       "zh": "做错"
     },
     "opus": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "kimi": {
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
@@ -997,6 +1117,11 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "kimi": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -1035,6 +1160,11 @@
       "zh": "做错"
     },
     "opus": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "kimi": {
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
@@ -1079,6 +1209,11 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "kimi": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -1117,6 +1252,11 @@
       "zh": "做错"
     },
     "opus": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "kimi": {
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
@@ -1161,6 +1301,11 @@
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
+    },
+    "kimi": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -1199,6 +1344,11 @@
       "zh": "做对"
     },
     "opus": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "kimi": {
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
@@ -1243,6 +1393,11 @@
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
+    },
+    "kimi": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -1281,6 +1436,11 @@
       "zh": "做对"
     },
     "opus": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "kimi": {
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
@@ -1325,6 +1485,11 @@
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
+    },
+    "kimi": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -1363,6 +1528,11 @@
       "zh": "做错"
     },
     "opus": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    },
+    "kimi": {
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
@@ -1407,6 +1577,11 @@
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
+    },
+    "kimi": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -1445,6 +1620,11 @@
       "zh": "做错"
     },
     "opus": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "kimi": {
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
@@ -1489,6 +1669,11 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "kimi": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -1530,6 +1715,11 @@
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
+    },
+    "kimi": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -1571,6 +1761,11 @@
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
+    },
+    "kimi": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -1612,6 +1807,11 @@
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
+    },
+    "kimi": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -1653,6 +1853,11 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "kimi": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -1694,6 +1899,11 @@
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
+    },
+    "kimi": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -1732,6 +1942,11 @@
       "zh": "做错"
     },
     "opus": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    },
+    "kimi": {
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
@@ -1776,6 +1991,11 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "kimi": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -1814,6 +2034,11 @@
       "zh": "做对"
     },
     "opus": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "kimi": {
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
@@ -1858,6 +2083,11 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "kimi": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -1896,6 +2126,11 @@
       "zh": "做错"
     },
     "opus": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "kimi": {
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
@@ -1940,6 +2175,11 @@
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
+    },
+    "kimi": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -1981,6 +2221,11 @@
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
+    },
+    "kimi": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -2019,6 +2264,11 @@
       "zh": "做错"
     },
     "opus": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "kimi": {
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
@@ -2063,6 +2313,11 @@
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
+    },
+    "kimi": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -2101,6 +2356,11 @@
       "zh": "做错"
     },
     "opus": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "kimi": {
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
@@ -2145,6 +2405,11 @@
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
+    },
+    "kimi": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -2183,6 +2448,11 @@
       "zh": "做对"
     },
     "opus": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "kimi": {
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
@@ -2227,6 +2497,11 @@
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
+    },
+    "kimi": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -2265,6 +2540,11 @@
       "zh": "做错"
     },
     "opus": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "kimi": {
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
@@ -2309,6 +2589,11 @@
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
+    },
+    "kimi": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -2347,6 +2632,11 @@
       "zh": "做对"
     },
     "opus": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "kimi": {
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
@@ -2389,6 +2679,11 @@
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
+    },
+    "kimi": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -2425,6 +2720,11 @@
       "zh": "做错"
     },
     "opus": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    },
+    "kimi": {
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
@@ -2469,6 +2769,11 @@
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
+    },
+    "kimi": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -2507,6 +2812,11 @@
       "zh": "做错"
     },
     "opus": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    },
+    "kimi": {
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
@@ -2551,6 +2861,11 @@
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
+    },
+    "kimi": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -2587,6 +2902,11 @@
       "zh": "做对"
     },
     "opus": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "kimi": {
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
@@ -2629,6 +2949,11 @@
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
+    },
+    "kimi": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -2665,6 +2990,11 @@
       "zh": "做对"
     },
     "opus": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "kimi": {
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
@@ -2707,6 +3037,11 @@
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
+    },
+    "kimi": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -2743,6 +3078,11 @@
       "zh": "做对"
     },
     "opus": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "kimi": {
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
@@ -2785,6 +3125,11 @@
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
+    },
+    "kimi": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -2821,6 +3166,11 @@
       "zh": "做错"
     },
     "opus": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "kimi": {
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
@@ -2863,6 +3213,11 @@
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
+    },
+    "kimi": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -2902,6 +3257,11 @@
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
+    },
+    "kimi": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -2938,6 +3298,11 @@
       "zh": "做对"
     },
     "opus": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    },
+    "kimi": {
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
@@ -2980,6 +3345,11 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "kimi": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -3016,6 +3386,11 @@
       "zh": "做错"
     },
     "opus": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "kimi": {
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
@@ -3058,6 +3433,11 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "kimi": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -3097,6 +3477,11 @@
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
+    },
+    "kimi": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -3133,6 +3518,11 @@
       "zh": "做错"
     },
     "opus": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    },
+    "kimi": {
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
@@ -3175,6 +3565,11 @@
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
+    },
+    "kimi": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -3211,6 +3606,11 @@
       "zh": "做对"
     },
     "opus": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "kimi": {
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
@@ -3253,6 +3653,11 @@
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
+    },
+    "kimi": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -3289,6 +3694,11 @@
       "zh": "做错"
     },
     "opus": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "kimi": {
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
@@ -3334,6 +3744,11 @@
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
+    },
+    "kimi": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -3376,6 +3791,11 @@
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
+    },
+    "kimi": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -3415,6 +3835,11 @@
       "zh": "做对"
     },
     "opus": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "kimi": {
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
@@ -3460,6 +3885,11 @@
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
+    },
+    "kimi": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -3502,6 +3932,11 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "kimi": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -3541,6 +3976,11 @@
       "zh": "做对"
     },
     "opus": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "kimi": {
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
@@ -3586,6 +4026,11 @@
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
+    },
+    "kimi": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -3625,6 +4070,11 @@
       "zh": "做对"
     },
     "opus": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "kimi": {
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
@@ -3670,6 +4120,11 @@
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
+    },
+    "kimi": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -3709,6 +4164,11 @@
       "zh": "做错"
     },
     "opus": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "kimi": {
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
@@ -3754,6 +4214,11 @@
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
+    },
+    "kimi": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -3793,6 +4258,11 @@
       "zh": "做对"
     },
     "opus": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "kimi": {
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
@@ -3838,6 +4308,11 @@
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
+    },
+    "kimi": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -3880,6 +4355,11 @@
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
+    },
+    "kimi": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -3922,6 +4402,11 @@
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
+    },
+    "kimi": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -3961,6 +4446,11 @@
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
+    },
+    "kimi": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -3997,6 +4487,11 @@
       "zh": "做错"
     },
     "opus": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    },
+    "kimi": {
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
@@ -4039,6 +4534,11 @@
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
+    },
+    "kimi": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -4075,6 +4575,11 @@
       "zh": "做错"
     },
     "opus": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "kimi": {
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
@@ -4117,6 +4622,11 @@
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
+    },
+    "kimi": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -4156,6 +4666,11 @@
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
+    },
+    "kimi": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -4192,6 +4707,11 @@
       "zh": "做错"
     },
     "opus": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    },
+    "kimi": {
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
@@ -4234,6 +4754,11 @@
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
+    },
+    "kimi": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -4270,6 +4795,11 @@
       "zh": "做错"
     },
     "opus": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    },
+    "kimi": {
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
@@ -4312,6 +4842,11 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "kimi": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -4348,6 +4883,11 @@
       "zh": "做错"
     },
     "opus": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    },
+    "kimi": {
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
@@ -4390,6 +4930,11 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "kimi": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -4426,6 +4971,11 @@
       "zh": "做错"
     },
     "opus": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    },
+    "kimi": {
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
@@ -4471,6 +5021,11 @@
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
+    },
+    "kimi": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -4510,6 +5065,11 @@
       "zh": "做错"
     },
     "opus": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    },
+    "kimi": {
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
@@ -4555,6 +5115,11 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "kimi": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -4594,6 +5159,11 @@
       "zh": "做对"
     },
     "opus": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "kimi": {
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
@@ -4639,6 +5209,11 @@
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
+    },
+    "kimi": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -4678,6 +5253,11 @@
       "zh": "做对"
     },
     "opus": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "kimi": {
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
@@ -4723,6 +5303,11 @@
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
+    },
+    "kimi": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -4765,6 +5350,11 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "kimi": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -4804,6 +5394,11 @@
       "zh": "做错"
     },
     "opus": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    },
+    "kimi": {
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
@@ -4851,6 +5446,11 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "kimi": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -4892,6 +5492,11 @@
       "zh": "做错"
     },
     "opus": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "kimi": {
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
@@ -4939,6 +5544,11 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "kimi": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -4983,6 +5593,11 @@
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
+    },
+    "kimi": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -5024,6 +5639,11 @@
       "zh": "做错"
     },
     "opus": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "kimi": {
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
@@ -5069,6 +5689,11 @@
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
+    },
+    "kimi": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -5108,6 +5733,11 @@
       "zh": "做错"
     },
     "opus": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "kimi": {
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
@@ -5153,6 +5783,11 @@
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
+    },
+    "kimi": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -5192,6 +5827,11 @@
       "zh": "做对"
     },
     "opus": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "kimi": {
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
@@ -5237,6 +5877,11 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "kimi": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -5279,6 +5924,11 @@
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
+    },
+    "kimi": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -5318,6 +5968,11 @@
       "zh": "做错"
     },
     "opus": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    },
+    "kimi": {
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
@@ -5363,6 +6018,11 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "kimi": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -5402,6 +6062,11 @@
       "zh": "做错"
     },
     "opus": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    },
+    "kimi": {
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
@@ -5447,6 +6112,11 @@
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
+    },
+    "kimi": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -5483,6 +6153,11 @@
       "zh": "做错"
     },
     "opus": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    },
+    "kimi": {
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
@@ -5525,6 +6200,11 @@
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
+    },
+    "kimi": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -5564,6 +6244,11 @@
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
+    },
+    "kimi": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -5603,6 +6288,11 @@
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
+    },
+    "kimi": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -5639,6 +6329,11 @@
       "zh": "做错"
     },
     "opus": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    },
+    "kimi": {
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
@@ -5681,6 +6376,11 @@
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
+    },
+    "kimi": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -5717,6 +6417,11 @@
       "zh": "做错"
     },
     "opus": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
+    },
+    "kimi": {
       "outcome": "failed",
       "en": "Failed",
       "zh": "做错"
@@ -5759,6 +6464,11 @@
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
+    },
+    "kimi": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -5798,6 +6508,11 @@
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
+    },
+    "kimi": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -5837,6 +6552,11 @@
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
+    },
+    "kimi": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -5881,6 +6601,11 @@
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
+    },
+    "kimi": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -5923,6 +6648,11 @@
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
+    },
+    "kimi": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -5967,6 +6697,11 @@
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
+    },
+    "kimi": {
+      "outcome": "failed",
+      "en": "Failed",
+      "zh": "做错"
     }
   },
   {
@@ -6008,6 +6743,11 @@
       "zh": "做错"
     },
     "opus": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
+    },
+    "kimi": {
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
@@ -6055,6 +6795,11 @@
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
+    },
+    "kimi": {
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   },
   {
@@ -6094,6 +6839,11 @@
       "outcome": "solved",
       "en": "Solved",
       "zh": "做对"
+    },
+    "kimi": {
+      "outcome": "not-evaluated",
+      "en": "Not evaluated",
+      "zh": "未评测"
     }
   }
 ]
