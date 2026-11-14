@@ -2,8 +2,8 @@ Third-party material in this site
 
 Model icons: LobeHub Icons, npm package @lobehub/icons-static-svg 1.98.0
 (files claude-color.svg, deepseek-color.svg, kimi-color.svg, minimax-color.svg,
-openai.svg and qwen-color.svg). The page embeds them inline without their title,
-size and style attributes; their drawing is unchanged.
+openai.svg, qwen-color.svg and zhipu-color.svg). The page embeds them inline without
+their title, size and style attributes; their drawing is unchanged.
 The names and logos are trademarks of their owners and identify the models only;
 they do not imply endorsement.
 
