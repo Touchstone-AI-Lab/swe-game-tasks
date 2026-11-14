@@ -7586,14 +7586,14 @@
       "zh": "做对"
     },
     "kimi": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     },
     "glm": {
-      "outcome": "not-evaluated",
-      "en": "Not evaluated",
-      "zh": "未评测"
+      "outcome": "solved",
+      "en": "Solved",
+      "zh": "做对"
     }
   }
 ]
